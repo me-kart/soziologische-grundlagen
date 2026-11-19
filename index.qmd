@@ -1,0 +1,99 @@
+---
+title: "Seminarüberblick"
+subtitle: "1.10.1 Soziologische Grundlagen · Soziale Arbeit (B. A.), OTH Regensburg · SoSe 2026 · Gruppe Freitag"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage der Lehrveranstaltung
+Wie entsteht und funktioniert Gesellschaft, wie werden Menschen zu Mitgliedern dieser Gesellschaft, und was bedeutet dieses Wissen für die Soziale Arbeit?
+:::
+
+## Worum es geht
+
+Die Lehrveranstaltung führt in die Grundlagen der Soziologie ein. Sie klärt, was Soziologie ist, unter welchen historischen Bedingungen sie entstanden ist und mit welchen Theorien sie Gesellschaft beschreibt. Danach geht es um Sozialstruktur: um Kultur, Normen und Werte, um Sozialisation und Habitus, um Gruppen und Rollen. Den Abschluss bilden soziale Schichtung, soziale Ungleichheit, sozialer Wandel und Raum.
+
+Für die Soziale Arbeit ist soziologisches Wissen unverzichtbar. Ihre Adressat:innen leben in Lebenslagen, die gesellschaftlich bedingt sind. Wer diese Lagen verstehen und verändern will, muss wissen, wie sie entstehen. Drei Fragen begleiten uns deshalb durch das Semester: Was hält eine Gesellschaft zusammen? Wie prägt Gesellschaft den Einzelnen und wie gestaltet der Einzelne Gesellschaft mit? Und welche Verantwortung folgt daraus für die professionelle Praxis?
+
+## Lernziele
+
+Nach der Lehrveranstaltung können Sie
+
+- eine grundlegende Definition von Soziologie wiedergeben und ihre Bedeutung in modernen Gesellschaften erklären,
+- die wichtigsten historischen Meilensteine der Soziologie und ihre Gründerfiguren benennen,
+- zentrale Gesellschaftstheorien, ihre Vertreter und ihre Kernaussagen unterscheiden,
+- erläutern, wie Identität, Sozialisation und Habitus den Einzelnen mit der Gesellschaft verbinden,
+- soziologische Erkenntnisse auf Fragen und Probleme der Sozialen Arbeit anwenden.
+
+## Die Sitzungen
+
+Sitzungen mit Link sind im Skript bereits ausgearbeitet. Die übrigen Seiten folgen im Laufe des Semesters.
+
+::: {.block-card .block-1}
+[Block I · Sitzungen 1–4]{.block-badge}
+
+### Einführung und Gesellschaftstheorien
+
+**Schwerpunkt:** Was Soziologie ist, wie sie entstanden ist und wie Sozialkonstruktivismus, Systemtheorie, Historischer Materialismus und Kritische Theorie Gesellschaft beschreiben.
+
+1. [Organisatorisches und Einführung: Was ist Soziologie?](sitzungen/01-einfuehrung.qmd) · 20.03.2026
+2. [Gesellschaftstheorien I: Sozialkonstruktivismus (P. L. Berger und T. Luckmann)](sitzungen/02-sozialkonstruktivismus.qmd) · 27.03.2026
+3. [Gesellschaftstheorien II: Die Gesellschaft aus der Perspektive der Systemtheorie](sitzungen/03-systemtheorie.qmd) · 10.04.2026
+4. Gesellschaftstheorien III: Historischer Materialismus (K. Marx) und Kritische Theorie (T. W. Adorno, M. Horkheimer) · 17.04.2026
+:::
+
+Am 24.04.2026 entfällt die Sitzung.
+
+::: {.block-card .block-2}
+[Block II · Sitzungen 6–8]{.block-badge}
+
+### Sozialstruktur
+
+**Schwerpunkt:** Wie Kultur, Normen und Werte, Sozialisation und Habitus sowie Gruppen und Rollen das Zusammenleben ordnen.
+
+6. Sozialstruktur I: Kultur, Normen und Werte · 08.05.2026
+7. [Sozialstruktur II: Identität, Sozialisation und Habitus](sitzungen/07-sozialisation-habitus.qmd) · 22.05.2026
+8. Sozialstruktur III: Gruppen und soziale Rolle · 29.05.2026
+:::
+
+::: {.block-card .block-3}
+[Block III · Sitzungen 9–11]{.block-badge}
+
+### Schichtung und Ungleichheit
+
+**Schwerpunkt:** Wie Gesellschaften vertikal gegliedert sind und wie Ungleichheit entsteht und weitergegeben wird.
+
+9. Soziale Schichtung: Klassen, Schichten, soziale Milieus · 12.06.2026
+10. Soziale Ungleichheit: Dimensionen sozialer Ungleichheit; Macht, Abhängigkeit und soziale Dynamik (N. Elias) · 19.06.2026
+11. Soziale Bildungsungleichheit · 26.06.2026
+:::
+
+::: {.block-card .block-4}
+[Block IV · Sitzungen 12–13]{.block-badge}
+
+### Wandel und Raum
+
+**Schwerpunkt:** Wie sich Gesellschaften wandeln und wie sich soziale Unterschiede im Raum zeigen.
+
+12. Sozialer Wandel und Globalisierung: Moderne, Postmoderne, Migration, Digitalisierung · 03.07.2026
+13. Stadt- und Landsoziologie: Raum, Segregation, soziale Exklusion · 10.07.2026
+:::
+
+## Prüfung
+
+Die Lehrveranstaltung schließt mit einer **Portfolioprüfung** aus drei Teilen ab:
+
+1. **Rolle als Expert:in in einer Sitzung.** Jede:r Studierende übernimmt einmal die Rolle der Expertin oder des Experten zu einem Thema (ab der 2. oder 3. Sitzung). Expert:innen sind während der gesamten Sitzung thematische Ansprechpersonen: Sie beantworten Fragen, bringen sich in Diskussionen ein und unterstützen die Erarbeitung des Themas. Ein vorbereiteter Input ist nicht verpflichtend, Eigeninitiative ist aber ausdrücklich erwünscht.
+2. **Stundenprotokoll.** In der Woche nach der eigenen Expert:innen-Sitzung verfassen Sie ein einseitiges Protokoll, das die Inhalte dokumentiert und zugleich reflektiert (Abgabe über ELO).
+3. **Kurzpaper.** Zum Abschluss verfassen Sie ein Kurzpaper von ca. fünf Seiten zu Ihrem Expert:innenthema, möglichst mit Bezug zur Sozialen Arbeit. Das Kurzpaper wird benotet und zählt doppelt. **Abgabe: 09.07.2026.**
+
+Alle drei Teile müssen erfolgreich absolviert werden, damit das Portfolio bestanden ist.
+
+## Grundlagenliteratur
+
+- Hurrelmann, Klaus/Bauer, Ullrich (2020): Einführung in die Sozialisationstheorie. Das Modell der produktiven Realitätsverarbeitung. 13. Aufl. Weinheim/Basel: Beltz.
+- Pries, Ludger (2019): Soziologie. Schlüsselbegriffe – Herangehensweisen – Perspektiven. 2. Aufl. Weinheim/Basel: Beltz Juventa.
+- Schäfers, Bernhard (Hrsg.) (2003): Grundbegriffe der Soziologie. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+## Kontakt
+
+Prof. Dr. Mehmet Kart · <mehmet.kart@oth-regensburg.de> · Tel. +49 941 943 70415 · Sprechstunde nach Vereinbarung. Fragen sind immer willkommen, in der Veranstaltung, per Mail oder in der Sprechstunde.

@@ -1,0 +1,25 @@
+<!-- Aufklappbare Theorie-Erläuterungen auf den Sitzungsseiten.
+     Ein Eintrag [Name]{.theory-link data-theory="x"} öffnet den Kasten ::: {#theory-x .theory-panel}. -->
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const links = document.querySelectorAll(".theory-link");
+  const panels = document.querySelectorAll(".theory-panel");
+  const open = (id, link) => {
+    panels.forEach(p => p.classList.toggle("open", p.id === "theory-" + id));
+    links.forEach(l => { const on = l === link; l.classList.toggle("active", on); l.setAttribute("aria-expanded", on); });
+    const p = document.getElementById("theory-" + id);
+    if (p) p.scrollIntoView({ behavior: "smooth", block: "start" });
+  };
+  links.forEach(l => {
+    l.setAttribute("role", "button"); l.setAttribute("tabindex", "0"); l.setAttribute("aria-expanded", "false");
+    l.addEventListener("click", () => open(l.dataset.theory, l));
+    l.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(l.dataset.theory, l); } });
+  });
+  panels.forEach(p => {
+    const b = document.createElement("button");
+    b.type = "button"; b.className = "theory-close"; b.textContent = "Schließen ×";
+    b.addEventListener("click", () => { p.classList.remove("open"); links.forEach(l => { l.classList.remove("active"); l.setAttribute("aria-expanded", "false"); }); });
+    p.prepend(b);
+  });
+});
+</script>

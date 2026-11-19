@@ -1,0 +1,348 @@
+/*-- scss:defaults --*/
+// Corporate Design OTH Regensburg (Stand: Website 2026)
+// Schwarz als Hauptfarbe, Schrift Outfit, Graublau-Flächen,
+// Grün der Fakultät Sozial- und Gesundheitswissenschaften als Akzent.
+$oth-black:   #000000 !default;
+$success: #008c49 !default;
+$oth-dark:    #191919 !default;
+$oth-slate:   #334155 !default;
+$oth-slate-7: #64748b !default;
+$oth-slate-4: #cbd5e1 !default;
+$oth-slate-1: #f1f5f9 !default;
+$fak-green:   #008c49 !default;
+
+$primary: $oth-black !default;
+$link-color: $oth-black !default;
+$body-color: $oth-black !default;
+$headings-color: $oth-black !default;
+$font-family-sans-serif: "Outfit", "Segoe UI", Helvetica, Arial, sans-serif !default;
+$headings-font-weight: 700 !default;
+$border-radius: 0 !default;
+$border-radius-sm: 0 !default;
+$border-radius-lg: 0 !default;
+
+/*-- scss:rules --*/
+// Schrift Outfit: lokal eingebunden über fonts/outfit.css (SIL Open Font License)
+
+body { line-height: 1.6; }
+
+// Links: schwarz, grüne Unterstreichung
+a {
+  text-decoration: underline;
+  text-decoration-color: $fak-green;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  &:hover { color: $fak-green; }
+}
+
+// Seitentitel mit kurzem schwarzen Strich darüber, wie auf oth-regensburg.de
+.quarto-title h1.title, h1.title {
+  font-weight: 700;
+  &::before {
+    content: "";
+    display: block;
+    width: 3px;
+    height: 2.2rem;
+    background: $oth-black;
+    margin-bottom: 1rem;
+  }
+}
+.quarto-title .subtitle { color: $oth-slate-7; font-weight: 300; }
+h2 { font-weight: 300; border-bottom: 1px solid $oth-slate-4; }
+h3, h4 { font-weight: 700; }
+
+// Seitenleiste: Graublau, Titel mit grünem Balken (Fakultätsfarbe)
+#quarto-sidebar {
+  background: $oth-slate-1;
+  .sidebar-title {
+    font-weight: 700;
+    &::after {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 5px;
+      background: $fak-green;
+      margin-top: .7rem;
+    }
+  }
+  .sidebar-item a { text-decoration: none; }
+  .sidebar-link.active {
+    font-weight: 700;
+    color: $oth-black;
+    border-left: 3px solid $fak-green;
+    padding-left: .5rem;
+  }
+}
+.sidebar-search .aa-Form, #quarto-search .aa-Form { border-radius: 0; }
+
+// Inhaltsverzeichnis rechts
+#TOC .nav-link.active, #TOC a.active { color: $oth-black; border-left-color: $fak-green; font-weight: 600; }
+#TOC a { text-decoration: none; }
+
+// Fußzeile
+.nav-footer { background: $oth-slate-1; color: $oth-slate; border-top: 1px solid $oth-slate-4; }
+
+// Hinweiskästen eckig, mit Akzentlinie
+.callout { border-radius: 0 !important; }
+.callout.callout-style-simple { border-left-width: 4px !important; }
+
+// Lernspiele: dezenter Rahmen, volle Breite
+iframe.lernspiel {
+  width: 100%;
+  border: 1px solid $oth-slate-4;
+  border-radius: 0;
+  min-height: 320px;
+  display: block;
+}
+
+// Platzhalter-Hinweise aus der Vorlage sichtbar machen, solange sie noch da sind
+.ersetzen {
+  background: #fff4d6;
+  border-left: 4px solid #e0a400;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.9em;
+  margin: 0.6rem 0;
+}
+
+// Willkommensseite: Titelbild mit Schraffur-Rahmen (OTH-Bildstil)
+.oth-frame {
+  position: relative;
+  margin: 1rem 0 2rem 14px;
+  &::before {
+    content: "";
+    position: absolute;
+    left: -14px; bottom: -14px;
+    width: 100%; height: 100%;
+    background: repeating-linear-gradient(-45deg, $oth-black 0 1px, transparent 1px 7px);
+    z-index: 0;
+  }
+  p { margin: 0; position: relative; z-index: 1; }
+  img.welcome-banner { display: block; width: 100%; height: auto; margin: 0; }
+}
+
+// Karten für die vier Seiten
+.welcome-cards { margin: 1rem 0 1.5rem; }
+.welcome-card {
+  background: $oth-slate-1;
+  border: 0;
+  border-top: 5px solid $fak-green;
+  padding: 1rem 1.1rem 0.4rem;
+  transition: box-shadow .15s ease, transform .15s ease;
+  p { margin-bottom: 0.5rem; }
+  strong a { text-decoration: none; }
+  &:hover { box-shadow: 0 6px 18px rgba(0, 0, 0, .12); transform: translateY(-2px); }
+}
+.welcome-icon {
+  font-size: 1.8rem;
+  color: $fak-green;
+  line-height: 1;
+}
+
+// Tipp-Kästen (Lernspiele) in Fakultätsgrün statt Bootstrap-Grün
+div.callout-tip.callout { border-left-color: $fak-green !important; }
+div.callout-tip .callout-icon::before, div.callout-tip .callout-title { color: $fak-green; }
+.welcome-card strong a { font-weight: 700; }
+
+// Key Terms: aufklappbare Begriffe
+.term-tools {
+  display: flex; gap: .5rem; margin: 1rem 0 .5rem;
+  button {
+    font: inherit; font-size: .9rem;
+    background: #fff; color: $oth-black;
+    border: 1px solid $oth-black; padding: .3rem .9rem; cursor: pointer;
+    &:hover, &:focus-visible { background: $oth-black; color: #fff; }
+  }
+}
+details.term {
+  background: $oth-slate-1;
+  border-left: 4px solid $oth-slate-4;
+  margin: .5rem 0;
+  transition: border-color .15s ease;
+  &[open] { border-left-color: $fak-green; background: #fff; box-shadow: 0 0 0 1px $oth-slate-4 inset; }
+  > summary {
+    list-style: none;
+    cursor: pointer;
+    padding: .7rem 1rem;
+    font-weight: 600;
+    color: $oth-black;
+    font-size: 1.1rem;
+    display: flex; justify-content: space-between; align-items: center;
+    &::-webkit-details-marker { display: none; }
+    &::after {
+      content: "+";
+      font-weight: 300; font-size: 1.6rem; line-height: 1;
+      color: $fak-green;
+      margin-left: 1rem;
+    }
+    &:hover { color: $fak-green; }
+    &:focus-visible { outline: 2px solid $fak-green; outline-offset: 2px; }
+  }
+  &[open] > summary::after { content: "\2212"; }
+  > :not(summary) { margin-left: 1rem; margin-right: 1rem; }
+  > p:last-child, > div:last-child { margin-bottom: 1rem; }
+}
+.confused {
+  background: $oth-slate-1;
+  border-left: 3px solid $oth-black;
+  padding: .5rem .8rem;
+  font-size: .95rem;
+  margin-bottom: 1rem;
+  p { margin: 0; }
+}
+
+// Seitenleiste: Teile und Kapitel hervorheben
+#quarto-sidebar .sidebar-item-section > .sidebar-item-container .sidebar-item-text {
+  font-weight: 600;
+  color: $oth-black;
+}
+.quarto-page-breadcrumbs a, .breadcrumb a { text-decoration: none; }
+
+// Platzhalter für Kapitel in Vorbereitung
+.placeholder {
+  background: $oth-slate-1;
+  border-left: 4px solid $oth-slate-4;
+  padding: .6rem 1rem;
+  color: $oth-slate;
+  margin: 1rem 0 1.5rem;
+  p { margin: 0; }
+}
+.placeholder-inline { color: $oth-slate-7; font-style: italic; }
+
+// Kompakte Gliederung auf Kapitelseiten in Vorbereitung
+.outline > ul { list-style: none; padding-left: 0; border-top: 1px solid $oth-slate-4; }
+.outline > ul > li {
+  padding: .45rem 0;
+  border-bottom: 1px solid $oth-slate-4;
+  strong { display: inline-block; min-width: 3.2rem; }
+}
+.outline ul ul { margin: .3rem 0 0 3.2rem; color: $oth-slate; font-size: .95rem; }
+
+// Sitzungsseiten
+.session-box {
+  background: $oth-slate-1;
+  border-top: 5px solid $fak-green;
+  padding: .9rem 1.1rem .3rem;
+  h4 { margin-top: 0; font-size: 1.05rem; font-weight: 700; }
+  ul { padding-left: 1.1rem; }
+}
+.callout.callout-style-simple h3 { margin-top: 0; font-size: 1rem; font-weight: 700; }
+div.callout-note.callout { border-left-color: $fak-green !important; }
+
+// Seminar-Übersicht: zwei Blöcke
+.block-card {
+  border: 1px solid $oth-slate-4;
+  border-left: 5px solid $oth-black;
+  padding: 1rem 1.3rem .4rem;
+  margin: 1rem 0 1.4rem;
+  h3 { margin-top: .4rem; font-size: 1.25rem; font-weight: 700; border: 0; }
+  ol { margin-bottom: .6rem; }
+  li { margin: .15rem 0; }
+  li a { text-decoration-thickness: 1px; }
+}
+.block-card.block-2 { border-left-color: $fak-green; }
+.block-badge {
+  display: inline-block;
+  font-size: .8rem; font-weight: 600;
+  padding: .1rem .6rem;
+  background: $oth-slate-1; color: $oth-black;
+}
+.block-2 .block-badge { background: #e3f3ea; color: $fak-green; }
+
+// Anklickbare Theorien und Erläuterungskästen
+.theory-hint { display: block; font-size: .85rem; color: $oth-slate-7; margin-bottom: .4rem; }
+.theory-link {
+  cursor: pointer;
+  border-bottom: 2px solid $fak-green;
+  &:hover, &:focus-visible { color: $fak-green; outline: none; }
+  &.active { font-weight: 700; color: $fak-green; }
+}
+.theory-panel {
+  display: none;
+  position: relative;
+  border: 1px solid $oth-slate-4;
+  border-top: 5px solid $fak-green;
+  padding: 1rem 1.4rem .6rem;
+  margin: 1.2rem 0 1.5rem;
+  &.open { display: block; }
+  h3 { margin-top: 0; padding-right: 5rem; border: 0; font-weight: 700; font-size: 1.3rem; }
+  p, li { font-size: .97rem; }
+}
+.theory-close {
+  position: absolute; top: .8rem; right: 1rem; z-index: 5;
+  font: inherit; font-size: .85rem;
+  background: #fff; border: 1px solid $oth-black; padding: .15rem .6rem; cursor: pointer;
+  &:hover { background: $oth-black; color: #fff; }
+}
+
+// Zeitleiste (Kapitel 1.2)
+.timeline {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.2rem;
+  margin: 2rem 0 1rem;
+  position: relative;
+  &::before {               // waagerechte Linie durch die Punkte
+    content: ""; position: absolute; left: 0; right: 0; top: .55rem;
+    height: 3px; background: $oth-slate-4;
+  }
+}
+.tl-item {
+  position: relative;
+  padding-top: 1.8rem;
+  &::before {               // Punkt auf der Linie
+    content: ""; position: absolute; top: 0; left: 0;
+    width: 1.15rem; height: 1.15rem; border-radius: 50%;
+    background: #fff; border: 4px solid $fak-green;
+  }
+  p { margin-bottom: .45rem; font-size: .95rem; line-height: 1.45; }
+  strong { display: block; font-size: 1rem; line-height: 1.3; }
+}
+.tl-year { display: inline-block; font-size: 1.9rem; font-weight: 700; color: $fak-green; line-height: 1; margin-right: .5rem; }
+.tl-level {
+  display: inline-block; font-size: .72rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase;
+  color: $oth-slate; background: $oth-slate-1; padding: .1rem .45rem; vertical-align: middle;
+}
+.tl-questions {
+  background: $oth-slate-1;
+  border-left: 4px solid $oth-black;
+  padding: .7rem 1rem;
+  margin: .5rem 0 1.5rem;
+  font-style: italic;
+  p { margin: 0; }
+  strong { font-style: normal; }
+}
+@media (max-width: 767.98px) {
+  .timeline {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding-left: 1.8rem;
+    &::before { left: .5rem; right: auto; top: 0; bottom: 0; width: 3px; height: auto; }
+  }
+  .tl-item { padding-top: 0; &::before { left: -1.8rem; top: .45rem; } }
+}
+
+// Dritter Block in der Seminarübersicht
+.block-card.block-3 { border-left-color: $oth-slate; }
+.block-3 .block-badge { background: $oth-slate-1; color: $oth-slate; }
+
+// Vierter Block (Soziale Ungleichheit)
+.block-card.block-4 { border-left-color: $oth-slate-7; }
+.block-4 .block-badge { background: #e3f3ea; color: $oth-black; }
+
+// Rechenbeispiele
+.rechnung {
+  border: 1px dashed $oth-slate-4;
+  background: $oth-slate-1;
+  padding: .7rem 1rem;
+  margin: 1rem 0 1.5rem;
+  p:last-child { margin-bottom: 0; }
+}
+
+// Merksatz-Kasten „Für die Praxis heißt das“
+.praxis {
+  background: #e3f3ea;
+  border-left: 4px solid $fak-green;
+  padding: .7rem 1rem;
+  margin: 1rem 0 1.5rem;
+  p { margin: 0; }
+}

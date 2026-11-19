@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Memory: Grundbegriffe der Soziologie</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #1d1d1d;
+    background: #ffffff;
+  }
+  .rahmen { max-width: 960px; margin: 0 auto; padding: 12px; }
+  h1 { font-size: 1.3rem; margin: 0 0 .2rem; }
+  .untertitel { margin: 0 0 .6rem; color: #444; font-size: .95rem; }
+  .anleitung { margin: 0 0 .8rem; font-size: .95rem; }
+  .status {
+    display: flex; flex-wrap: wrap; gap: .3rem 1.2rem;
+    margin: 0 0 .6rem; font-weight: 600; font-size: .95rem;
+  }
+  .rueckmeldung {
+    min-height: 3em;
+    margin: 0 0 .8rem;
+    padding: .6rem .7rem;
+    border-left: 4px solid #2f4a6d;
+    background: #eef2f7;
+    font-size: .95rem;
+    overflow-wrap: anywhere;
+  }
+  .raster {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 8px;
+    margin: 0 0 1rem;
+  }
+  .karte {
+    display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;
+    gap: .3rem;
+    min-height: 7.5rem;
+    width: 100%;
+    padding: .55rem .6rem;
+    border: 2px solid #2f4a6d;
+    border-radius: 6px;
+    background: #2f4a6d;
+    color: #ffffff;
+    font: inherit;
+    font-size: .88rem;
+    text-align: left;
+    cursor: pointer;
+    overflow-wrap: anywhere;
+    hyphens: auto;
+  }
+  .karte.verdeckt { align-items: center; justify-content: center; }
+  .karte .nummer { font-size: 1.1rem; font-weight: 700; }
+  .karte.offen { background: #f6f6f6; color: #1d1d1d; border-color: #555; }
+  .karte.gefunden { background: #e7f3ea; color: #1d1d1d; border-color: #2e6b3a; cursor: default; }
+  .karte .art {
+    font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #555;
+  }
+  .karte.gefunden .art { color: #2e6b3a; }
+  .karte .txt { font-weight: 500; }
+  .karte .marke { margin-top: auto; font-size: .78rem; font-weight: 700; color: #2e6b3a; }
+  .karte:focus-visible, button:focus-visible { outline: 3px solid #d9822b; outline-offset: 2px; }
+  .ende {
+    margin: 0 0 1rem; padding: .8rem; border: 2px solid #2e6b3a; border-radius: 6px; background: #f3faf4;
+  }
+  .ende p { margin: 0 0 .6rem; font-weight: 600; }
+  .knopf {
+    font: inherit; font-weight: 600;
+    padding: .55rem 1rem;
+    border: 2px solid #2f4a6d; border-radius: 6px;
+    background: #2f4a6d; color: #ffffff; cursor: pointer;
+  }
+  h2 { font-size: 1.05rem; margin: 0 0 .5rem; }
+  .liste { margin: 0; padding: 0; }
+  .liste dt { font-weight: 700; margin-top: .5rem; }
+  .liste dd { margin: .1rem 0 0; overflow-wrap: anywhere; }
+  .versteckt { display: none; }
+</style>
+</head>
+<body>
+<script>
+/* ===== DATEN: Nur diesen Block ändern ===== */
+const DATEN = {
+  "titel": "Memory: Grundbegriffe der Soziologie",
+  "untertitel": "Soziologische Grundlagen – zentrale Begriffe",
+  "anleitung": "Decken Sie jeweils zwei Karten auf und ordnen Sie jedem Begriff seine Definition zu. Passen die Karten nicht zusammen, werden sie beim nächsten Klick wieder umgedreht.",
+  "texte": {
+    "karte": "Karte",
+    "verdeckt": "verdeckt",
+    "aufgedeckt": "aufgedeckt",
+    "begriff": "Begriff",
+    "definition": "Definition",
+    "gefunden": "Paar gefunden",
+    "versuche": "Versuche",
+    "paare": "Gefundene Paare",
+    "von": "von",
+    "start": "Wählen Sie eine erste Karte.",
+    "ersteKarte": "Aufgedeckt: {art} „{text}“. Wählen Sie nun eine zweite Karte.",
+    "richtig": "Richtig: Die Definition beschreibt „{begriff}“: {definition}",
+    "falsch": "Kein Paar: Diese Definition beschreibt nicht „{begriff}“. Achtung: {begriff} wird {verwechslung}.",
+    "zweiBegriffe": "Kein Paar: Sie haben zwei Begriffe aufgedeckt, ein Paar besteht aber immer aus Begriff und Definition.",
+    "zweiDefinitionen": "Kein Paar: Sie haben zwei Definitionen aufgedeckt, ein Paar besteht aber immer aus Begriff und Definition.",
+    "fertig": "Geschafft: Sie haben alle {anzahl} Paare in {versuche} Versuchen gefunden.",
+    "neuMischen": "Neu mischen",
+    "gemischt": "Die Karten wurden neu gemischt; alle Karten sind verdeckt.",
+    "listeTitel": "Gefundene Paare"
+  },
+  "paare": [
+    {
+      "begriff": "Soziales Handeln",
+      "definition": "Handeln, das seinem gemeinten Sinn nach auf das Verhalten anderer bezogen ist.",
+      "verwechslung": "oft mit jedem beliebigen Verhalten gleichgesetzt, auch wenn es keinen Bezug zu anderen hat"
+    },
+    {
+      "begriff": "Soziale Tatsache",
+      "definition": "Gesellschaftliche Gegebenheit wie Norm oder Recht, die unabhängig vom Einzelnen besteht und auf ihn einwirkt.",
+      "verwechslung": "oft für eine bloße persönliche Meinung gehalten, obwohl sie von außen auf den Einzelnen wirkt"
+    },
+    {
+      "begriff": "Vergemeinschaftung",
+      "definition": "Formen des Zusammenlebens, die auf Nähe, Zugehörigkeit und persönlicher Bindung beruhen.",
+      "verwechslung": "oft mit Vergesellschaftung verwechselt, die auf Zwecken, Regeln und Organisation beruht"
+    },
+    {
+      "begriff": "Habitualisierung",
+      "definition": "Wiederholte Handlungen werden zu Gewohnheiten, die entlasten und geteiltes Wissen erzeugen.",
+      "verwechslung": "oft mit Institutionalisierung gleichgesetzt, obwohl erst die Weitergabe Gewohnheiten zu Institutionen verfestigt"
+    },
+    {
+      "begriff": "Thomas-Theorem",
+      "definition": "Wenn Menschen Situationen als wirklich definieren, sind sie in ihren Folgen wirklich.",
+      "verwechslung": "oft so verstanden, als sei jede Deutung beliebig, obwohl es gerade um reale Folgen geht"
+    },
+    {
+      "begriff": "Autopoiesis",
+      "definition": "Ein System erzeugt und erhält sich selbst durch seine eigenen Operationen, bei Luhmann durch Kommunikation.",
+      "verwechslung": "oft mit völliger Abschottung verwechselt, obwohl Systeme strukturell an ihre Umwelt gekoppelt sind"
+    },
+    {
+      "begriff": "Binärer Code",
+      "definition": "Gegensatzpaar wie Recht/Unrecht, mit dem ein Funktionssystem entscheidet, was für es relevant ist.",
+      "verwechslung": "oft mit der Funktion des Systems verwechselt, also seiner Aufgabe für die Gesellschaft"
+    },
+    {
+      "begriff": "Generalisierter Anderer",
+      "definition": "Verinnerlichte Erwartungen, Normen und Werte einer Gruppe oder der Gesellschaft insgesamt.",
+      "verwechslung": "oft mit den signifikanten Anderen verwechselt, also einzelnen engen Bezugspersonen"
+    },
+    {
+      "begriff": "Habitus",
+      "definition": "Dauerhafte, verinnerlichte Denk-, Wahrnehmungs- und Handlungsmuster, geprägt durch die soziale Position.",
+      "verwechslung": "oft für eine angeborene Persönlichkeitseigenschaft gehalten, obwohl er sozial erworben ist"
+    },
+    {
+      "begriff": "Sekundäre Sozialisation",
+      "definition": "Erwerb spezifischer Kompetenzen und Normen in Kita, Schule, Ausbildung oder Beruf.",
+      "verwechslung": "oft mit primärer Sozialisation verwechselt, also dem Erwerb von Sprache und Grundfähigkeiten in der Familie"
+    }
+  ]
+};
+/* ===== ENDE DATEN ===== */
+</script>
+
+<main class="rahmen">
+  <h1 id="titel"></h1>
+  <p class="untertitel" id="untertitel"></p>
+  <p class="anleitung" id="anleitung"></p>
+  <div class="status" id="status"></div>
+  <div class="rueckmeldung" id="rueckmeldung" aria-live="polite" role="status"></div>
+  <div class="raster" id="raster"></div>
+  <section class="ende versteckt" id="ende">
+    <p id="endetext"></p>
+    <button type="button" class="knopf" id="neuMischen"></button>
+  </section>
+  <section id="listeBereich" class="versteckt">
+    <h2 id="listeTitel"></h2>
+    <dl class="liste" id="liste"></dl>
+  </section>
+</main>
+
+<script>
+(function () {
+  "use strict";
+  var T = DATEN.texte;
+  var PAARE = DATEN.paare;
+
+  var raster = document.getElementById("raster");
+  var statusEl = document.getElementById("status");
+  var rueckmeldung = document.getElementById("rueckmeldung");
+  var ende = document.getElementById("ende");
+  var endetext = document.getElementById("endetext");
+  var neuKnopf = document.getElementById("neuMischen");
+  var listeBereich = document.getElementById("listeBereich");
+  var liste = document.getElementById("liste");
+
+  var karten = [];
+  var offen = [];
+  var versuche = 0;
+  var gefunden = 0;
+  var meldeTimer = null;
+
+  document.title = DATEN.titel;
+  document.getElementById("titel").textContent = DATEN.titel;
+  document.getElementById("untertitel").textContent = DATEN.untertitel;
+  document.getElementById("anleitung").textContent = DATEN.anleitung;
+  document.getElementById("listeTitel").textContent = T.listeTitel;
+  neuKnopf.textContent = T.neuMischen;
+
+  function fuelle(vorlage, werte) {
+    return vorlage.replace(/\{(\w+)\}/g, function (m, k) {
+      return Object.prototype.hasOwnProperty.call(werte, k) ? String(werte[k]) : m;
+    });
+  }
+
+  function mische(arr) {
+    for (var i = arr.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = arr[i]; arr[i] = arr[j]; arr[j] = t;
+    }
+  }
+
+  function meldeHoehe() {
+    try {
+      window.parent.postMessage({ typ: "iframe-hoehe", hoehe: document.documentElement.scrollHeight }, "*");
+    } catch (e) { /* ohne einbettende Seite nichts zu tun */ }
+  }
+
+  function melde(text) {
+    rueckmeldung.textContent = "";
+    if (meldeTimer) { clearTimeout(meldeTimer); }
+    meldeTimer = setTimeout(function () {
+      rueckmeldung.textContent = text;
+      meldeHoehe();
+    }, 50);
+  }
+
+  function artName(k) { return k.art === "begriff" ? T.begriff : T.definition; }
+
+  function zeigeStatus() {
+    statusEl.textContent = "";
+    var a = document.createElement("span");
+    a.textContent = T.versuche + ": " + versuche;
+    var b = document.createElement("span");
+    b.textContent = T.paare + ": " + gefunden + " " + T.von + " " + PAARE.length;
+    statusEl.appendChild(a);
+    statusEl.appendChild(b);
+  }
+
+  function aktualisiere(idx) {
+    var k = karten[idx];
+    var b = k.el;
+    var nr = idx + 1;
+    b.textContent = "";
+    b.className = "karte";
+    if (k.gefunden || k.offen) {
+      b.classList.add(k.gefunden ? "gefunden" : "offen");
+      var art = document.createElement("span");
+      art.className = "art";
+      art.textContent = artName(k);
+      var txt = document.createElement("span");
+      txt.className = "txt";
+      txt.lang = "de";
+      txt.textContent = k.text;
+      b.appendChild(art);
+      b.appendChild(txt);
+      if (k.gefunden) {
+        var marke = document.createElement("span");
+        marke.className = "marke";
+        marke.textContent = "✓ " + T.gefunden;
+        b.appendChild(marke);
+        b.setAttribute("aria-disabled", "true");
+        b.setAttribute("aria-label", T.karte + " " + nr + ", " + artName(k) + ": " + k.text + ", " + T.gefunden);
+      } else {
+        b.removeAttribute("aria-disabled");
+        b.setAttribute("aria-label", T.karte + " " + nr + ", " + T.aufgedeckt + ", " + artName(k) + ": " + k.text);
+      }
+    } else {
+      b.classList.add("verdeckt");
+      b.removeAttribute("aria-disabled");
+      var n = document.createElement("span");
+      n.className = "nummer";
+      n.textContent = String(nr);
+      n.setAttribute("aria-hidden", "true");
+      b.appendChild(n);
+      b.setAttribute("aria-label", T.karte + " " + nr + ", " + T.verdeckt);
+    }
+  }
+
+  function zeichneRaster() {
+    raster.textContent = "";
+    karten.forEach(function (k, idx) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.addEventListener("click", function () { klick(idx); });
+      raster.appendChild(b);
+      k.el = b;
+      aktualisiere(idx);
+    });
+  }
+
+  function fuegeInListe(p) {
+    listeBereich.classList.remove("versteckt");
+    var dt = document.createElement("dt");
+    dt.lang = "de";
+    dt.textContent = p.begriff;
+    var dd = document.createElement("dd");
+    dd.lang = "de";
+    dd.textContent = p.definition;
+    liste.appendChild(dt);
+    liste.appendChild(dd);
+  }
+
+  function bewerte() {
+    var a = karten[offen[0]];
+    var b = karten[offen[1]];
+    if (a.art === b.art) {
+      melde(a.art === "begriff" ? T.zweiBegriffe : T.zweiDefinitionen);
+      return;
+    }
+    if (a.paar === b.paar) {
+      var p = PAARE[a.paar];
+      a.gefunden = b.gefunden = true;
+      a.offen = b.offen = false;
+      var i0 = offen[0], i1 = offen[1];
+      offen = [];
+      gefunden++;
+      aktualisiere(i0);
+      aktualisiere(i1);
+      fuegeInListe(p);
+      var text = fuelle(T.richtig, { begriff: p.begriff, definition: p.definition });
+      if (gefunden === PAARE.length) {
+        var fertig = fuelle(T.fertig, { anzahl: PAARE.length, versuche: versuche });
+        endetext.textContent = fertig;
+        ende.classList.remove("versteckt");
+        melde(text + " " + fertig);
+        neuKnopf.focus();
+      } else {
+        melde(text);
+      }
+      return;
+    }
+    var begr = a.art === "begriff" ? a : b;
+    var pb = PAARE[begr.paar];
+    melde(fuelle(T.falsch, { begriff: pb.begriff, verwechslung: pb.verwechslung }));
+  }
+
+  function klick(idx) {
+    var k = karten[idx];
+    if (k.gefunden) { return; }
+    if (offen.length === 1 && offen[0] === idx) { return; }
+    if (offen.length === 2) {
+      offen.forEach(function (i) { karten[i].offen = false; aktualisiere(i); });
+      offen = [];
+    }
+    k.offen = true;
+    offen.push(idx);
+    aktualisiere(idx);
+    if (offen.length === 1) {
+      melde(fuelle(T.ersteKarte, { art: artName(k), text: k.text }));
+    } else {
+      versuche++;
+      bewerte();
+    }
+    zeigeStatus();
+    meldeHoehe();
+  }
+
+  function neuesSpiel(mitAnsage) {
+    karten = [];
+    PAARE.forEach(function (p, i) {
+      karten.push({ paar: i, art: "begriff", text: p.begriff, offen: false, gefunden: false, el: null });
+      karten.push({ paar: i, art: "definition", text: p.definition, offen: false, gefunden: false, el: null });
+    });
+    mische(karten);
+    offen = [];
+    versuche = 0;
+    gefunden = 0;
+    liste.textContent = "";
+    listeBereich.classList.add("versteckt");
+    ende.classList.add("versteckt");
+    zeichneRaster();
+    zeigeStatus();
+    if (mitAnsage) {
+      melde(T.gemischt);
+      if (karten.length) { karten[0].el.focus(); }
+    } else {
+      rueckmeldung.textContent = T.start;
+    }
+    meldeHoehe();
+  }
+
+  neuKnopf.addEventListener("click", function () { neuesSpiel(true); });
+  window.addEventListener("load", meldeHoehe);
+  window.addEventListener("resize", meldeHoehe);
+
+  neuesSpiel(false);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<!--
+  KONZEPTKARTE
+  - Lernziel: Die Studierenden unterscheiden Sozialkonstruktivismus (Berger/Luckmann), Systemtheorie (Luhmann),
+    Identitätstheorie (Mead) und Habitustheorie (Bourdieu) und wenden sie auf Aussagen aus Alltag und Praxis an.
+  - Fehlvorstellung: Alle Theorien sagten dasselbe; Gesellschaft sei nur die Summe einzelner Menschen.
+  - Interaktionstyp: Zuordnen mit Begründung
+  - Rückmeldung: Nach jeder Wahl erklärt ein Satz, warum diese Theorie passt oder nicht.
+  - Navigation: Mit „Vorherige Aussage“ lassen sich frühere Aussagen erneut ansehen.
+  - Sprache: Oberfläche und Aussagen auf Deutsch.
+  - Inhalte: 8 Aussagen (fiktiv, zu Übungszwecken formuliert), je 2 pro Theorie.
+  Inhalte nur im DATEN-Block ändern.
+-->
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Aussagen zuordnen: Soziologische Theorien</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    font-size: 16px; line-height: 1.45; color: #1d1d1d; background: #ffffff;
+  }
+  .rahmen { max-width: 860px; margin: 0 auto; padding: 12px; }
+  h1 { font-size: 1.3rem; margin: 0 0 .3rem; }
+  .anleitung { margin: 0 0 .8rem; font-size: .95rem; }
+  .status { margin: 0 0 .6rem; font-weight: 600; font-size: .95rem; }
+  .fall {
+    margin: 0 0 .8rem; padding: .8rem; border: 2px solid #2f4a6d; border-radius: 6px; background: #f6f8fb;
+  }
+  .fall h2 { font-size: 1rem; margin: 0 0 .2rem; color: #2f4a6d; }
+  .fall h2:focus { outline: none; }
+  .kontext { margin: 0 0 .4rem; font-size: .85rem; font-weight: 700; color: #555; overflow-wrap: anywhere; }
+  .fall-text { margin: 0; overflow-wrap: anywhere; }
+  label.begr-label { display: block; font-size: .92rem; font-weight: 600; margin: 0 0 .3rem; }
+  textarea {
+    display: block; width: 100%; min-height: 3.6rem; margin: 0 0 .8rem; padding: .5rem;
+    font: inherit; font-size: .95rem; border: 1px solid #888; border-radius: 6px; resize: vertical;
+  }
+  .frage { margin: 0 0 .4rem; font-size: .95rem; font-weight: 600; }
+  .kategorien {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 6px; margin: 0 0 .8rem;
+  }
+  .kat {
+    font: inherit; font-size: .95rem; font-weight: 600; padding: .6rem .4rem; min-height: 2.8rem;
+    border: 2px solid #2f4a6d; border-radius: 6px; background: #ffffff; color: #2f4a6d; cursor: pointer;
+  }
+  .kat.falsch { border-color: #a0522d; color: #a0522d; background: #fbf1ea; }
+  .kat.falsch::before { content: "✗ "; }
+  .kat.richtig { border-color: #2e6b3a; color: #ffffff; background: #2e6b3a; }
+  .kat.richtig::before { content: "✓ "; }
+  .kat[aria-disabled="true"] { cursor: default; }
+  .rueckmeldung {
+    min-height: 2.6em; margin: 0 0 .8rem; padding: .6rem .7rem;
+    border-left: 4px solid #2f4a6d; background: #eef2f7; font-size: .95rem; overflow-wrap: anywhere;
+  }
+  .rueckmeldung.ok { border-left-color: #2e6b3a; background: #eef7f0; }
+  .rueckmeldung.nein { border-left-color: #a0522d; background: #fbf1ea; }
+  .knopf {
+    font: inherit; font-weight: 600; padding: .55rem 1rem; border: 2px solid #2f4a6d;
+    border-radius: 6px; background: #2f4a6d; color: #ffffff; cursor: pointer; margin: 0 0 1rem;
+  }
+  .navigation { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 1rem; }
+  .navigation .knopf { margin: 0; }
+  .knopf.zweit { background: #ffffff; color: #2f4a6d; }
+  .knopf:disabled { border-color: #b5b5b5; color: #8a8a8a; background: #f2f2f2; cursor: default; }
+  .ende { margin: 0 0 1rem; padding: .8rem; border: 2px solid #2e6b3a; border-radius: 6px; background: #f3faf4; }
+  .ende h2 { font-size: 1.05rem; margin: 0 0 .5rem; }
+  .ende h2:focus { outline: none; }
+  .ende p { margin: 0 0 .6rem; font-weight: 600; }
+  .uebersicht { margin: 0 0 .8rem; padding-left: 1.3rem; }
+  .uebersicht li { margin-bottom: .7rem; overflow-wrap: anywhere; }
+  .uebersicht .ktx { display: block; font-size: .85rem; font-weight: 700; color: #555; }
+  .uebersicht .loes { display: block; font-weight: 700; color: #2e6b3a; }
+  button:focus-visible, textarea:focus-visible { outline: 3px solid #d9822b; outline-offset: 2px; }
+  .versteckt { display: none; }
+</style>
+</head>
+<body>
+<script>
+/* ===== DATEN: Nur diesen Block ändern ===== */
+const DATEN = {
+  "titel": "Soziologische Grundlagen: Aussagen den Theorien zuordnen",
+  "anleitung": "Lesen Sie jede Aussage und notieren Sie zuerst in einem Satz, welches Merkmal für Ihre Zuordnung entscheidend ist. Wählen Sie dann die Theorie, die am besten passt. Nach jeder Wahl erklärt ein Satz, warum sie passt oder nicht; passt Ihre Wahl nicht, versuchen Sie eine andere Theorie.",
+  "kategorien": [
+    {
+      "id": "bl",
+      "name": "Berger/Luckmann"
+    },
+    {
+      "id": "lu",
+      "name": "Luhmann"
+    },
+    {
+      "id": "me",
+      "name": "Mead"
+    },
+    {
+      "id": "bo",
+      "name": "Bourdieu"
+    }
+  ],
+  "faelle": [
+    {
+      "kontext": "Aussage aus dem Jugendamt",
+      "text": "„Ob die Familie ein Fall für uns ist, entscheiden wir nach unseren Kriterien. Ist kein erzieherischer Bedarf erkennbar, sind wir nicht zuständig.“",
+      "loesung": "lu",
+      "erklaerungen": {
+        "lu": "Die Unterscheidung Fall/Nicht-Fall ist ein binärer Code, mit dem ein System nach eigener Logik entscheidet. Das ist Luhmanns Systemtheorie.",
+        "bl": "Berger und Luckmann fragen, wie Deutungen in Interaktion entstehen; hier entscheidet eine Organisation nach ihrem Code.",
+        "me": "Mead erklärt Identitätsbildung durch Rollenübernahme; um Identität geht es hier nicht.",
+        "bo": "Kapital und Habitus spielen keine Rolle; es geht um die Logik eines Hilfesystems."
+      }
+    },
+    {
+      "kontext": "Aussage zur Kooperation",
+      "text": "„Die Schule spricht von Leistungsversagen, wir im Jugendamt von Hilfebedarf. Wir reden über dasselbe Kind und verstehen uns trotzdem oft nicht.“",
+      "loesung": "lu",
+      "erklaerungen": {
+        "lu": "Zwei Systeme beobachten dieselbe Person mit unterschiedlichen Codes und müssen übersetzen: strukturelle Kopplung bei Luhmann.",
+        "bl": "Auch hier spielen Deutungen eine Rolle, entscheidend ist aber, dass Organisationen nach eigener Systemlogik kommunizieren.",
+        "me": "Es geht nicht um die Entwicklung des Selbst, sondern um die Kommunikation zwischen Organisationen.",
+        "bo": "Bourdieu würde nach Kapital und sozialer Herkunft fragen; die Aussage beschreibt unterschiedliche Systemcodes."
+      }
+    },
+    {
+      "kontext": "Aussage zur Familie",
+      "text": "„Bei uns war immer klar: Man macht Abitur und studiert. Darüber hat niemand nachgedacht, das war einfach so.“",
+      "loesung": "bl",
+      "erklaerungen": {
+        "bl": "Eine überlieferte Selbstverständlichkeit erscheint als objektive Wirklichkeit: Habitualisierung und Institutionalisierung bei Berger und Luckmann.",
+        "lu": "Kein Funktionssystem und kein binärer Code steht hier im Zentrum, sondern eine im Alltag geteilte Gewissheit.",
+        "me": "Mead würde nach der Entwicklung von I und Me fragen; hier geht es um geteiltes, nicht hinterfragtes Wissen.",
+        "bo": "Bourdieu könnte hier auch passen, denn die Selbstverständlichkeit hängt mit dem Milieu zusammen. Die Aussage betont aber, wie Gewohnheiten zu fraglosen Gewissheiten werden."
+      }
+    },
+    {
+      "kontext": "Aussage aus der Schule",
+      "text": "„Die Lehrerin hält den Jungen für schwierig und behandelt ihn entsprechend. Inzwischen verhält er sich genau so, wie sie es erwartet.“",
+      "loesung": "bl",
+      "erklaerungen": {
+        "bl": "Eine Definition der Situation hat reale Folgen und bestätigt sich selbst. Das Thomas-Theorem ist zentral für den Sozialkonstruktivismus.",
+        "lu": "Systemcodes erklären nicht, wie eine Deutung im Klassenzimmer zur Wirklichkeit wird.",
+        "me": "Mead hilft zu verstehen, wie Fremdbilder ins Selbstbild eingehen; die Aussage betont aber die Folgen einer Situationsdefinition.",
+        "bo": "Habitus und Kapital stehen hier nicht im Vordergrund, sondern die Wirkung einer Zuschreibung."
+      }
+    },
+    {
+      "kontext": "Aussage aus der Kita",
+      "text": "„Heute ist Mia die Ärztin und morgen die Polizistin. Im Fußballverein muss sie dagegen wissen, was alle anderen auf dem Platz von ihr erwarten.“",
+      "loesung": "me",
+      "erklaerungen": {
+        "me": "Der Übergang vom freien Rollenspiel (Play) zum Regelspiel (Game) führt zum generalisierten Anderen. Das ist Meads Identitätstheorie.",
+        "bl": "Berger und Luckmann beschreiben die Konstruktion von Wirklichkeit, nicht die Stufen der Rollenübernahme.",
+        "lu": "Kein Funktionssystem steht im Zentrum, sondern die Entwicklung eines Kindes.",
+        "bo": "Bourdieu fragt nach klassenspezifischen Prägungen; hier geht es um die Stufen der Perspektivübernahme."
+      }
+    },
+    {
+      "kontext": "Aussage aus der Beratung",
+      "text": "„Am liebsten hätte ich meinem Chef sofort die Meinung gesagt. Dann dachte ich: Das macht man nicht. Also habe ich meine Kritik ruhig im Teamgespräch angesprochen.“",
+      "loesung": "me",
+      "erklaerungen": {
+        "me": "Spontaner Impuls (I), verinnerlichte Erwartung (Me) und ihre Vermittlung (Self): Das ist Meads Modell des Selbst.",
+        "bl": "Es geht nicht um die gesellschaftliche Herstellung von Wirklichkeit, sondern um den inneren Dialog einer Person.",
+        "lu": "Luhmann klammert Bewusstsein als Umwelt sozialer Systeme aus; die Aussage beschreibt einen inneren Prozess.",
+        "bo": "Der Habitus wirkt meist unbewusst; hier wird ein Impuls bewusst gegen eine Norm abgewogen."
+      }
+    },
+    {
+      "kontext": "Aussage aus der Hochschule",
+      "text": "„Meine Kommilitonin geht ganz selbstverständlich in die Sprechstunde und verhandelt eine Fristverlängerung. Ich frage mich jedes Mal, ob ich überhaupt fragen darf.“",
+      "loesung": "bo",
+      "erklaerungen": {
+        "bo": "Unterschiedliche Sicherheit im Auftreten verweist auf einen herkunftsgeprägten Habitus. Das ist Bourdieus Begriff.",
+        "bl": "Geteiltes Wissen spielt eine Rolle, entscheidend ist aber der unterschiedlich verinnerlichte Umgang mit der Situation.",
+        "lu": "Es geht nicht um den Code des Bildungssystems, sondern um ungleich verteilte Selbstverständlichkeiten.",
+        "me": "Mead erklärt, wie Identität entsteht, aber nicht, warum sie mit der sozialen Position variiert."
+      }
+    },
+    {
+      "kontext": "Aussage zum Geschmack",
+      "text": "„Was ich esse, wie ich spreche und welche Musik ich mag, hat viel mit meinem Elternhaus zu tun. Es fühlt sich trotzdem völlig natürlich an.“",
+      "loesung": "bo",
+      "erklaerungen": {
+        "bo": "Geschmack und Sprache als verinnerlichte, sozial geprägte Dispositionen, die natürlich wirken: Das ist Bourdieus Habitus.",
+        "bl": "Berger und Luckmann sehen ebenfalls, dass Gewohnheiten selbstverständlich werden; die Bindung an die soziale Position ist aber Bourdieus Kern.",
+        "lu": "Funktionssysteme und Codes spielen hier keine Rolle.",
+        "me": "Meads generalisierter Anderer erklärt Normen, aber nicht die klassenspezifische Prägung von Geschmack."
+      }
+    }
+  ],
+  "texte": {
+    "fall": "Aussage {nr} von {gesamt}",
+    "status": "Aussage {nr} von {gesamt} · beim ersten Versuch richtig: {treffer}",
+    "begruendungLabel": "Ihre Begründung in einem Satz (freiwillig, wird nicht bewertet):",
+    "frage": "Welche Theorie passt?",
+    "richtig": "Richtig – {kategorie}: ",
+    "falsch": "Passt nicht – {kategorie}: ",
+    "nochmal": " Versuchen Sie eine andere Theorie.",
+    "vergleich": " Vergleichen Sie diese Erklärung mit Ihrer eigenen Begründung.",
+    "schonGeloest": "Diese Aussage ist bereits gelöst; weiter mit „Nächste Aussage“.",
+    "schonVersucht": "Diese Theorie haben Sie für diese Aussage bereits ausgeschlossen; bitte wählen Sie eine andere.",
+    "weiter": "Nächste Aussage",
+    "auswertung": "Zur Auswertung",
+    "endeTitel": "Auswertung",
+    "ergebnis": "Sie haben {treffer} von {gesamt} Aussagen beim ersten Versuch richtig zugeordnet.",
+    "uebersichtTitel": "Alle Aussagen mit Lösungen:",
+    "zurueck": "Vorherige Aussage",
+    "zurueckZuFaellen": "Zurück zu den Aussagen",
+    "neu": "Neu starten",
+    "gestartet": "Die Aussagen wurden neu gemischt; Sie beginnen mit Aussage 1.",
+    "labelRichtig": ", richtig",
+    "labelFalsch": ", passt nicht"
+  }
+};
+/* ===== ENDE DATEN ===== */
+</script>
+
+<main class="rahmen">
+  <h1 id="titel"></h1>
+  <p class="anleitung" id="anleitung"></p>
+
+  <div id="spiel">
+    <p class="status" id="status"></p>
+    <section class="fall">
+      <h2 id="fallTitel" tabindex="-1"></h2>
+      <p class="kontext" id="fallKontext" lang="de"></p>
+      <p class="fall-text" id="fallText" lang="de"></p>
+    </section>
+    <label class="begr-label" for="begruendung" id="begrLabel"></label>
+    <textarea id="begruendung" lang="de"></textarea>
+    <p class="frage" id="frage"></p>
+    <div class="kategorien" id="kategorien" role="group" aria-labelledby="frage"></div>
+    <div class="rueckmeldung" id="rueckmeldung" role="status" aria-live="polite"></div>
+    <div class="navigation">
+      <button type="button" class="knopf zweit" id="zurueck"></button>
+      <button type="button" class="knopf versteckt" id="weiter"></button>
+    </div>
+  </div>
+
+  <section class="ende versteckt" id="ende">
+    <h2 id="endeTitel" tabindex="-1"></h2>
+    <p id="ergebnis"></p>
+    <p id="uebersichtTitel"></p>
+    <ol class="uebersicht" id="uebersicht"></ol>
+    <div class="navigation">
+      <button type="button" class="knopf zweit" id="zurueckEnde"></button>
+      <button type="button" class="knopf" id="neu"></button>
+    </div>
+  </section>
+</main>
+
+<script>
+(function () {
+  "use strict";
+  var T = DATEN.texte;
+  var KATS = DATEN.kategorien;
+
+  var el = function (id) { return document.getElementById(id); };
+  var spiel = el("spiel"), ende = el("ende");
+  var statusEl = el("status"), fallTitel = el("fallTitel"), fallKontext = el("fallKontext"), fallText = el("fallText");
+  var begr = el("begruendung"), katBox = el("kategorien");
+  var rueck = el("rueckmeldung"), weiterKnopf = el("weiter"), neuKnopf = el("neu");
+  var zurueckKnopf = el("zurueck"), zurueckEndeKnopf = el("zurueckEnde");
+
+  var reihenfolge = [], pos = 0, treffer = 0;
+  var zustand = [];  /* je Fall: Versuche, gelöst, Begründung, letzte Rückmeldung */
+  var katKnoepfe = {};
+  var meldeTimer = null;
+
+  document.title = DATEN.titel;
+  el("titel").textContent = DATEN.titel;
+  el("anleitung").textContent = DATEN.anleitung;
+  el("begrLabel").textContent = T.begruendungLabel;
+  el("frage").textContent = T.frage;
+  el("endeTitel").textContent = T.endeTitel;
+  el("uebersichtTitel").textContent = T.uebersichtTitel;
+  neuKnopf.textContent = T.neu;
+  zurueckKnopf.textContent = T.zurueck;
+  zurueckEndeKnopf.textContent = T.zurueckZuFaellen;
+
+  function fuelle(v, w) {
+    return v.replace(/\{(\w+)\}/g, function (m, k) {
+      return Object.prototype.hasOwnProperty.call(w, k) ? String(w[k]) : m;
+    });
+  }
+  function meldeHoehe() {
+    try {
+      window.parent.postMessage({ typ: "iframe-hoehe", hoehe: document.documentElement.scrollHeight }, "*");
+    } catch (e) { /* ohne einbettende Seite nichts zu tun */ }
+  }
+  function melde(text, art) {
+    rueck.className = "rueckmeldung" + (art ? " " + art : "");
+    rueck.textContent = "";
+    if (meldeTimer) { clearTimeout(meldeTimer); }
+    meldeTimer = setTimeout(function () { rueck.textContent = text; meldeHoehe(); }, 50);
+  }
+  function mische(a) {
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+  }
+  function katName(id) {
+    for (var i = 0; i < KATS.length; i++) { if (KATS[i].id === id) { return KATS[i].name; } }
+    return id;
+  }
+
+  KATS.forEach(function (k) {
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "kat";
+    b.lang = "de";
+    b.textContent = k.name;
+    b.addEventListener("click", function () { waehle(k.id); });
+    katBox.appendChild(b);
+    katKnoepfe[k.id] = b;
+  });
+
+  function zeigeStatus() {
+    statusEl.textContent = fuelle(T.status, { nr: pos + 1, gesamt: reihenfolge.length, treffer: treffer });
+  }
+
+  function zeigeNavigation() {
+    var z = zustand[pos];
+    zurueckKnopf.disabled = (pos === 0);
+    weiterKnopf.textContent = pos < reihenfolge.length - 1 ? T.weiter : T.auswertung;
+    weiterKnopf.classList.toggle("versteckt", !z.geloest);
+  }
+
+  function zeigeFall(fokus) {
+    var f = DATEN.faelle[reihenfolge[pos]];
+    var z = zustand[pos];
+    fallTitel.textContent = fuelle(T.fall, { nr: pos + 1, gesamt: reihenfolge.length });
+    fallKontext.textContent = f.kontext || "";
+    fallText.textContent = f.text;
+    begr.value = z.begr;
+    KATS.forEach(function (k) {
+      var b = katKnoepfe[k.id];
+      if (z.versuche.indexOf(k.id) === -1) {
+        b.className = "kat";
+        b.setAttribute("aria-label", k.name);
+        if (z.geloest) { b.setAttribute("aria-disabled", "true"); } else { b.removeAttribute("aria-disabled"); }
+      } else if (k.id === f.loesung) {
+        b.className = "kat richtig";
+        b.setAttribute("aria-disabled", "true");
+        b.setAttribute("aria-label", k.name + T.labelRichtig);
+      } else {
+        b.className = "kat falsch";
+        b.setAttribute("aria-disabled", "true");
+        b.setAttribute("aria-label", k.name + T.labelFalsch);
+      }
+    });
+    if (meldeTimer) { clearTimeout(meldeTimer); }
+    rueck.className = "rueckmeldung" + (z.art ? " " + z.art : "");
+    rueck.textContent = z.meldung;
+    zeigeNavigation();
+    zeigeStatus();
+    if (fokus) { fallTitel.focus(); }
+    meldeHoehe();
+  }
+
+  function waehle(id) {
+    var f = DATEN.faelle[reihenfolge[pos]];
+    var z = zustand[pos];
+    if (z.geloest) { melde(T.schonGeloest); return; }
+    if (z.versuche.indexOf(id) !== -1) { melde(T.schonVersucht); return; }
+    z.versuche.push(id);
+    var b = katKnoepfe[id];
+    var satz = f.erklaerungen[id] || "";
+    if (id === f.loesung) {
+      z.geloest = true;
+      if (z.versuche.length === 1) { treffer++; }
+      b.className = "kat richtig";
+      b.setAttribute("aria-label", katName(id) + T.labelRichtig);
+      KATS.forEach(function (k) { katKnoepfe[k.id].setAttribute("aria-disabled", "true"); });
+      z.meldung = fuelle(T.richtig, { kategorie: katName(id) }) + satz + (begr.value.trim() ? T.vergleich : "");
+      z.art = "ok";
+      melde(z.meldung, z.art);
+      zeigeNavigation();
+    } else {
+      b.className = "kat falsch";
+      b.setAttribute("aria-disabled", "true");
+      b.setAttribute("aria-label", katName(id) + T.labelFalsch);
+      z.meldung = fuelle(T.falsch, { kategorie: katName(id) }) + satz + T.nochmal;
+      z.art = "nein";
+      melde(z.meldung, z.art);
+    }
+    zeigeStatus();
+    meldeHoehe();
+  }
+
+  function zeigeEnde() {
+    spiel.classList.add("versteckt");
+    ende.classList.remove("versteckt");
+    el("ergebnis").textContent = fuelle(T.ergebnis, { treffer: treffer, gesamt: reihenfolge.length });
+    var liste = el("uebersicht");
+    liste.textContent = "";
+    reihenfolge.forEach(function (idx) {
+      var f = DATEN.faelle[idx];
+      var li = document.createElement("li");
+      li.lang = "de";
+      var k = document.createElement("span");
+      k.className = "ktx";
+      k.textContent = f.kontext || "";
+      var t = document.createElement("span");
+      t.textContent = f.text;
+      var l = document.createElement("span");
+      l.className = "loes";
+      l.textContent = katName(f.loesung) + ": " + f.erklaerungen[f.loesung];
+      li.appendChild(k);
+      li.appendChild(t);
+      li.appendChild(l);
+      liste.appendChild(li);
+    });
+    el("endeTitel").focus();
+    meldeHoehe();
+  }
+
+  function start(mitAnsage) {
+    reihenfolge = DATEN.faelle.map(function (_, i) { return i; });
+    mische(reihenfolge);
+    zustand = reihenfolge.map(function () {
+      return { versuche: [], geloest: false, begr: "", meldung: "", art: "" };
+    });
+    pos = 0;
+    treffer = 0;
+    ende.classList.add("versteckt");
+    spiel.classList.remove("versteckt");
+    zeigeFall(mitAnsage);
+    if (mitAnsage) { melde(T.gestartet); }
+  }
+
+  weiterKnopf.addEventListener("click", function () {
+    if (pos < reihenfolge.length - 1) { pos++; zeigeFall(true); } else { zeigeEnde(); }
+  });
+  zurueckKnopf.addEventListener("click", function () {
+    if (pos > 0) { pos--; zeigeFall(true); }
+  });
+  zurueckEndeKnopf.addEventListener("click", function () {
+    ende.classList.add("versteckt");
+    spiel.classList.remove("versteckt");
+    pos = reihenfolge.length - 1;
+    zeigeFall(true);
+  });
+  begr.addEventListener("input", function () { zustand[pos].begr = begr.value; });
+  neuKnopf.addEventListener("click", function () { start(true); });
+  window.addEventListener("load", meldeHoehe);
+  window.addEventListener("resize", meldeHoehe);
+
+  start(false);
+})();
+</script>
+</body>
+</html>

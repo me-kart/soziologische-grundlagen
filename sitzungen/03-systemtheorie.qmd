@@ -1,0 +1,124 @@
+---
+title: "Sitzung 3: Gesellschaftstheorien II – Systemtheorie"
+subtitle: "10.04.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie kann eine hochkomplexe Gesellschaft funktionieren, und welche Rolle spielt die Soziale Arbeit darin?
+:::
+
+Wie viele Stunden in der Woche würden Sie arbeiten, wenn Sie es sich aussuchen könnten? Mit dieser Frage beginnt die Sitzung. Die Antwort wirkt wie eine persönliche Entscheidung. Tatsächlich hängt sie an Arbeitsverträgen, Löhnen, Sozialversicherung und Bildungsabschlüssen, also an Wirtschaft, Recht und Bildung. Die Systemtheorie nach Niklas Luhmann (1927–1998) beschreibt genau diese Ordnung. Ihre Antwort auf die Leitfrage: Die Gesellschaft besteht nicht aus Menschen, sondern aus Kommunikation, und sie gliedert sich in Teilsysteme, die jeweils ihrer eigenen Logik folgen.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Gesellschaft als Kommunikationssystem
+- Funktionssysteme und binäre Codes
+- Konstruktivismus und Systemtheorie im Vergleich
+- Inklusion und Exklusion
+- Soziale Arbeit als Funktionssystem
+- Fallbeispiel: Jugendamt und Hilfe zur Erziehung
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- funktionale Differenzierung
+- Komplexitätsreduktion
+- Autopoiesis, operative Geschlossenheit
+- strukturelle Kopplung
+- binärer Code, Hilfe/Nicht-Hilfe, Fall/Nicht-Fall
+- Inklusion, Exklusion
+:::
+
+:::
+
+## 1. Gesellschaft als Kommunikationssystem
+
+Luhmann beschreibt moderne Gesellschaften als **funktional differenziert**. Früher waren Gesellschaften vor allem hierarchisch nach Ständen oder Schichten geordnet. Heute besteht die Gesellschaft aus vielen Teilsystemen, die jeweils eine bestimmte Aufgabe übernehmen, etwa Politik, Wirtschaft, Recht oder Wissenschaft.
+
+**Komplexitätsreduktion.** Moderne Gesellschaften sind zu komplex, um als Ganzes gesteuert zu werden. Niemand kann alles gleichzeitig verstehen oder koordinieren. Systeme bilden sich, um Komplexität zu reduzieren: Jedes System konzentriert sich auf einen Ausschnitt der Welt und blendet den Rest aus.
+
+**Autopoiesis.** Jedes System funktioniert autopoietisch, wörtlich: selbsterschaffend. Es erzeugt und erhält sich durch seine eigenen Operationen, und diese Operationen sind Kommunikation. Das Rechtssystem reproduziert sich durch rechtliche Kommunikation: Gesetze, Urteile, Verfahren. Jedes Urteil schließt an frühere an und ermöglicht neue.
+
+**Operative Geschlossenheit und strukturelle Kopplung.** Systeme kommunizieren nur in ihrer eigenen „Sprache“. Zugleich reagieren sie auf Impulse aus ihrer Umwelt, verarbeiten diese aber nach eigener Logik. Das Wirtschaftssystem etwa reagiert auf Debatten über den Klimawandel, indem es Nachhaltigkeit als Produkt vermarktet. Daraus entsteht Spezialisierung, aber auch Abgrenzung: Was in der Wissenschaft als „wahr“ gilt, muss politisch nicht durchsetzbar sein, und was die Soziale Arbeit als „Hilfe“ versteht, erscheint in der Wirtschaft als „Kostenfaktor“.
+
+## 2. Funktionssysteme und binäre Codes
+
+Jedes Funktionssystem hat eine eigene Funktion für die Gesellschaft, ein eigenes Kommunikationsmedium und einen **binären Code**: ein einfaches Gegensatzpaar, mit dem es entscheidet, was für es relevant ist.
+
+| | Wissenschaft | Politik | Recht | Wirtschaft | Soziale Arbeit |
+|---|---|---|---|---|---|
+| Funktion | Erweiterung von Wissen | kollektiv verbindliche Entscheidungen | Stabilisierung normativer Erwartungen, Streitschlichtung | Regulierung von Knappheit | (Re-)Integration Einzelner, Herstellung von Normalität |
+| Medium | Wahrheit | Macht | Recht | Geld | Hilfe |
+| Code | wahr/unwahr | Macht haben/nicht haben | Recht/Unrecht | Eigentum haben/nicht haben (bzw. zahlen/nicht zahlen) | Fall/Nicht-Fall (bzw. Hilfe/Nicht-Hilfe) |
+| Kommunikation | wissenschaftliche Aussagen | politische Entscheidungen | Rechtsaussagen | wirtschaftliche Transaktionen | soziale Interventionen |
+
+: Funktionssysteme der Gesellschaft {#tbl-systeme}
+
+Ein Gericht fragt nicht, ob ein Verhalten moralisch gut oder wirtschaftlich sinnvoll ist, sondern nur, ob es Recht oder Unrecht ist. Ob die Soziale Arbeit ein eigenes Funktionssystem ist, ist in der Fachdiskussion umstritten. Dirk Baecker (1994) hat vorgeschlagen, soziale Hilfe als eigenes Funktionssystem mit dem Code Hilfe/Nicht-Hilfe zu verstehen. In der Praxis zeigt sich dieser Code als Unterscheidung von Fall und Nicht-Fall.
+
+## 3. Konstruktivismus und Systemtheorie im Vergleich
+
+Beide Ansätze teilen eine Grundannahme: Wirklichkeit ist nicht objektiv gegeben, Erkenntnis ist beobachterabhängig. Sie setzen aber an unterschiedlichen Ebenen an.
+
+| | Sozialkonstruktivismus | Systemtheorie |
+|---|---|---|
+| Kernthese | Wirklichkeit wird sozial konstruiert | soziale Systeme reduzieren gesellschaftliche Komplexität |
+| Ebene | Mikroebene: Interaktion, Sprache, Deutung | Makroebene: Systeme, Codes, Funktionen |
+| Wer erzeugt Sinn? | Individuen und Gruppen | Systeme als Kommunikationszusammenhänge |
+| zentrale Begriffe | Habitualisierung, Institution, Lebenswelt, Definition der Situation | binärer Code, Funktion, Autopoiesis, strukturelle Kopplung |
+| Vertreter | Berger, Luckmann | Luhmann |
+
+: Zwei Gesellschaftstheorien im Vergleich {#tbl-vergleich}
+
+Die Ansätze ergänzen sich. Der Konstruktivismus fragt: Wie entsteht Sinn? Die Systemtheorie fragt: Wie funktioniert Gesellschaft mit diesem Sinn? Der Konstruktivismus untersucht etwa, wie ein Jugendlicher als „Problemfall“ wahrgenommen wird. Die Systemtheorie analysiert, wie Schule, Jugendamt und Justiz diese Wahrnehmung in ihre eigenen Codes übersetzen und dadurch verstärken.
+
+## 4. Inklusion und Exklusion
+
+In einer funktional differenzierten Gesellschaft gehört niemand mehr „ganz“ zu einem Stand. Menschen sind an vielen Systemen gleichzeitig beteiligt: als Schüler:in, Arbeitnehmer:in, Wähler:in, Patient:in, Rechtsperson. Luhmann nennt diese Teilhabe **Inklusion**, den Ausschluss **Exklusion**.
+
+- Inklusion und Exklusion bedingen einander: Inklusion ist nur möglich, wenn Exklusion denkbar bleibt.
+- Es gibt keine zentrale Instanz, die Inklusion garantiert. Jedes System entscheidet selbst, wer teilnimmt.
+- Exklusion wirkt **kumulativ**: Wer keinen Schulabschluss hat, findet schwer Arbeit; wer keine Arbeit hat, verliert leichter die Wohnung; wer keine Meldeadresse hat, hat Probleme im Kontakt mit Behörden.
+- Luhmann warnt vor der Illusion vollständiger Inklusion, etwa durch Menschenrechte. Exklusion bleibt strukturell angelegt.
+
+Ein Beispiel aus der Arbeit mit Geflüchteten: Eine Person darf einen Sprachkurs besuchen (Inklusion ins Bildungssystem), aber nicht arbeiten (Exklusion aus dem Wirtschaftssystem), weil ihr Aufenthaltsstatus das ausschließt (Rechtssystem). Soziale Arbeit kann hier stellvertretend inkludieren, durch Beratung und Begleitung. Volle Inklusion hängt aber von politischen und rechtlichen Entscheidungen ab.
+
+## 5. Soziale Arbeit aus systemtheoretischer Sicht
+
+**Fallbeispiel: Jugendamt und Hilfe zur Erziehung.** Eine Familie hat wiederholt Konflikte, das Kind verweigert die Schule. Die Soziale Arbeit prüft: Liegt ein „Fall“ vor? Besteht ein erzieherischer Bedarf, wird das Jugendamt aktiv und organisiert Hilfen, etwa eine sozialpädagogische Familienhilfe. Liegt kein Fall vor, bleibt die Familie ein „Nicht-Fall“ und muss selbst Lösungen finden. Der Code lautet Fall/Nicht-Fall, die Funktion ist die Unterstützung und (Re-)Integration der Familie in ein stabiles soziales Umfeld.
+
+**Ein sekundäres Funktionssystem.** Die Soziale Arbeit reagiert auf Probleme, die in anderen Systemen entstehen: kein Zugang zu Arbeit, Bildung, Recht oder Wohnung. Ihre Funktion ist Re-Integration in diese Systeme. Damit stabilisiert sie das Gesamtsystem, indem sie soziale Spannungen bearbeitet.
+
+**Ein Paradox.** Ohne Armut, Benachteiligung und Ausschluss gäbe es keine Notwendigkeit für Soziale Arbeit. Sie lebt von den Exklusionen, die sie zugleich verhindern will. Erfolgreiche Re-Inklusion gefährdet im Grunde ihr eigenes Bestehen. Zudem kann sie selbst Exklusion erzeugen: Die Unterscheidung Fall/Nicht-Fall schließt immer auch Menschen aus, und die Markierung als „Fall“ kann stigmatisieren.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Die Systemtheorie ermöglicht eine kritische Selbstreflexion der Sozialen Arbeit als Teil gesellschaftlicher Strukturen, einschließlich ihrer eigenen Ausschlussmechanismen. Wer weiß, dass jede Fallentscheidung auch Menschen ausschließt, achtet auf jene, die knapp außerhalb der Kriterien liegen, und auf die Wirkung der Etikettierung als „Fall“.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Anwendungsaufgaben (Gruppen, 20 Minuten)"}
+1. Denken Sie an eine Organisation der Sozialen Arbeit, etwa Jugendamt, Wohnungslosenhilfe oder Flüchtlingsberatung. Woran zeigt sich, dass sie als autopoietisches System funktioniert? Welche Entscheidungen sichern ihren Erhalt?
+2. Beschreiben Sie ein Beispiel für strukturelle Kopplung zwischen der Sozialen Arbeit und einem anderen System (Recht, Gesundheit, Bildung). Wie läuft die Kommunikation typischerweise ab?
+3. Wann wird eine Person aus Sicht der Sozialen Arbeit zum „Fall“? Welche Risiken entstehen durch diese Unterscheidung?
+
+**Lösungsideen:** Das Jugendamt erhält sich durch eigene Kommunikation (Fallbesprechungen, Hilfeplanverfahren, Dokumentation), legt das SGB VIII intern aus und spricht eine eigene Fachsprache (Hilfebedarf, Fall, Maßnahme). Mit der Schule ist es strukturell gekoppelt: Was die Schule als „Leistungsversagen“ sieht, deutet die Soziale Arbeit als „Hilfebedarf“; nötig ist Übersetzungsarbeit, etwa über Kooperationsgespräche und Schulsozialarbeit. Ob jemand zum Fall wird, hängt von Gesetz, Zuständigkeit und Ressourcen ab, nicht allein vom subjektiven Leid. Risiken sind Stigmatisierung, Abhängigkeit und Menschen, die durchs Raster fallen.
+:::
+
+::: {.callout-tip title="Reflexions- und Diskussionsaufgaben"}
+1. Ist die Soziale Arbeit ein eigenes Funktionssystem oder nur eine „Hilfsinstanz“ anderer Systeme?
+2. Inwiefern kann die Soziale Arbeit selbst Exklusion erzeugen, obwohl sie Inklusion anstrebt?
+3. „Es gibt keine Inklusion ohne Exklusion.“ Was bedeutet das für das Ideal einer inklusiven Gesellschaft? Ist „Vollinklusion“ möglich?
+4. Bewerten Sie die Aussage: „Die Soziale Arbeit ist auf die Probleme anderer Systeme angewiesen, um zu existieren.“ Welche ethischen und professionellen Spannungsfelder entstehen daraus?
+:::
+
+::: {.callout-tip title="Check-out"}
+Was fiel Ihnen heute leicht? Worüber werden Sie weiter nachdenken?
+:::
+
+**Zum Weiterlesen:** Baecker, Dirk (1994): Soziale Hilfe als Funktionssystem der Gesellschaft. In: Zeitschrift für Soziologie 23 (2). · Luhmann, Niklas (1984): Soziale Systeme. Grundriß einer allgemeinen Theorie. Frankfurt a. M.: Suhrkamp. · Luhmann, Niklas (1995): Inklusion und Exklusion. In: Ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch. Opladen: Westdeutscher Verlag. · Luhmann, Niklas (1997): Die Gesellschaft der Gesellschaft. Frankfurt a. M.: Suhrkamp.

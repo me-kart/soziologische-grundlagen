@@ -1,0 +1,142 @@
+---
+title: "Sitzung 2: Gesellschaftstheorien I – Sozialkonstruktivismus"
+subtitle: "27.03.2026"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie kommt es, dass uns die soziale Welt als feste, objektive Wirklichkeit erscheint, obwohl Menschen sie selbst hervorgebracht haben?
+:::
+
+Eine Mutter erwartet von ihrer Tochter ein Abitur mit 1,0, damit ihr „alle Türen offenstehen“. Für sie ist das selbstverständlich. Für die Tochter ist es eine Belastung, für Mitschüler:innen ohne Nachhilfe ein unerreichbarer Maßstab. Was hier als „Leistung“ und „Erfolg“ gilt, ist keine Naturtatsache, sondern eine soziale Konstruktion. Die Sitzung klärt zunächst, was eine Gesellschaft von einer Gemeinschaft unterscheidet, und stellt dann die erste große Gesellschaftstheorie vor: den Sozialkonstruktivismus von Peter L. Berger und Thomas Luckmann.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Gemeinschaft und Gesellschaft
+- Merkmale und Arten von Gesellschaften
+- Überblick über die Gesellschaftstheorien
+- Sozialkonstruktivismus nach Berger und Luckmann
+- Fallbeispiel: Frau Trambosi
+- Konstruktivismus in der Sozialen Arbeit
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Gemeinschaft, Gesellschaft, Arbeitsteilung
+- Habitualisierung, Tradierung, Institutionalisierung
+- geteilte Wissensbestände, subjektive Lebenswelt
+- Definition der Situation (Thomas-Theorem)
+- Reflexivität, Aushandlung, Reframing
+:::
+
+:::
+
+## 1. Gemeinschaft und Gesellschaft
+
+Die Unterscheidung geht auf Ferdinand Tönnies zurück (1887). Sie beschreibt zwei Grundformen menschlicher Beziehungen.
+
+| | Gemeinschaft | Gesellschaft |
+|---|---|---|
+| Beziehungen beruhen auf | Nähe, emotionaler Verbundenheit, Vertrautheit | Zweckorientierung, Rationalität |
+| typisch sind | Solidarität, Zusammengehörigkeit, Tradition | Anonymität, Verträge, Arbeitsteilung |
+| Beispiele | Familie, Freundeskreis, Dorfgemeinschaft | Unternehmen, Behörde, Staat |
+
+: Gemeinschaft und Gesellschaft {#tbl-toennies}
+
+Eine **Gemeinschaft** ist eine Gruppe von Menschen, die meist an einen bestimmten Ort gebunden ist und ein Gefühl der Zugehörigkeit teilt. Sie entsteht spontan, ist auf Dauer angelegt und beruht auf gemeinsamen Merkmalen. Sie ist konkret und greifbar.
+
+Eine **Gesellschaft** ist abstrakter. Vier Merkmale sind zentral: Sie entsteht durch *soziale Beziehungen*, die unsichtbar sind, sich aber im Handeln zeigen. Sie hat *Menschen als Grundlage*, ohne Menschen gibt es keine Gesellschaft. Sie ist ein *Geflecht menschlicher Verbindungen*, von Familie und Nachbarschaft bis zu Institutionen, Organisationen und globalen Strukturen. Und sie beruht auf *Arbeitsteilung*: Jede Person oder Gruppe übernimmt bestimmte Rollen und trägt so zum Ganzen bei.
+
+Gemeinschaften verschwinden in modernen Gesellschaften nicht. Familie und Freundeskreis bleiben, sie sind aber eingebettet in größere, anonymere Zusammenhänge. Historisch werden Gesellschaften häufig nach ihrer wirtschaftlichen Grundlage unterschieden: Jäger- und Sammlergesellschaften, Gartenbau- und Ackerbaugesellschaften, Industriegesellschaften und postindustrielle Gesellschaften.
+
+In den Sitzungen 2 bis 4 lernen Sie vier große Gesellschaftstheorien kennen: den **Sozialkonstruktivismus**, die **Systemtheorie** (→ [Sitzung 3](03-systemtheorie.qmd)), den **Historischen Materialismus** und die **Kritische Theorie**. Jede wirft einen anderen Blick auf dieselbe Gesellschaft.
+
+## 2. Wirklichkeit wird sozial konstruiert
+
+Peter L. Berger und Thomas Luckmann veröffentlichten 1966 „The Social Construction of Reality“ (deutsch 1969: „Die gesellschaftliche Konstruktion der Wirklichkeit“). Ihre Kernaussagen:
+
+- Wirklichkeit ist nicht einfach objektiv gegeben. Ihre **Bedeutung** wird sozial konstruiert.
+- Menschen erzeugen ihre Wahrnehmung von Realität durch Sprache, Kommunikation und Interaktion.
+- Beobachtungen sind immer geprägt durch Erfahrungen, Kontext und Perspektive.
+- Wirklichkeit kann unterschiedlich gedeutet werden; eine vollständig objektive Sichtweise gibt es nicht.
+
+Ein Satz, der häufig Anaïs Nin zugeschrieben wird, bringt das auf den Punkt: „Wir sehen die Welt nicht so, wie sie ist, sondern so, wie wir sind.“ Wichtig ist eine Präzisierung. Der Sozialkonstruktivismus behauptet nicht, dass es Armut, Krankheit oder Gewalt „nicht wirklich“ gibt. Er behauptet, dass die Bedeutung, die wir diesen Phänomenen geben, und die Art, wie wir mit ihnen umgehen, sozial hergestellt sind.
+
+## 3. Wie aus Handeln Institutionen werden
+
+Berger und Luckmann beschreiben einen Prozess in mehreren Schritten:
+
+1. **Wiederkehrende Handlungen:** Menschen lösen Alltagsprobleme auf eine bestimmte Weise und tun das wieder, wenn es funktioniert.
+2. **Habitualisierung:** Aus Wiederholung wird Gewohnheit. Man muss nicht jedes Mal neu entscheiden; das entlastet. So entstehen **geteilte Wissensbestände**: „So macht man das.“
+3. **Tradierung:** Gewohnheiten werden an andere weitergegeben, vor allem an die nächste Generation. Für sie sind sie nicht selbst erfunden, sondern vorgefunden.
+4. **Institutionalisierung:** Gewohnheiten verfestigen sich zu Institutionen wie Ehe, Schule, Prüfung oder Beruf. Sie erscheinen nun als **soziale Tatsachen**, die unabhängig vom Einzelnen bestehen und auf ihn zurückwirken.
+
+Daraus ergibt sich ein Kreislauf: Menschen schaffen Gesellschaft, Gesellschaft tritt ihnen als objektive Wirklichkeit gegenüber, und Menschen werden durch Sozialisation wiederum von dieser Gesellschaft geprägt (→ [Sitzung 7](07-sozialisation-habitus.qmd)).
+
+Neben den geteilten Wissensbeständen steht die **subjektive Lebenswelt**: die erfahrene, erlebte und erlittene Wirklichkeit eines Menschen. Zwei Personen können in derselben Stadt oder Familie leben und doch ganz unterschiedliche Wirklichkeiten erfahren. Viele Konstruktionen wirken dabei unbemerkt als **verborgene Skripte und Normen**, etwa darüber, wie ein „erfolgreiches Leben“ oder eine „normale Familie“ auszusehen hat.
+
+## 4. Die Definition der Situation
+
+William I. Thomas und Dorothy S. Thomas (1928) formulierten einen Satz, der für den Konstruktivismus zentral ist: „If men define situations as real, they are real in their consequences.“ Wenn Menschen eine Situation als wirklich definieren, ist sie in ihren Folgen wirklich.
+
+Ein Beispiel: Ein Lehrer hält eine Schülerin für „leistungsschwach“. Ob das zutrifft, ist zunächst offen. Seine Deutung hat aber reale Folgen, etwa für die Schulempfehlung. Am Ende kann die Deutung sich selbst bestätigen.
+
+## 5. Fallbeispiel: Frau Trambosi
+
+> Frau Trambosi ist Ärztin und lebt in sehr wohlhabenden Verhältnissen. Sie ist überzeugt, dass sich Leistung auszahlt und dass Bildung der Schlüssel zu gesellschaftlichem Erfolg ist. In ihrem Umfeld gilt es als selbstverständlich, dass Kinder früh gefördert werden. Ihre 14-jährige Tochter Natalie besucht ein Gymnasium, spricht drei Sprachen, erhält seit der Grundschule Nachhilfe und nimmt Ballett- und Geigenunterricht. Frau Trambosi erwartet ein Abitur mit 1,0, damit ihr „alle Türen offenstehen“. Natalie fühlt sich zunehmend unter Druck und interessiert sich eher für kreative Tätigkeiten. In ihrer Klasse gibt es Mitschüler:innen, die sich keine Nachhilfe leisten können und andere familiäre Verpflichtungen haben.
+
+„Leistung“, „Erfolg“ und „Bildung“ sind hier keine objektiven Wahrheiten. Sie sind sozial konstruiert, in bestimmten Milieus geteilt und institutionell verstärkt. Mit den Fachbegriffen lässt sich das so einordnen:
+
+| Begriff | im Fall |
+|---|---|
+| geteiltes Wissen | Frühe Förderung gilt im Umfeld als selbstverständlich und wird durch Vergleiche mit anderen Kindern bestätigt. |
+| Institution | Gymnasium, Abiturnote und Bildungszertifikate verfestigen die Idee „Leistung führt zu Erfolg“. |
+| Definition der Situation | Erfolg wird als „Top-Abitur und maximale Leistung“ definiert; diese Definition steuert das Handeln und hat reale Folgen für Natalie. |
+| Lebenswelt | Natalie erlebt dieselbe Situation als belastend; die Mitschüler:innen ohne vergleichbare Ressourcen leben in einer anderen Wirklichkeit. |
+
+: Das Fallbeispiel konstruktivistisch gelesen {#tbl-trambosi}
+
+Als Gesellschaftsdiagnose bietet sich die **Leistungsgesellschaft** bzw. die Kritik an einer **Leistungsideologie** an: Erfolg erscheint als Ergebnis individueller Anstrengung, während ungleiche Startbedingungen aus dem Blick geraten. Der Fall zeigt damit auch, wie soziale Konstruktionen Ungleichheit verdecken können.
+
+## 6. Konstruktivismus und Soziale Arbeit
+
+Hilfeprozesse beruhen auf der Aushandlung einer gemeinsamen Wirklichkeit. Zugleich konstruieren Fachkräfte Probleme selbst mit, durch ihre Beschreibungen in Hilfeplänen, Akten und Gutachten. Ein Jugendlicher gilt als „schulverweigernd“: Aus Sicht der Schule ist das ein Disziplinproblem, aus Sicht des Jugendlichen Selbstschutz vor Mobbing. Aufgabe der Sozialen Arbeit ist es, beide Perspektiven zu verstehen und eine neue, gemeinsame Beschreibung zu finden.
+
+Vier Grundprinzipien kennzeichnen eine konstruktivistisch informierte Soziale Arbeit:
+
+- **Reflexivität:** Fachkräfte reflektieren ihre eigenen Beobachtungen; Supervision und Selbstevaluation sind zentrale Praxisformen.
+- **Aushandlung:** Probleme und Ziele werden gemeinsam ausgehandelt, mit dem Ziel, neue Bedeutungsrahmen zu schaffen (Reframing).
+- **Respekt vor Pluralität:** Unterschiedliche Perspektiven und Deutungen sind legitim.
+- **Keine Normalisierung:** Ziel ist nicht in erster Linie die Anpassung an Normen, sondern die Anerkennung von Differenz und Lebenswelten.
+
+Der Ansatz hat aber Grenzen. Wer familiäre Problemlagen nur als unterschiedliche Wirklichkeitskonstruktionen versteht, kann Verantwortung relativieren („alles ist nur Interpretation“) und Machtverhältnisse ausblenden. Gewalt, Armut oder Missbrauch sind reale Strukturen, keine bloßen Deutungen. Beides muss zugleich gesehen werden.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Wirklichkeit verstehen, statt Deutungen als objektiv festzuschreiben. Beziehungen gestalten, statt ausschließlich Verhalten zu korrigieren. Bedeutungen verändern, statt Menschen an Normen anzupassen. Heinz von Foerster hat dafür einen ethischen Imperativ formuliert: „Handle stets so, dass die Anzahl der Wahlmöglichkeiten größer wird.“
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Fallbeispiel Frau Trambosi (Gruppen, 20 Minuten)"}
+Erklären Sie Frau Trambosis Handeln mit der Theorie des Sozialkonstruktivismus. Verwenden Sie die Fachbegriffe geteiltes Wissen, Institution, Definition der Situation und Lebenswelt. Welche Gesellschaftsdiagnose passt, und wie würden Sie sie anwenden?
+:::
+
+::: {.callout-tip title="Gruppendiskussion"}
+1. Welche Bedeutung hat der Konstruktivismus für die Praxis, etwa im Umgang mit Klient:innen, die unterschiedliche „Versionen der Wirklichkeit“ haben?
+2. Inwiefern prägt Ihre eigene Wahrnehmung als Sozialarbeiter:in die Definition eines Problems?
+3. Welche Chancen und Grenzen hat es, familiäre Problemlagen primär als Ergebnis unterschiedlicher Wirklichkeitskonstruktionen zu verstehen?
+4. Wie helfen konstruktivistische Überlegungen, gesellschaftliche Konflikte um Deutungshoheit, etwa in Politik, Medien oder Kultur, zu verstehen?
+5. Wenn soziale Probleme nicht „objektiv gegeben“ sind: Wer bestimmt dann in der Sozialen Arbeit, was ein „Problem“ ist?
+
+**Ein Hinweis zu Frage 5:** Beteiligt sind Fachkräfte, Klient:innen, Politik und Verwaltung sowie Medien und öffentliche Meinung. Jugendarbeitslosigkeit kann als individuelles Versagen, als Bildungsproblem oder als Strukturproblem gedeutet werden, je nachdem, wer spricht.
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Welche „Selbstverständlichkeit“ aus Ihrer eigenen Familie haben Sie erst später als soziale Konstruktion erkannt?
+:::
+
+**Zum Weiterlesen:** Berger, Peter L./Luckmann, Thomas (1969): Die gesellschaftliche Konstruktion der Wirklichkeit. Eine Theorie der Wissenssoziologie. Frankfurt a. M.: S. Fischer. · Thomas, William I./Thomas, Dorothy S. (1928): The Child in America. Behavior Problems and Programs. New York: Knopf. · Tönnies, Ferdinand (1887): Gemeinschaft und Gesellschaft. Leipzig: Fues.

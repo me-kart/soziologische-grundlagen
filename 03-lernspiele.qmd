@@ -1,0 +1,27 @@
+---
+title: "Soziologische Grundlagen: Lernspiele"
+---
+
+Soziologische Theorien wirken auf den ersten Blick abstrakt. Ihre Begriffe entscheiden aber darüber, wie wir Situationen in der Praxis deuten. Wer Habitualisierung mit Habitus verwechselt oder den generalisierten Anderen mit einer Bezugsperson gleichsetzt, zieht leicht falsche Schlüsse. Und wer nicht erkennt, welche Theorie hinter einer Aussage steht, übersieht, was diese Theorie sieht und was sie ausblendet.
+
+Die beiden Lernspiele auf dieser Seite helfen, die Begriffe sicher zu verwenden. Im Memory ordnen Sie zehn Grundbegriffen ihre Definitionen zu. Im zweiten Spiel ordnen Sie acht Aussagen aus Alltag und Praxis einer Theorie zu und begründen Ihre Wahl. Planen Sie für beide Spiele etwa 20 Minuten ein.
+
+## Memory: Begriffe und Definitionen {#sec-memory}
+
+::: {.callout-tip title="Lernspiel: Memory"}
+Finden Sie die zehn Paare aus Begriff und Definition. Jedes gefundene Paar zeigt die Definition vollständig an.
+
+<iframe class="lernspiel" src="interactions/soziologie-memory.html" height="760" loading="lazy" title="Memory: Grundbegriffe der Soziologie">
+
+</iframe>
+:::
+
+## Aussagen zuordnen {#sec-zuordnen}
+
+::: {.callout-tip title="Lernspiel: Aussagen zuordnen"}
+Lesen Sie jede Aussage und notieren Sie in einem Satz, welches Merkmal für Ihre Zuordnung entscheidet. Wählen Sie dann eine der vier Theorien: Berger/Luckmann, Luhmann, Mead oder Bourdieu. Nach jeder Wahl erklärt ein Satz, warum sie passt oder nicht. Mit „Vorherige Aussage“ können Sie frühere Aussagen erneut ansehen. Die Theorien sind in den Sitzungen [2](sitzungen/02-sozialkonstruktivismus.qmd), [3](sitzungen/03-systemtheorie.qmd) und [7](sitzungen/07-sozialisation-habitus.qmd) erläutert.
+
+<iframe class="lernspiel" src="interactions/soziologie-zuordnen.html" height="700" loading="lazy" title="Aussagen soziologischen Theorien zuordnen">
+
+</iframe>
+:::

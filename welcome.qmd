@@ -1,0 +1,72 @@
+---
+title: "Soziologische Grundlagen"
+subtitle: "Interaktives Skript · Soziale Arbeit (B. A.), OTH Regensburg · SoSe 2026"
+author: "Prof. Dr. Mehmet Kart"
+date: today
+date-format: "DD.MM.YYYY"
+---
+
+# Willkommen {.unnumbered}
+
+::: {.oth-frame}
+![](images/welcome-banner.svg){.welcome-banner fig-alt="Links drei Personen, die durch Linien miteinander verbunden sind und für soziales Handeln stehen. Rechts fünf Kreise für Funktionssysteme der Gesellschaft: Politik, Wirtschaft, Recht, Wissenschaft und Soziale Arbeit. Ein Pfeil verbindet beide Seiten."}
+:::
+
+Im Alltag sprechen wir ständig von „der Gesellschaft“, ohne genau zu sagen, was wir damit meinen. Die Soziologie macht genau das zu ihrem Gegenstand. Sie fragt, wie Menschen zusammenleben, wie aus ihrem Handeln stabile Strukturen entstehen und wie diese Strukturen wiederum auf die Menschen zurückwirken.
+
+Für die Soziale Arbeit ist das keine abstrakte Frage. Armut, Wohnungslosigkeit oder Bildungsbenachteiligung sind nicht nur individuelle Schicksale, sie haben gesellschaftliche Ursachen. Wer nur den Einzelfall sieht, übersieht die Strukturen. Wer nur die Strukturen sieht, übersieht den Menschen. Die Lehrveranstaltung *Soziologische Grundlagen* stellt die Begriffe und Theorien bereit, mit denen sich beides zusammen denken lässt.
+
+Das Skript begleitet die Sitzungen. Es bündelt die zentralen Inhalte, erläutert Theorien und Begriffe und bietet Lernspiele, mit denen Sie Ihr Wissen anwenden können. Es ersetzt nicht die Lektüre und die Teilnahme an den Sitzungen, erleichtert aber das Nacharbeiten und die Vorbereitung auf das Kurzpaper.
+
+## Ziele der Lehrveranstaltung
+
+Nach der Lehrveranstaltung können Sie
+
+1. **definieren**, was Soziologie ist, und ihre Bedeutung für moderne Gesellschaften erklären,
+2. **einordnen**, unter welchen historischen Bedingungen die Soziologie entstanden ist und wer ihre Gründerfiguren sind,
+3. **unterscheiden**, wie Sozialkonstruktivismus, Systemtheorie, Historischer Materialismus und Kritische Theorie Gesellschaft beschreiben,
+4. **erläutern**, wie Identität, Sozialisation und Habitus den Einzelnen mit der Gesellschaft verbinden,
+5. **analysieren**, wie Schichtung, Ungleichheit, sozialer Wandel und Raum die Lebenslagen von Adressat:innen prägen,
+6. **übertragen**, was soziologisches Wissen für die professionelle Praxis der Sozialen Arbeit bedeutet.
+
+## Wo Sie anfangen können
+
+::: {.grid .welcome-cards}
+
+::: {.g-col-12 .g-col-md-6 .welcome-card}
+[]{.bi .bi-journal-text .welcome-icon}
+
+**Grundlagen · [Grundbegriffe](grundlagen/01-grundbegriffe.qmd)**
+
+Die wichtigsten Begriffe zum Aufklappen, mit typischen Verwechslungen.
+:::
+
+::: {.g-col-12 .g-col-md-6 .welcome-card}
+[]{.bi .bi-diagram-3 .welcome-icon}
+
+**Sitzungen · [Seminarüberblick](index.qmd)**
+
+Vier Blöcke: Gesellschaftstheorien, Sozialstruktur, Schichtung und Ungleichheit, Wandel und Raum.
+:::
+
+::: {.g-col-12 .g-col-md-6 .welcome-card}
+[]{.bi .bi-controller .welcome-icon}
+
+**Üben · [Lernspiele](03-lernspiele.qmd)**
+
+Memory zu den Grundbegriffen und Aussagen den Theorien zuordnen.
+:::
+
+::: {.g-col-12 .g-col-md-6 .welcome-card}
+[]{.bi .bi-check2-circle .welcome-icon}
+
+**Üben · [Lernkontrolle](04-lernkontrolle.qmd)**
+
+Prüfen Sie, was Sie sicher anwenden können.
+:::
+
+:::
+
+## Hinweis zur Transparenz
+
+Künstliche Intelligenz wurde eingesetzt, um die Lernspiele zu programmieren, Texte und Erläuterungen auf Grundlage der Seminarfolien zu entwerfen und die Abbildung auf dieser Seite zu erstellen. Alle Inhalte wurden vom Autor geprüft, der für sie verantwortlich ist.

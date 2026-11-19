@@ -1,0 +1,85 @@
+# ─────────────────────────────────────────────────────────────
+# Einstellungen des Skripts. Ändern Sie nur die Zeilen mit ← .
+# Alles andere ist fertig eingerichtet.
+# ─────────────────────────────────────────────────────────────
+project:
+  type: website
+  output-dir: docs            # die fertige Webseite landet in docs/
+  render:                     # nur diese Seiten werden gebaut
+    - index.qmd
+    - welcome.qmd
+    - grundlagen/*.qmd
+    - sitzungen/*.qmd
+    - 03-lernspiele.qmd
+    - 04-lernkontrolle.qmd
+  resources:
+    - "interactions/*"        # Lernspiele werden mitkopiert
+    - "fonts/*"               # Schrift Outfit (OTH), lokal eingebunden
+
+website:
+  title: "Soziologische Grundlagen"                             # ← Titel
+  page-navigation: true
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Willkommen"
+        href: welcome.qmd
+      - section: "Grundlagen"
+        contents:
+          - text: "Grundbegriffe der Soziologie"
+            href: grundlagen/01-grundbegriffe.qmd
+      - section: "Sitzungen"
+        contents:
+          - text: "Seminarüberblick"
+            href: index.qmd
+          - section: "Block I · Einführung und Gesellschaftstheorien"
+            contents:
+              - text: "1 · Einführung: Was ist Soziologie?"
+                href: sitzungen/01-einfuehrung.qmd
+              - text: "2 · Gesellschaftstheorien I: Sozialkonstruktivismus"
+                href: sitzungen/02-sozialkonstruktivismus.qmd
+              - text: "3 · Gesellschaftstheorien II: Systemtheorie"
+                href: sitzungen/03-systemtheorie.qmd
+          - section: "Block II · Sozialstruktur"
+            contents:
+              - text: "7 · Sozialstruktur II: Identität, Sozialisation, Habitus"
+                href: sitzungen/07-sozialisation-habitus.qmd
+      - section: "Üben"
+        contents:
+          - text: "Lernspiele"
+            href: 03-lernspiele.qmd
+          - text: "Lernkontrolle"
+            href: 04-lernkontrolle.qmd
+  page-footer:
+    left: "© Prof. Dr. Mehmet Kart · CC BY-SA 4.0"         # ← Lizenzhinweis
+    right: "Erstellt mit [Quarto](https://quarto.org)"
+
+lang: de
+toc-title: "Auf dieser Seite"
+
+crossref:
+  fig-title: Abbildung
+  tbl-title: Tabelle
+  fig-prefix: Abbildung
+  tbl-prefix: Tabelle
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    css: fonts/outfit.css            # Schrift Outfit (OTH), ohne Google-Server
+    number-sections: false
+    toc: true
+    toc-title: "Auf dieser Seite"
+    toc-depth: 2
+    toc-expand: true
+    crossrefs-hover: true
+    footnotes-hover: true
+    link-external-newwindow: true
+    callout-appearance: simple
+    include-after-body:
+      - include/iframe-hoehe.html    # Lernspiele bekommen automatisch die passende Höhe
+      - include/theory-panel.html    # Positionen auf Sitzungsseiten aufklappen

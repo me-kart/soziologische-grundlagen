@@ -1,0 +1,271 @@
+---
+title: "Grundbegriffe der Soziologie"
+---
+
+Diese Seite stellt die Begriffe vor, die in der Lehrveranstaltung immer wieder auftauchen. Klicken Sie auf einen Begriff, um die Erläuterung und die typische Verwechslung zu sehen. Üben können Sie die Begriffe anschließend auf der Seite [Lernspiele](../03-lernspiele.qmd), prüfen können Sie sich in der [Lernkontrolle](../04-lernkontrolle.qmd).
+
+```{=html}
+<div class="term-tools">
+  <button type="button" onclick="document.querySelectorAll('details.term').forEach(d=>d.open=true)">Alle aufklappen</button>
+  <button type="button" onclick="document.querySelectorAll('details.term').forEach(d=>d.open=false)">Alle zuklappen</button>
+</div>
+```
+
+## Was ist Soziologie? {#sec-soziologie}
+
+<details class="term">
+<summary>Soziologie</summary>
+
+Soziologie ist die wissenschaftliche Untersuchung von Gesellschaften, ihren Strukturen, Prozessen und Entwicklungen, also die Wissenschaft vom Sozialen (Schäfers 2003). Nach Max Weber will sie soziales Handeln deutend verstehen und dadurch in seinem Ablauf und seinen Wirkungen ursächlich erklären.
+
+::: {.confused}
+**Häufig verwechselt mit:** Sozialpolitik oder Sozialer Arbeit. Soziologie beschreibt und erklärt Gesellschaft; Sozialpolitik und Soziale Arbeit greifen gestaltend in sie ein.
+:::
+
+</details>
+
+<details class="term">
+<summary>Soziales Handeln</summary>
+
+Soziales Handeln ist ein Handeln, das seinem gemeinten Sinn nach auf das Verhalten anderer bezogen ist. Es ist bei Weber der Gegenstand der Soziologie.
+
+::: {.confused}
+**Häufig verwechselt mit:** jedem Verhalten. Wer allein im Regen den Schirm aufspannt, handelt nicht sozial; wer ihn für eine andere Person aufspannt, schon.
+:::
+
+</details>
+
+<details class="term">
+<summary>Verstehen und Erklären</summary>
+
+Verstehen heißt, den Sinn eines sozialen Phänomens herauszufinden. Erklären heißt, systematisch den Gründen nachzugehen, die zu einem Phänomen geführt haben, und seine Abläufe und Wirkungen zu benennen.
+
+::: {.confused}
+**Häufig verwechselt mit:** Gegensätzen. Bei Weber gehören beide Aufgaben zusammen: Erst das Verstehen des Sinns ermöglicht eine Erklärung.
+:::
+
+</details>
+
+<details class="term">
+<summary>Soziale Tatsache</summary>
+
+Soziale Tatsachen sind gesellschaftliche Gegebenheiten wie Normen, Recht oder Sitten, die unabhängig vom Einzelnen bestehen und von außen auf ihn einwirken. Durkheim fordert, sie „wie Dinge“ zu betrachten.
+
+::: {.confused}
+**Häufig verwechselt mit:** persönlichen Meinungen. Eine soziale Tatsache gilt auch dann, wenn ich sie persönlich ablehne.
+:::
+
+</details>
+
+<details class="term">
+<summary>Positivismus</summary>
+
+Der Positivismus ist eine aus der Aufklärung hervorgegangene Strömung, nach der Wissenschaft sich auf das Tatsächliche und Beobachtbare beschränken und sich allein auf Erfahrung berufen soll. Religiöse und irrationale Erklärungen werden zurückgewiesen.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer optimistischen Haltung. „Positiv“ meint hier das Gegebene, nicht das Gute.
+:::
+
+</details>
+
+<details class="term">
+<summary>Vergemeinschaftung und Vergesellschaftung</summary>
+
+Vergemeinschaftung meint Formen des Zusammenlebens, die auf Nähe und persönlicher Bindung beruhen (Familie, Nachbarschaft, Gruppe). Vergesellschaftung meint Formen, die auf Zwecken, Regeln und Organisation beruhen (Organisation, Gesellschaft, Staat).
+
+::: {.confused}
+**Häufig verwechselt mit:** einer zeitlichen Abfolge. Beide Formen bestehen in modernen Gesellschaften nebeneinander.
+:::
+
+</details>
+
+## Gesellschaftstheorien {#sec-theorien}
+
+<details class="term">
+<summary>Gemeinschaft und Gesellschaft (Tönnies)</summary>
+
+Gemeinschaft beruht auf Nähe, emotionaler Verbundenheit, Vertrautheit und Tradition. Gesellschaft beruht auf Zweckorientierung, Rationalität, Anonymität und Arbeitsteilung.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer Wertung. Gemeinschaft ist nicht „besser“ als Gesellschaft; beide beschreiben unterschiedliche Formen von Beziehungen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Habitualisierung</summary>
+
+Habitualisierung meint, dass wiederholte Handlungen zu Gewohnheiten werden. Gewohnheiten entlasten, weil nicht jedes Mal neu entschieden werden muss, und erzeugen geteiltes Wissen.
+
+::: {.confused}
+**Häufig verwechselt mit:** Habitus. Habitualisierung beschreibt bei Berger und Luckmann die Entstehung von Gewohnheiten; der Habitus bei Bourdieu die klassenspezifisch verinnerlichten Dispositionen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Institutionalisierung</summary>
+
+Werden Gewohnheiten an andere weitergegeben, verfestigen sie sich zu Institutionen wie Ehe, Schule oder Beruf. Sie erscheinen den Nachkommenden als objektive Wirklichkeit, obwohl Menschen sie hervorgebracht haben.
+
+::: {.confused}
+**Häufig verwechselt mit:** Organisation. Eine Institution ist ein verfestigtes Handlungsmuster, eine Organisation ein konkreter Zusammenschluss mit Zweck und Mitgliedern.
+:::
+
+</details>
+
+<details class="term">
+<summary>Definition der Situation (Thomas-Theorem)</summary>
+
+„If men define situations as real, they are real in their consequences.“ Wenn Menschen eine Situation als wirklich definieren, ist sie in ihren Folgen wirklich (Thomas/Thomas 1928).
+
+::: {.confused}
+**Häufig verwechselt mit:** Beliebigkeit. Das Theorem sagt nicht, dass jede Deutung gleich gültig ist, sondern dass Deutungen reale Folgen haben.
+:::
+
+</details>
+
+<details class="term">
+<summary>Lebenswelt</summary>
+
+Die Lebenswelt ist die subjektiv erfahrene, erlebte und erlittene Wirklichkeit eines Menschen. Zwei Personen können in derselben Situation unterschiedliche Lebenswelten haben.
+
+::: {.confused}
+**Häufig verwechselt mit:** Umwelt. Die Umwelt ist das objektiv Vorhandene, die Lebenswelt das, was davon für einen Menschen bedeutsam ist.
+:::
+
+</details>
+
+<details class="term">
+<summary>Funktionale Differenzierung</summary>
+
+Moderne Gesellschaften gliedern sich nach Luhmann in Funktionssysteme wie Politik, Wirtschaft, Recht und Wissenschaft, die jeweils eine bestimmte Aufgabe übernehmen. Früher waren Gesellschaften vor allem hierarchisch nach Ständen geordnet.
+
+::: {.confused}
+**Häufig verwechselt mit:** sozialer Schichtung. Schichtung ordnet vertikal nach oben und unten; funktionale Differenzierung ordnet nach Aufgaben nebeneinander.
+:::
+
+</details>
+
+<details class="term">
+<summary>Binärer Code</summary>
+
+Ein binärer Code ist ein Gegensatzpaar, mit dem ein Funktionssystem entscheidet, was für es relevant ist: wahr/unwahr in der Wissenschaft, Recht/Unrecht im Recht, Fall/Nicht-Fall bzw. Hilfe/Nicht-Hilfe in der Sozialen Arbeit.
+
+::: {.confused}
+**Häufig verwechselt mit:** der Funktion. Die Funktion ist die Aufgabe des Systems für die Gesellschaft; der Code ist die Unterscheidung, mit der es arbeitet.
+:::
+
+</details>
+
+<details class="term">
+<summary>Autopoiesis</summary>
+
+Autopoiesis bedeutet Selbsterschaffung: Ein System erzeugt und erhält sich durch seine eigenen Operationen, bei Luhmann durch Kommunikation. Das Rechtssystem reproduziert sich etwa durch Gesetze, Urteile und Verfahren.
+
+::: {.confused}
+**Häufig verwechselt mit:** völliger Abschottung. Systeme sind operativ geschlossen, aber strukturell an ihre Umwelt gekoppelt.
+:::
+
+</details>
+
+<details class="term">
+<summary>Strukturelle Kopplung</summary>
+
+Strukturelle Kopplung meint, dass Systeme auf Impulse aus ihrer Umwelt reagieren, sie aber nach eigener Logik verarbeiten. Jugendamt und Schule betreffen dasselbe Kind, kommunizieren aber mit unterschiedlichen Codes.
+
+::: {.confused}
+**Häufig verwechselt mit:** Verschmelzung. Gekoppelte Systeme bleiben eigenständig; sie können sich gegenseitig irritieren, aber nicht steuern.
+:::
+
+</details>
+
+<details class="term">
+<summary>Inklusion und Exklusion</summary>
+
+Inklusion meint die Teilhabe an Funktionssystemen, Exklusion den Ausschluss. Beide bedingen einander, und Exklusion wirkt oft kumulativ über mehrere Systeme hinweg.
+
+::: {.confused}
+**Häufig verwechselt mit:** dem pädagogischen Inklusionsbegriff. Bei Luhmann ist Inklusion zunächst ein beschreibender Begriff, kein normatives Ziel.
+:::
+
+</details>
+
+## Identität und Sozialisation {#sec-sozialisation}
+
+<details class="term">
+<summary>Signifikante Andere</summary>
+
+Signifikante Andere sind die wichtigen Bezugspersonen, die in der frühen Kindheit das soziale Lernen und die Identitätsentwicklung prägen, meist Eltern oder andere enge Bezugspersonen.
+
+::: {.confused}
+**Häufig verwechselt mit:** dem generalisierten Anderen, also den verinnerlichten Erwartungen einer ganzen Gruppe.
+:::
+
+</details>
+
+<details class="term">
+<summary>Generalisierter Anderer</summary>
+
+Der generalisierte Andere bezeichnet die verinnerlichten Erwartungen, Normen und Werte einer Gruppe oder der Gesellschaft. Er entsteht beim Übergang vom freien Rollenspiel (Play) zum Regelspiel (Game).
+
+::: {.confused}
+**Häufig verwechselt mit:** einer konkreten Person. Der generalisierte Andere ist keine Person, sondern die „Stimme der Gesellschaft in uns“.
+:::
+
+</details>
+
+<details class="term">
+<summary>I, Me und Self</summary>
+
+Das I ist der spontane, kreative Anteil des Selbst. Das Me umfasst die verinnerlichten gesellschaftlichen Erwartungen. Das Self ist die integrierte Identität, die aus dem Dialog zwischen I und Me hervorgeht.
+
+::: {.confused}
+**Häufig verwechselt mit:** Gut und Böse. Das I ist nicht „egoistisch“ und das Me nicht „moralisch“; beide gehören zu einer gelingenden Identität.
+:::
+
+</details>
+
+<details class="term">
+<summary>Habitus</summary>
+
+Der Habitus ist bei Bourdieu ein System dauerhafter, verinnerlichter Denk-, Wahrnehmungs- und Handlungsmuster. Er entsteht vor allem in der Kindheit und spiegelt die soziale Position eines Menschen wider.
+
+::: {.confused}
+**Häufig verwechselt mit:** Persönlichkeit oder Charakter. Der Habitus ist nicht angeboren, sondern sozial erworben und an Milieu und Klasse gebunden.
+:::
+
+</details>
+
+<details class="term">
+<summary>Sozialisation</summary>
+
+Sozialisation ist der Prozess, in dem der Mensch in seine sozialen Kontexte hineinwächst, Sprache, Gewohnheiten, Regeln und Normen erwirbt und zugleich zu einem eigenverantwortlich und eigensinnig handlungsfähigen Individuum wird (Scherr 2018).
+
+::: {.confused}
+**Häufig verwechselt mit:** Erziehung oder bloßer Anpassung. Erziehung ist absichtsvoll; Sozialisation umfasst alle sozialen Einflüsse und schließt die Fähigkeit ein, Normen zu hinterfragen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Primäre und sekundäre Sozialisation</summary>
+
+Primäre Sozialisation meint den Erwerb von Sprach- und Handlungsfähigkeit und grundlegenden Persönlichkeitsmerkmalen, vor allem in der Familie. Sekundäre Sozialisation meint den Erwerb spezifischer Kompetenzen und Normen in Kita, Schule, Ausbildung und Beruf.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer Rangfolge der Wichtigkeit. „Primär“ meint zeitlich zuerst, nicht wichtiger.
+:::
+
+</details>
+
+<details class="term">
+<summary>Produktive Realitätsverarbeitung</summary>
+
+Nach Hurrelmann und Bauer ist Sozialisation ein wechselseitiger Prozess, in dem der Mensch seine innere Realität (Körper, Psyche) und seine äußere Realität (Familie, Schule, Gesellschaft) aktiv verarbeitet.
+
+::: {.confused}
+**Häufig verwechselt mit:** Prägung. Der Mensch wird nicht passiv geformt, sondern setzt sich aktiv mit seinen Bedingungen auseinander.
+:::
+
+</details>
