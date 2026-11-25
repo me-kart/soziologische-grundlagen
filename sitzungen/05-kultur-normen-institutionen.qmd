@@ -1,0 +1,124 @@
+---
+title: "Sitzung 5: Kultur, Normen, Werte und Institutionen"
+subtitle: "Block II · Individuum und Gesellschaft"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Woher wissen Menschen, wie sie sich verhalten sollen, und was geschieht, wenn sie von diesen Erwartungen abweichen?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Migration und gesellschaftliche Zugehörigkeit]{.tag} [Rassismus und Diskriminierung]{.tag} [Macht und Herrschaft]{.tag}
+:::
+
+Wer in einen vollen Aufzug steigt, dreht sich zur Tür, schaut auf die Anzeige und schweigt. Niemand hat diese Regel aufgeschrieben, und doch halten sich fast alle daran. Wer sich mit dem Gesicht zu den anderen stellt, erntet irritierte Blicke. Das Beispiel zeigt im Kleinen, worum es in dieser Sitzung geht: Gesellschaft funktioniert, weil Menschen geteilte Vorstellungen davon haben, was wünschenswert ist (Werte), wie man sich verhält (Normen) und wie bestimmte Probleme dauerhaft geregelt werden (Institutionen). Diese Ordnung erleichtert das Zusammenleben. Sie legt aber auch fest, wer als „normal“ und wer als „abweichend“ gilt.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Was ist Kultur?
+- Werte und Wertewandel
+- Normen und Sanktionen
+- Abweichendes Verhalten: Anomie und Etikettierung
+- Institutionen und totale Institutionen
+- Kultursensibilität statt Kulturalisierung
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Kultur, Ethnozentrismus, Kulturalisierung
+- Werte, Wertewandel
+- Muss-, Soll-, Kann-Normen
+- Sanktion, soziale Kontrolle
+- Anomie, Etikettierung (Labeling)
+- Institution, totale Institution
+:::
+
+:::
+
+## 1. Theorie: Kultur
+
+**Kultur** umfasst in der Soziologie die von Menschen geschaffene Lebensweise einer Gesellschaft oder Gruppe: ihre Sprache, Symbole, Wissensbestände, Werte, Normen, Bräuche und Gegenstände. Man unterscheidet materielle Kultur (Werkzeuge, Bauwerke, Kleidung) und immaterielle Kultur (Bedeutungen, Überzeugungen, Regeln). Drei Merkmale sind wichtig:
+
+- Kultur ist **erlernt**, nicht angeboren. Sie wird in der Sozialisation erworben (→ [Sitzung 6](06-identitaet-sozialisation-habitus.qmd)).
+- Kultur ist **geteilt**, aber nie einheitlich. Innerhalb jeder Gesellschaft gibt es Unterschiede nach Milieu, Generation, Region, Geschlecht oder Religion.
+- Kultur ist **wandelbar**. Sie verändert sich durch Austausch, Migration, Technik und Konflikte.
+
+Aus diesen Merkmalen folgen zwei Warnungen. **Ethnozentrismus** meint die Neigung, die eigene Kultur als Maßstab zu nehmen und andere daran zu messen. **Kulturalisierung** meint die Erklärung von Verhalten allein oder vorrangig über eine zugeschriebene Kultur, etwa wenn Schulprobleme eines Jugendlichen auf seine „Herkunftskultur“ zurückgeführt werden, statt nach Wohnverhältnissen, Schule oder Diskriminierungserfahrungen zu fragen. Kulturalisierung übersieht die Vielfalt innerhalb von Gruppen und verdeckt soziale Ursachen.
+
+## 2. Theorie: Werte und Wertewandel
+
+**Werte** sind allgemeine, verhältnismäßig dauerhafte Vorstellungen davon, was wünschenswert ist, etwa Freiheit, Gleichheit, Sicherheit, Leistung oder Solidarität. Sie geben Orientierung, sind aber abstrakt und können miteinander in Konflikt geraten: Sicherheit und Freiheit lassen sich nicht immer gleichzeitig maximieren.
+
+Werte wandeln sich. Ronald Inglehart (1977) hat für westliche Gesellschaften einen Wandel von **materialistischen** Werten (ökonomische und physische Sicherheit) zu **postmaterialistischen** Werten (Selbstverwirklichung, Mitbestimmung, Lebensqualität) beschrieben. Er erklärte ihn mit dem Wohlstand der Nachkriegszeit: Wer in Sicherheit aufwächst, richtet seine Prioritäten auf andere Ziele. In Deutschland zeigt sich Wertewandel etwa in veränderten Vorstellungen von Familie, Erziehung und Geschlechterrollen.
+
+## 3. Theorie: Normen und Sanktionen
+
+**Normen** übersetzen Werte in konkrete Verhaltenserwartungen. Sie legen fest, was in einer bestimmten Situation getan werden soll oder darf. Ralf Dahrendorf (1959) unterscheidet nach ihrer Verbindlichkeit:
+
+| Normtyp | Verbindlichkeit | Sanktion bei Abweichung | Beispiel |
+|---|---|---|---|
+| Muss-Norm | sehr hoch, oft rechtlich festgelegt | formelle, negative Sanktion (Strafe) | Schulpflicht, Verbot von Gewalt |
+| Soll-Norm | hoch, gesellschaftlich erwartet | informelle Sanktion (Missbilligung, Ausgrenzung) | Pünktlichkeit, Grüßen |
+| Kann-Norm | gering, eher Gewohnheit | positive Sanktion bei Erfüllung (Anerkennung) | Ehrenamt, Hilfsbereitschaft |
+
+: Normtypen nach Dahrendorf {#tbl-normen}
+
+**Sanktionen** sind Reaktionen auf normgerechtes oder abweichendes Verhalten. Sie können positiv (Lob, Belohnung) oder negativ (Tadel, Strafe), formell (durch Institutionen) oder informell (durch das soziale Umfeld) sein. Die Gesamtheit der Mechanismen, mit denen eine Gesellschaft normkonformes Verhalten sichert, nennt man **soziale Kontrolle**.
+
+## 4. Theorie: Abweichendes Verhalten
+
+Was als **abweichend** gilt, hängt von den geltenden Normen ab und ist deshalb historisch und kulturell veränderlich. Zwei Perspektiven sind für die Soziale Arbeit besonders wichtig.
+
+**Anomie.** Émile Durkheim bezeichnete mit Anomie einen Zustand, in dem Normen ihre Verbindlichkeit verlieren, etwa in Zeiten schnellen gesellschaftlichen Wandels. Robert K. Merton (1938) hat den Begriff weiterentwickelt: Anomie entsteht, wenn eine Gesellschaft allen dieselben Ziele vorgibt (etwa materiellen Erfolg), aber nicht allen dieselben legitimen Mittel bereitstellt (etwa Bildung oder gut bezahlte Arbeit). Menschen reagieren darauf unterschiedlich: mit Konformität, mit Innovation (Ziel ja, aber mit illegitimen Mitteln), mit Ritualismus (Mittel ja, Ziel aufgegeben), mit Rückzug oder mit Rebellion.
+
+**Etikettierung (Labeling Approach).** Howard S. Becker (1963) hat den Blick umgedreht. Abweichung ist für ihn keine Eigenschaft einer Handlung, sondern das Ergebnis einer Zuschreibung: Abweichend ist, wer erfolgreich als abweichend etikettiert wird. Ob ein Jugendlicher, der eine Scheibe einschlägt, als „Lausbub“ oder als „Krimineller“ gilt, hängt nicht nur von der Tat ab, sondern auch davon, wer er ist und wer urteilt. Etiketten können sich verfestigen: Wer immer wieder als „schwierig“ behandelt wird, übernimmt dieses Bild leicht in sein Selbstbild (→ Thomas-Theorem in [Sitzung 2](02-handeln-wirklichkeit.qmd)).
+
+## 5. Theorie: Institutionen
+
+**Institutionen** sind dauerhafte, gesellschaftlich anerkannte Regelungen für wiederkehrende Probleme des Zusammenlebens, etwa Ehe und Familie für Fortpflanzung und Versorgung, Schule für Bildung, Recht für Konfliktregelung. Sie entlasten, weil nicht jedes Mal neu ausgehandelt werden muss, wie etwas geht. Berger und Luckmann haben gezeigt, wie sie aus Gewohnheiten entstehen (→ [Sitzung 2](02-handeln-wirklichkeit.qmd)).
+
+Eine besondere Form beschrieb Erving Goffman (1961) als **totale Institutionen**: Einrichtungen wie Gefängnisse, geschlossene Psychiatrien oder Heime, in denen Menschen über längere Zeit von der Außenwelt getrennt leben und alle Lebensbereiche, Schlafen, Arbeiten und Freizeit, unter einer Autorität und nach einem festen Plan stattfinden. Goffman zeigte, wie solche Einrichtungen die Identität ihrer Insass:innen verändern. Seine Analyse hat die Reformen der Psychiatrie und der Heimerziehung stark beeinflusst.
+
+## 6. Analyse: Normen im Konflikt
+
+In pluralen Gesellschaften treffen unterschiedliche Normen aufeinander. Eine Jugendliche soll nach den Normen der Schule pünktlich und regelmäßig erscheinen, nach den Normen ihrer Familie aber zuverlässig für ihre jüngeren Geschwister sorgen. Beide Erwartungen sind legitim, aber sie kollidieren. Solche Konflikte als „Kulturkonflikt“ zu deuten, liegt nahe, greift aber oft zu kurz. Häufig stehen dahinter soziale Bedingungen wie Schichtarbeit der Eltern, fehlende Betreuungsplätze oder knappe finanzielle Mittel. Merton und Becker helfen zudem zu verstehen, warum abweichendes Verhalten nicht einfach Ausdruck „schlechten Charakters“ ist, sondern mit ungleichen Chancen und mit Zuschreibungen zusammenhängt.
+
+## 7. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Soziale Arbeit ist eine normative Profession. Sie arbeitet mit Normen, etwa wenn sie das Kindeswohl schützt, und sie setzt Normen durch, etwa im Rahmen von Auflagen. Zugleich beruft sie sich auf Werte: Menschenrechte, soziale Gerechtigkeit und die Achtung der Vielfalt bilden nach der internationalen Definition der Sozialen Arbeit ihre Grundlage (IFSW/IASSW 2014). Daraus ergeben sich drei Aufgaben:
+
+- **Normen reflektieren:** Welche Normen setze ich voraus? Wessen Normen sind das, und wer hat die Macht, sie durchzusetzen?
+- **Etikettierungen vermeiden:** Diagnosen, Akteneinträge und Fallbeschreibungen können Etiketten verfestigen. Sprache ist hier kein Detail.
+- **Kultursensibel, aber nicht kulturalisierend arbeiten:** Unterschiedliche Lebensweisen anerkennen, ohne Menschen auf eine zugeschriebene Kultur zu reduzieren, und stets nach sozialen Ursachen fragen.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Abweichung ist nicht nur Verhalten, sondern auch Zuschreibung. Wer mit Adressat:innen arbeitet, sollte prüfen, welche Normen er oder sie anlegt, welche Folgen Etiketten haben und ob hinter einem vermeintlichen „Kulturkonflikt“ nicht soziale Ungleichheit steht.
+:::
+
+## 8. Reflexion: Grenzen der Ansätze
+
+Der Kulturbegriff ist anfällig für Verallgemeinerungen. Wer von „der“ Kultur einer Gruppe spricht, unterstellt leicht eine Einheitlichkeit, die es nicht gibt, und schreibt Unterschiede fest, statt sie zu erklären. Normtheorien wiederum können den Eindruck erwecken, es gebe einen klaren gesellschaftlichen Konsens darüber, was richtig ist. Tatsächlich sind Normen umkämpft, und ihre Durchsetzung folgt Machtverhältnissen (→ [Sitzung 4](04-macht-herrschaft.qmd)). Der Labeling Approach schließlich wurde dafür kritisiert, die Tat selbst und das Leid der Betroffenen aus dem Blick zu verlieren.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Welche Normen und Werte stoßen in Miras Alltag aufeinander, etwa zwischen Schule, Familie, Arbeitgeber und Freundeskreis? Wie könnte eine kulturalisierende Deutung von Miras Fehlzeiten aussehen, und warum wäre sie verkürzt? Was würde es bedeuten, wenn Mira in der Schule als „Schulverweigerin“ etikettiert würde?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Normen sichtbar machen (Einzelarbeit, 15 Minuten)"}
+Beobachten Sie in der nächsten Woche eine alltägliche Situation (Bus, Mensa, Supermarkt). Notieren Sie drei ungeschriebene Normen, die dort gelten. Welche Sanktionen würden bei einem Verstoß folgen? Für wen könnten diese Normen schwerer einzuhalten sein als für andere?
+:::
+
+::: {.callout-tip title="Diskussion"}
+1. Wo verläuft die Grenze zwischen kultursensibler und kulturalisierender Sozialer Arbeit? Nennen Sie Beispiele.
+2. Welche Elemente einer totalen Institution finden sich noch heute in Einrichtungen der Sozialen Arbeit?
+:::
+
+**Zum Weiterlesen:** Becker, Howard S. (1963): Outsiders. Studies in the Sociology of Deviance. New York: Free Press. · Dahrendorf, Ralf (1959): Homo Sociologicus. Köln/Opladen: Westdeutscher Verlag. · Goffman, Erving (1961): Asylums. Essays on the Social Situation of Mental Patients and Other Inmates. Garden City: Anchor Books. · IFSW/IASSW (2014): Global Definition of Social Work. · Inglehart, Ronald (1977): The Silent Revolution. Princeton: Princeton University Press. · Merton, Robert K. (1938): Social Structure and Anomie. In: American Sociological Review 3 (5).

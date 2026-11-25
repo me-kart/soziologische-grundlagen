@@ -1,0 +1,117 @@
+---
+title: "Sitzung 8: Klassen, Schichten, soziale Milieus und soziale Mobilität"
+subtitle: "Block III · Sozialstruktur und soziale Ungleichheit"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie ist unsere Gesellschaft dauerhaft gegliedert, mit welchen Modellen lässt sich diese Gliederung beschreiben, und wie durchlässig ist sie?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Macht und Herrschaft]{.tag} [Migration und gesellschaftliche Zugehörigkeit]{.tag} [Geschlecht und soziale Ungleichheit]{.tag}
+:::
+
+„Wir sind doch alle Mittelschicht.“ Dieser Satz ist in Deutschland oft zu hören. Er drückt ein verbreitetes Selbstbild aus: Die großen Klassengegensätze seien Geschichte, die meisten Menschen lebten in ähnlichen Verhältnissen. Die Soziologie prüft solche Selbstbilder. Sie fragt, wie Einkommen, Vermögen, Bildung und Lebenschancen tatsächlich verteilt sind, welche Gruppen sich unterscheiden lassen und wie wahrscheinlich es ist, die Position der Eltern zu verlassen. Damit beginnt der Block zur **Sozialstruktur**.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Was ist Sozialstruktur?
+- Klassen: Marx und Weber
+- Schichten und Schichtungsmodelle
+- Soziale Lagen und soziale Milieus
+- Der soziale Raum (Bourdieu)
+- Soziale Mobilität
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Sozialstruktur
+- Klasse, Stand, Schicht
+- soziale Lage, soziales Milieu
+- sozialer Raum, Kapital
+- vertikale, horizontale, intra- und intergenerationale Mobilität
+- Fahrstuhleffekt
+:::
+
+:::
+
+## 1. Theorie: Was ist Sozialstruktur?
+
+Unter **Sozialstruktur** versteht die Soziologie die relativ dauerhaften Muster, nach denen eine Gesellschaft gegliedert ist. Dazu gehören die Bevölkerungsstruktur (Alter, Geschlecht, Haushalte, Migration), die Erwerbsstruktur (Berufe, Branchen, Beschäftigungsformen) und vor allem die Struktur sozialer Ungleichheit: die Verteilung von Einkommen, Vermögen, Bildung, Macht und Ansehen auf verschiedene Gruppen (Geißler 2014). Wer nach der Sozialstruktur fragt, fragt also nicht nach einzelnen Menschen, sondern nach Gruppen, die sich in ähnlichen Lagen befinden.
+
+## 2. Theorie: Klassen
+
+**Karl Marx** bestimmt Klassen über ihr Verhältnis zu den Produktionsmitteln: Wer besitzt sie, wer muss seine Arbeitskraft verkaufen? Daraus ergeben sich gegensätzliche Interessen und Konflikte (→ [Sitzung 4](04-macht-herrschaft.qmd)).
+
+**Max Weber** hat diesen Klassenbegriff differenziert. Für ihn bestimmt sich die **Klassenlage** nach den Chancen auf dem Markt, also nach Besitz, aber auch nach Qualifikationen. Daneben stehen **Stände**, die sich über soziale Ehre, Lebensführung und Prestige bilden, und **Parteien**, die um Macht konkurrieren (Weber 1922/1980). Ungleichheit hat damit mehrere Dimensionen: ökonomische, soziale und politische.
+
+## 3. Theorie: Schichten und Schichtungsmodelle
+
+Der Begriff **Schicht** geht in der deutschsprachigen Soziologie auf Theodor Geiger (1932) zurück. Schichten fassen Menschen zusammen, die sich in ähnlichen Positionen befinden, gemessen an Merkmalen wie Einkommen, Bildung und Beruf, und daher ähnliche Lebenschancen haben. Anders als der Klassenbegriff unterstellt der Schichtbegriff keinen grundlegenden Interessengegensatz. Er beschreibt ein Oben und Unten mit fließenden Übergängen.
+
+Schichtungsmodelle versuchen, diese Gliederung bildlich darzustellen. Bekannt sind die „Zwiebel“ von Karl Martin Bolte, die eine breite Mitte zeigt, und das „Haus“ von Ralf Dahrendorf (1965), das die westdeutsche Gesellschaft in Stockwerke von der Elite bis zur Unterschicht gliedert. Rainer Geißler hat dieses Modell später fortgeschrieben (Geißler 2014). Helmut Schelsky (1953) hatte für die frühe Bundesrepublik dagegen eine „nivellierte Mittelstandsgesellschaft“ diagnostiziert, in der Schichtunterschiede an Bedeutung verlieren. Diese These gilt heute als widerlegt. Ulrich Beck (1986) beschrieb stattdessen einen **Fahrstuhleffekt**: Alle Schichten sind gemeinsam nach oben gefahren, etwa bei Einkommen und Bildung, die Abstände zwischen ihnen sind aber geblieben.
+
+## 4. Theorie: Soziale Lagen und Milieus
+
+Schichtmodelle bilden vor allem vertikale Unterschiede ab. Seit den 1980er-Jahren hat die Soziologie zusätzlich **horizontale** Unterschiede in den Blick genommen. Menschen mit ähnlichem Einkommen können ganz unterschiedlich leben, denken und wählen.
+
+- **Soziale Lagen** (Hradil 2001) beschreiben typische Kombinationen von Vor- und Nachteilen, etwa Einkommen, Bildung, Wohnbedingungen, Gesundheit oder soziale Sicherheit.
+- **Soziale Milieus** fassen Menschen mit ähnlichen Werten, Lebensstilen und Alltagsorientierungen zusammen. Bekannt sind die Sinus-Milieus, die soziale Lage (oben/unten) und Grundorientierung (traditionell bis neuorientiert) kombinieren. Michael Vester und andere (2001) haben gezeigt, dass Milieus über Generationen erstaunlich stabil sind, auch wenn sie sich modernisieren.
+
+### Der soziale Raum
+
+Pierre Bourdieu hat Vertikale und Horizontale in seinem Modell des **sozialen Raums** verbunden (Bourdieu 1982). Die Position eines Menschen ergibt sich aus dem *Volumen* seines Kapitals (wie viel?) und aus dessen *Struktur* (welche Mischung aus ökonomischem und kulturellem Kapital?). Eine Lehrerin und ein Handwerksmeister können ähnlich viel verdienen, verfügen aber über unterschiedlich zusammengesetztes Kapital und unterscheiden sich deshalb in Geschmack, Lebensstil und Habitus (→ [Sitzung 6](06-identitaet-sozialisation-habitus.qmd)). Die Kapitalarten behandeln wir in [Sitzung 9](09-dimensionen-ungleichheit.qmd).
+
+## 5. Theorie: Soziale Mobilität
+
+**Soziale Mobilität** bezeichnet den Wechsel von Personen zwischen sozialen Positionen. Man unterscheidet:
+
+| Form | Bedeutung | Beispiel |
+|---|---|---|
+| vertikale Mobilität | Auf- oder Abstieg | Ein Facharbeiterkind wird Ärztin. |
+| horizontale Mobilität | Wechsel ohne Statusveränderung | Eine Erzieherin wechselt in die Schulsozialarbeit. |
+| intragenerationale Mobilität | Wechsel im Lebensverlauf einer Person | Ein Angestellter verliert seine Stelle und rutscht in Armut. |
+| intergenerationale Mobilität | Unterschied zwischen Eltern und Kindern | Die Tochter erreicht einen höheren Abschluss als ihre Eltern. |
+
+: Formen sozialer Mobilität {#tbl-mobilitaet}
+
+Wie offen eine Gesellschaft ist, zeigt sich vor allem an der intergenerationalen Mobilität: Wie stark hängt die Position der Kinder von der der Eltern ab? Für Deutschland zeigt die Forschung seit Langem einen engen Zusammenhang zwischen sozialer Herkunft und Bildungs- und Berufserfolg (→ [Sitzung 10](10-bildungsungleichheit.qmd)).
+
+## 6. Analyse: Was Sozialstrukturanalyse sichtbar macht
+
+Sozialstrukturanalyse widerlegt das Bild einer Gesellschaft, in der „alle Mittelschicht“ sind. Sie zeigt, dass sich Lebenschancen entlang von Einkommen, Vermögen und Bildung unterscheiden und dass diese Unterschiede über Generationen weitergegeben werden. Sie zeigt aber auch, dass soziale Lagen heute vielfältiger sind als in klassischen Modellen: Eine alleinerziehende Pflegekraft, ein Langzeitarbeitsloser und eine Studentin ohne Rücklagen können gleichermaßen arm sein und sich doch in Werten, Netzwerken und Perspektiven unterscheiden. Migration und Geschlecht durchziehen diese Gliederung zusätzlich: Viele Zugewanderte arbeiten unterhalb ihrer Qualifikation, Frauen sind häufiger in Teilzeit und schlechter bezahlten Berufen beschäftigt.
+
+## 7. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Für die Soziale Arbeit ist Sozialstrukturwissen in mehrfacher Hinsicht hilfreich. Es macht deutlich, dass die Adressat:innen nicht zufällig verteilt sind, sondern überdurchschnittlich häufig aus bestimmten Lagen kommen. Es hilft, Angebote so zu gestalten, dass sie unterschiedliche Milieus erreichen, statt stillschweigend die Gewohnheiten der Mittelschicht vorauszusetzen. Und es lenkt den Blick auf Übergänge, an denen Mobilität gelingt oder scheitert: Schulwechsel, Ausbildungsbeginn, Trennung, Arbeitsplatzverlust.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Adressat:innen sind nicht nur Einzelfälle, sondern Angehörige sozialer Lagen und Milieus. Wer diese Lagen kennt, kann Angebote milieusensibel gestalten und gezielt an den Übergängen ansetzen, an denen sich Lebenschancen entscheiden.
+:::
+
+## 8. Reflexion: Grenzen der Ansätze
+
+Jedes Modell vereinfacht. Klassenmodelle betonen Konflikt, übersehen aber leicht die Vielfalt der Lebensweisen. Schichtmodelle bilden ein Oben und Unten ab, sagen aber wenig über Macht und Interessen. Milieumodelle zeigen Unterschiede in Werten und Lebensstilen, können aber den Eindruck erwecken, Ungleichheit sei vor allem eine Frage des Geschmacks. Zudem bleiben Kategorien wie Geschlecht, Migration, Behinderung oder Rassismuserfahrungen in klassischen Modellen oft unterbelichtet. Hier setzt die Diskussion über Dimensionen und Mechanismen sozialer Ungleichheit an.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Wo lässt sich Miras Familie in einem Schicht- oder Milieumodell verorten? Welche Merkmale nutzen Sie dafür, und welche Informationen fehlen Ihnen? Welche Chancen auf intergenerationale Mobilität hat Mira, und welche Übergänge sind dafür entscheidend? Berücksichtigen Sie auch die Migrationsgeschichte der Familie über drei Generationen.
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Modelle vergleichen (Gruppen, 20 Minuten)"}
+Recherchieren Sie die aktuelle Darstellung der Sinus-Milieus und ein Schichtmodell (z. B. das Haus nach Geißler). Vergleichen Sie: Was zeigt das eine Modell, was das andere nicht? Welches Modell würden Sie nutzen, um die Zielgruppe eines Jugendtreffs zu beschreiben?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Wo würden Sie Ihre eigene Familie im sozialen Raum verorten? Haben Sie gegenüber Ihren Eltern einen Auf- oder Abstieg erlebt, oder eine horizontale Bewegung?
+:::
+
+**Zum Weiterlesen:** Beck, Ulrich (1986): Risikogesellschaft. Auf dem Weg in eine andere Moderne. Frankfurt a. M.: Suhrkamp. · Bourdieu, Pierre (1982): Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft. Frankfurt a. M.: Suhrkamp. · Dahrendorf, Ralf (1965): Gesellschaft und Demokratie in Deutschland. München: Piper. · Geiger, Theodor (1932): Die soziale Schichtung des deutschen Volkes. Stuttgart: Enke. · Geißler, Rainer (2014): Die Sozialstruktur Deutschlands. 7. Aufl. Wiesbaden: Springer VS. · Hradil, Stefan (2001): Soziale Ungleichheit in Deutschland. 8. Aufl. Opladen: Leske + Budrich. · Schelsky, Helmut (1953): Wandlungen der deutschen Familie in der Gegenwart. Stuttgart: Enke. · Vester, Michael et al. (2001): Soziale Milieus im gesellschaftlichen Strukturwandel. Frankfurt a. M.: Suhrkamp. · Weber, Max (1922/1980): Wirtschaft und Gesellschaft. 5. Aufl. Tübingen: Mohr.

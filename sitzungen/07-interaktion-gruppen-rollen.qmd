@@ -1,0 +1,132 @@
+---
+title: "Sitzung 7: Soziale Interaktion, Gruppen und Rollen"
+subtitle: "Block II · Individuum und Gesellschaft"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie stellen Menschen im Alltag soziale Ordnung her, welche Bedeutung haben Gruppen für sie, und was geschieht, wenn Rollenerwartungen miteinander kollidieren?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Inklusion und Exklusion]{.tag} [Geschlecht und soziale Ungleichheit]{.tag} [Rassismus und Diskriminierung]{.tag} [Struktur und Handlungsmacht]{.tag}
+:::
+
+Eine Studentin betritt zum ersten Mal ein Bewerbungsgespräch für ein Praktikum. Sie hat sich überlegt, was sie anzieht, wie sie grüßt und was sie über sich erzählt. Gleichzeitig beobachtet sie die Leiterin der Einrichtung, die ebenfalls einen Eindruck vermitteln will. Beide spielen eine Rolle, beide deuten das Verhalten der anderen, beide passen sich an. Diese Sitzung schaut auf die Mikroebene: auf das, was zwischen Menschen geschieht. Sie fragt, wie Interaktion funktioniert, welche Bedeutung Gruppen haben und wie Rollen unser Handeln ordnen und manchmal überfordern.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Symbolischer Interaktionismus
+- Alltag als Bühne (Goffman)
+- Stigma
+- Soziale Gruppen: Primär- und Sekundärgruppen, Eigen- und Fremdgruppen
+- Soziale Rolle, Rollenerwartungen, Rollenkonflikte
+- Rollendistanz und Rollengestaltung
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Interaktion, Bedeutung, Interpretation
+- Vorderbühne, Hinterbühne, Eindrucksmanagement
+- Stigma
+- Primärgruppe, Sekundärgruppe, Peergroup
+- Eigengruppe, Fremdgruppe
+- Position, Rolle, Intra- und Interrollenkonflikt
+:::
+
+:::
+
+## 1. Theorie: Symbolischer Interaktionismus
+
+Der symbolische Interaktionismus knüpft an George Herbert Mead an (→ [Sitzung 6](06-identitaet-sozialisation-habitus.qmd)). Herbert Blumer (1969) hat seine Grundannahmen in drei Prämissen zusammengefasst:
+
+1. Menschen handeln gegenüber Dingen, Personen und Situationen auf der Grundlage der **Bedeutungen**, die diese für sie haben.
+2. Diese Bedeutungen entstehen in der **sozialen Interaktion** mit anderen.
+3. Sie werden in einem **interpretativen Prozess** gehandhabt und verändert.
+
+Soziale Ordnung ist aus dieser Sicht nichts Feststehendes. Sie wird in jeder Begegnung neu hergestellt, indem Menschen Situationen deuten und ihr Handeln aufeinander abstimmen.
+
+### Alltag als Bühne
+
+Erving Goffman (1959) hat diesen Gedanken mit einer Theatermetapher ausgearbeitet. Im Alltag stellen Menschen sich dar und versuchen, den Eindruck zu steuern, den andere von ihnen gewinnen (**Eindrucksmanagement**). Auf der **Vorderbühne**, etwa im Gespräch mit Klient:innen, halten sich Fachkräfte an die Erwartungen ihrer Rolle. Auf der **Hinterbühne**, etwa im Teambüro, wird anders gesprochen, Ärger abgelassen oder ein Fall zugespitzt. Goffman meint das nicht abwertend: Ohne solche Darstellungen wäre geordnete Interaktion nicht möglich.
+
+### Stigma
+
+Für die Soziale Arbeit besonders wichtig ist Goffmans Analyse des **Stigmas** (Goffman 1963). Ein Stigma ist ein Merkmal, das eine Person in den Augen anderer diskreditiert und ihre übrigen Eigenschaften überlagert, etwa eine sichtbare Behinderung, eine Haftstrafe, Wohnungslosigkeit oder Armut. Goffman unterscheidet **Diskreditierte**, deren Stigma sichtbar oder bekannt ist, und **Diskreditierbare**, deren Stigma verborgen werden kann. Für Letztere wird jede Begegnung zur Frage: Erzähle ich es oder nicht? Menschen entwickeln Strategien des **Stigma-Managements**, vom Verbergen bis zum offensiven Umgang.
+
+## 2. Theorie: Soziale Gruppen
+
+Eine **soziale Gruppe** besteht aus mehreren Personen, die über eine gewisse Dauer in Beziehung stehen, ein Zusammengehörigkeitsgefühl entwickeln, gemeinsame Normen teilen und sich als Gruppe von anderen abgrenzen.
+
+| Unterscheidung | Merkmale | Beispiele |
+|---|---|---|
+| Primärgruppe | klein, persönlich, emotional, dauerhaft; prägt Identität und Werte | Familie, enger Freundeskreis |
+| Sekundärgruppe | größer, zweckgebunden, eher unpersönlich | Arbeitsteam, Verein, Seminargruppe |
+| Eigengruppe | die Gruppe, der man sich zugehörig fühlt („wir“) | eigene Clique, eigene Fankurve |
+| Fremdgruppe | die Gruppe, von der man sich abgrenzt („die anderen“) | gegnerische Clique, „die da drüben“ |
+
+: Formen sozialer Gruppen {#tbl-gruppen}
+
+Den Begriff der Primärgruppe prägte Charles H. Cooley (1909), die Unterscheidung von Eigen- und Fremdgruppe William G. Sumner (1906). Henri Tajfel und John C. Turner (1979) haben gezeigt, dass schon eine willkürliche Einteilung in Gruppen ausreichen kann, damit Menschen die eigene Gruppe bevorzugen. Gruppenzugehörigkeit stiftet Identität und Selbstwert. Sie kann aber auch Abwertung der „anderen“ fördern und ist damit eine Wurzel von Vorurteilen.
+
+Im Jugendalter gewinnt die **Peergroup** besondere Bedeutung. Gleichaltrige bieten Orientierung, Anerkennung und einen Raum, in dem Jugendliche sich von den Eltern lösen und eigene Normen erproben.
+
+## 3. Theorie: Soziale Rollen
+
+Jede Gesellschaft kennt **Positionen**, also Plätze im Gefüge sozialer Beziehungen: Mutter, Schülerin, Sozialarbeiter, Patient. Mit jeder Position sind **Rollenerwartungen** verbunden, also Vorstellungen darüber, wie sich die Inhaber:innen verhalten sollen. Ralf Dahrendorf (1959) nannte den Menschen als Träger von Rollen den *homo sociologicus* und sprach von der „ärgerlichen Tatsache der Gesellschaft“: Rollen begegnen uns als Zwang, dem wir uns kaum entziehen können.
+
+Da Menschen viele Rollen gleichzeitig innehaben und an jede Rolle unterschiedliche Erwartungen gerichtet werden, entstehen **Rollenkonflikte**:
+
+| Konflikttyp | Bedeutung | Beispiel |
+|---|---|---|
+| Intrarollenkonflikt | widersprüchliche Erwartungen an *eine* Rolle | Eine Lehrerin soll fördern und zugleich streng bewerten. |
+| Interrollenkonflikt | Erwartungen *verschiedener* Rollen einer Person kollidieren | Eine Studentin ist zugleich Mutter, Werkstudentin und Pflegende ihres Vaters. |
+
+: Rollenkonflikte {#tbl-rollenkonflikte}
+
+### Rollendistanz und Rollengestaltung
+
+Interaktionistische Ansätze haben das strukturfunktionalistische Rollenverständnis (→ Parsons in [Sitzung 3](03-gesellschaftliche-ordnung.qmd)) erweitert. Menschen übernehmen Rollen nicht einfach, sie gestalten sie aus. Ralph H. Turner (1962) unterscheidet die bloße Übernahme einer Rolle *(role-taking)* von ihrer aktiven Gestaltung *(role-making)*. Goffman (1961) beschreibt mit **Rollendistanz** die Fähigkeit, eine Rolle auszuüben und zugleich zu zeigen, dass man nicht völlig in ihr aufgeht, etwa durch Humor oder Selbstironie.
+
+## 4. Analyse: Junge Pflegende und Rollenkonflikte
+
+Ein Beispiel macht die Erklärungskraft der Rollentheorie deutlich. Kinder und Jugendliche, die regelmäßig Angehörige pflegen oder jüngere Geschwister versorgen, übernehmen Erwachsenenrollen, ohne dass dies gesellschaftlich als solche anerkannt ist. Sie erleben einen Interrollenkonflikt zwischen der Rolle als Schüler:in und der Rolle als Versorgende:r. Nach außen sind sie oft „diskreditierbar“ im Sinne Goffmans: Sie verbergen ihre Situation, aus Scham oder aus Angst vor dem Jugendamt. Ihre Peergroup kann eine wichtige Ressource sein, aber auch zur Belastung werden, wenn sie bei Unternehmungen nicht mithalten können.
+
+## 5. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Soziale Arbeit ist Interaktionsarbeit. Beratung, Hilfeplanung und Gruppenangebote leben davon, wie Fachkräfte und Adressat:innen Situationen deuten und Beziehungen gestalten. Daraus ergeben sich mehrere Ansatzpunkte:
+
+- **Stigmasensibilität:** Viele Adressat:innen sind diskreditierbar. Niedrigschwellige Zugänge, Vertraulichkeit und eine nicht abwertende Sprache erleichtern es, Hilfe anzunehmen.
+- **Gruppen nutzen:** Die soziale Gruppenarbeit ist eine eigene Hilfe zur Erziehung (§ 29 SGB VIII). Peer-Ansätze nutzen die Bedeutung von Gleichaltrigen gezielt.
+- **Rollenkonflikte erkennen:** Hinter „Fehlverhalten“ stehen oft unvereinbare Erwartungen. Entlastung kann darin liegen, Rollen zu klären und Verantwortung neu zu verteilen.
+- **Die eigene Rolle reflektieren:** Auch Fachkräfte erleben Intrarollenkonflikte, etwa zwischen Hilfe und Kontrolle (→ doppeltes Mandat in [Sitzung 4](04-macht-herrschaft.qmd)).
+
+::: {.praxis}
+**Für die Praxis heißt das:** Ordnung entsteht in Begegnungen. Wer Interaktionen bewusst gestaltet, Stigmata nicht verstärkt, Gruppen als Ressource nutzt und Rollenkonflikte sichtbar macht, eröffnet Adressat:innen neue Handlungsspielräume.
+:::
+
+## 6. Reflexion: Grenzen der Ansätze
+
+Interaktionistische Ansätze erklären gut, wie Bedeutungen im Alltag entstehen. Sie laufen aber Gefahr, die Strukturen zu übersehen, die Interaktionen rahmen: Wer im Bewerbungsgespräch welchen Eindruck machen kann, hängt nicht nur vom Geschick ab, sondern auch von Habitus, Sprache oder Diskriminierung. Die klassische Rollentheorie wiederum unterstellt klare, allgemein geteilte Erwartungen. In pluralen Gesellschaften sind Rollen, etwa die der Mutter oder des Vaters, jedoch umstritten und im Wandel. Und Gruppentheorien erklären Abgrenzung, sagen aber wenig darüber, warum bestimmte Gruppen gesellschaftlich mehr Macht haben, andere abzuwerten.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Welche Rollenkonflikte erlebt Mira? Unterscheiden Sie Intra- und Interrollenkonflikte. Ist Mira im Sinne Goffmans „diskreditierbar“, und wie geht sie damit um? Welche Bedeutung hat ihre Peergroup im Jugendtreff, und wie kann der Sozialarbeiter dort an Miras Situation anknüpfen?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Vorder- und Hinterbühne (Gruppen, 20 Minuten)"}
+Wählen Sie eine Einrichtung der Sozialen Arbeit, die Sie kennen. Was gehört dort zur Vorderbühne, was zur Hinterbühne? Welche Darstellungen erwarten Fachkräfte von Adressat:innen, und welche Darstellungen erwarten Adressat:innen von Fachkräften?
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Welche Rollen haben Sie selbst gerade inne? Wo kollidieren sie, und wie gehen Sie damit um?
+:::
+
+**Zum Weiterlesen:** Blumer, Herbert (1969): Symbolic Interactionism. Perspective and Method. Englewood Cliffs: Prentice Hall. · Cooley, Charles H. (1909): Social Organization. New York: Scribner. · Dahrendorf, Ralf (1959): Homo Sociologicus. Köln/Opladen: Westdeutscher Verlag. · Goffman, Erving (1959): The Presentation of Self in Everyday Life. Garden City: Doubleday (dt.: Wir alle spielen Theater). · Goffman, Erving (1961): Encounters. Indianapolis: Bobbs-Merrill. · Goffman, Erving (1963): Stigma. Englewood Cliffs: Prentice Hall. · Sumner, William G. (1906): Folkways. Boston: Ginn. · Tajfel, Henri/Turner, John C. (1979): An Integrative Theory of Intergroup Conflict. In: Austin, William G./Worchel, Stephen (Hrsg.): The Social Psychology of Intergroup Relations. Monterey: Brooks/Cole. · Turner, Ralph H. (1962): Role-Taking: Process versus Conformity. In: Rose, Arnold M. (Hrsg.): Human Behavior and Social Processes. Boston: Houghton Mifflin.

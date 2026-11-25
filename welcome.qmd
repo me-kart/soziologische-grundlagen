@@ -1,6 +1,6 @@
 ---
 title: "Soziologische Grundlagen"
-subtitle: "Interaktives Skript · Soziale Arbeit (B. A.), OTH Regensburg · SoSe 2026"
+subtitle: "Interaktives Skript · Soziale Arbeit (B. A.), OTH Regensburg"
 author: "Prof. Dr. Mehmet Kart"
 date: today
 date-format: "DD.MM.YYYY"
@@ -20,14 +20,13 @@ Das Skript begleitet die Sitzungen. Es bündelt die zentralen Inhalte, erläuter
 
 ## Ziele der Lehrveranstaltung
 
-Nach der Lehrveranstaltung können Sie
+Die Lehrveranstaltung verfolgt drei Ziele. Sie lernen,
 
-1. **definieren**, was Soziologie ist, und ihre Bedeutung für moderne Gesellschaften erklären,
-2. **einordnen**, unter welchen historischen Bedingungen die Soziologie entstanden ist und wer ihre Gründerfiguren sind,
-3. **unterscheiden**, wie Sozialkonstruktivismus, Systemtheorie, Historischer Materialismus und Kritische Theorie Gesellschaft beschreiben,
-4. **erläutern**, wie Identität, Sozialisation und Habitus den Einzelnen mit der Gesellschaft verbinden,
-5. **analysieren**, wie Schichtung, Ungleichheit, sozialer Wandel und Raum die Lebenslagen von Adressat:innen prägen,
-6. **übertragen**, was soziologisches Wissen für die professionelle Praxis der Sozialen Arbeit bedeutet.
+1. **soziologisch zu denken**, also individuelle Erfahrungen auf gesellschaftliche Zusammenhänge zu beziehen,
+2. **das Verhältnis von Individuum und Gesellschaft zu verstehen**, also wie Menschen Gesellschaft hervorbringen und zugleich von ihr geprägt werden,
+3. **soziale Problemlagen mithilfe soziologischer Theorien zu analysieren** und daraus begründete Folgerungen für die Praxis der Sozialen Arbeit abzuleiten.
+
+Jede Sitzung folgt dazu denselben vier Fragen: Was besagt der Ansatz (Theorie)? Was lässt sich damit erklären (Analyse)? Was bedeutet das für die Soziale Arbeit (Praxis)? Wo liegen seine Grenzen (Reflexion)? Ein durchgängiges Fallbeispiel, die 16-jährige Mira, macht sichtbar, was jede Theorie leistet.
 
 ## Wo Sie anfangen können
 
@@ -42,27 +41,27 @@ Die wichtigsten Begriffe zum Aufklappen, mit typischen Verwechslungen.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
+[]{.bi .bi-person .welcome-icon}
+
+**Grundlagen · [Fallbeispiel Mira](grundlagen/02-fallbeispiel-mira.qmd)**
+
+Ein Fall, der Sie durch alle zwölf Sitzungen begleitet.
+:::
+
+::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-diagram-3 .welcome-icon}
 
 **Sitzungen · [Seminarüberblick](index.qmd)**
 
-Vier Blöcke: Gesellschaftstheorien, Sozialstruktur, Schichtung und Ungleichheit, Wandel und Raum.
+Vier Blöcke: Gesellschaftstheorien, Individuum und Gesellschaft, Sozialstruktur und Ungleichheit, Wandel und Sozialraum.
 :::
 
 ::: {.g-col-12 .g-col-md-6 .welcome-card}
 []{.bi .bi-controller .welcome-icon}
 
-**Üben · [Lernspiele](03-lernspiele.qmd)**
+**Üben · [Lernspiele](03-lernspiele.qmd) und [Lernkontrolle](04-lernkontrolle.qmd)**
 
-Memory zu den Grundbegriffen und Aussagen den Theorien zuordnen.
-:::
-
-::: {.g-col-12 .g-col-md-6 .welcome-card}
-[]{.bi .bi-check2-circle .welcome-icon}
-
-**Üben · [Lernkontrolle](04-lernkontrolle.qmd)**
-
-Prüfen Sie, was Sie sicher anwenden können.
+Begriffe zuordnen, Theorien erkennen, Wissen prüfen.
 :::
 
 :::

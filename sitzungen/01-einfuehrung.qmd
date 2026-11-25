@@ -1,134 +1,182 @@
 ---
-title: "Sitzung 1: Einführung – Was ist Soziologie?"
-subtitle: "20.03.2026"
+title: "Sitzung 1: Was ist Soziologie?"
+subtitle: "Block I · Soziologisches Denken und Gesellschaftstheorien"
 ---
 
 ::: {.callout-note appearance="simple" icon=false}
 ### Leitfrage
-Was ist Soziologie, unter welchen Bedingungen ist sie entstanden, und warum braucht die Soziale Arbeit soziologisches Wissen?
+Was unterscheidet soziologisches Denken vom Alltagsdenken, unter welchen Bedingungen ist die Soziologie entstanden, und warum braucht die Soziale Arbeit sie?
 :::
 
-Im Alltag nutzen wir den Begriff „Gesellschaft“ ständig, ohne genau zu sagen, was wir damit meinen. Die erste Sitzung klärt den Rahmen der Lehrveranstaltung und stellt drei Fragen: Was ist Soziologie? Unter welchen historischen Bedingungen ist sie entstanden? Und warum ist sie für die Soziale Arbeit unverzichtbar? Im Brainstorming zu Beginn haben Sie gesammelt, was Sie unter Soziologie verstehen und welche aktuellen Phänomene sich mit ihr analysieren lassen.
+::: {.querschnitt}
+Querschnittsthemen: [Struktur und Handlungsmacht]{.tag} [Rassismus und Diskriminierung]{.tag} [Geschlecht und soziale Ungleichheit]{.tag}
+:::
+
+Eine junge Frau verliert ihren Ausbildungsplatz. Im Alltag fragen wir: Was hat sie falsch gemacht? Die Soziologie stellt eine andere Frage: Wie viele andere junge Menschen sind gerade in derselben Lage, und was haben ihre Lagen gemeinsam? Dieser Perspektivwechsel vom Einzelfall zum gesellschaftlichen Zusammenhang ist der Kern soziologischen Denkens. Die erste Sitzung führt in dieses Denken ein, zeigt, unter welchen historischen Bedingungen die Soziologie entstanden ist, und klärt, warum die Soziale Arbeit soziologisches Wissen braucht.
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Themen
 
-- Organisatorisches, Seminarplan, Prüfungsleistung
-- Definitionen von Soziologie
-- Verstehen und Erklären (Weber), soziale Tatsachen (Durkheim)
-- Begriff und Gründerväter
-- Historische Entstehungsbedingungen
-- Systematik der Soziologie
+- Organisatorisches und Prüfungsleistung
+- Was ist Soziologie? Definitionen
+- Alltagswissen und wissenschaftliches Wissen
+- Soziologische Imagination (C. Wright Mills)
+- Mikro-, Meso- und Makroebene
+- Historische Entstehung der Soziologie
+- Gründerfiguren und ein erweiterter Kanon
 - Soziologie und Soziale Arbeit
 :::
 
 ::: {.g-col-12 .g-col-md-6 .session-box}
 #### Zentrale Begriffe
 
-- Vergemeinschaftung, Vergesellschaftung
 - soziales Handeln, Verstehen, Erklären
 - soziale Tatsache
-- Positivismus
-- Industrialisierung, Urbanisierung, Individualisierung
+- soziologische Imagination
+- persönliche Schwierigkeiten, öffentliche Probleme
+- Mikro-, Meso-, Makroebene
+- Positivismus, Industrialisierung, Individualisierung
 :::
 
 :::
 
 ## 1. Organisatorisches
 
-Die Lehrveranstaltung umfasst zwölf Sitzungen in vier Blöcken (→ [Seminarüberblick](../index.qmd)). Sie schließt mit einer Portfolioprüfung ab: der Rolle als Expert:in in einer Sitzung, einem einseitigen Stundenprotokoll und einem Kurzpaper von ca. fünf Seiten, das doppelt zählt (Abgabe: 09.07.2026). In der ersten Sitzung tragen Sie sich in die Liste der Expert:innen ein.
+Die Lehrveranstaltung umfasst zwölf Sitzungen in vier Blöcken (→ [Seminarüberblick](../index.qmd)). Sie schließt mit einer Portfolioprüfung ab: der Rolle als Expert:in in einer Sitzung, einem einseitigen Stundenprotokoll und einem Kurzpaper von ca. fünf Seiten, das doppelt zählt. In der ersten Sitzung tragen Sie sich in die Liste der Expert:innen ein. Die Termine erfahren Sie in der Sitzung und auf ELO.
 
-## 2. Was ist Soziologie?
+## 2. Theorie: Was ist Soziologie?
 
-Eine erste, knappe Bestimmung lautet: Soziologie ist die wissenschaftliche Untersuchung von Gesellschaften, ihren Strukturen, Prozessen und Entwicklungen. Bernhard Schäfers (2003) präzisiert: Soziologie ist die Wissenschaft vom Sozialen, also von den verschiedenen Formen, in denen Menschen zusammenleben. Er unterscheidet zwei Ebenen:
+Eine erste, knappe Bestimmung lautet: Soziologie ist die wissenschaftliche Untersuchung von Gesellschaften, ihren Strukturen, Prozessen und Entwicklungen. Bernhard Schäfers (2003) präzisiert: Soziologie ist die Wissenschaft vom Sozialen, also von den Formen, in denen Menschen zusammenleben. Sie reichen von engen persönlichen Beziehungen wie Familie, Nachbarschaft oder Freundesgruppe bis zu abstrakten Gebilden wie Organisation, Gesellschaft oder Staat. Für diese Spannweite verwendet die Soziologie seit Max Weber die Begriffe **Vergemeinschaftung** und **Vergesellschaftung**. Was sie genau bedeuten und wie sie sich von Ferdinand Tönnies' Unterscheidung zwischen Gemeinschaft und Gesellschaft abgrenzen, klären wir in [Sitzung 2](02-handeln-wirklichkeit.qmd).
 
-| Ebene | Grundlage | Beispiele |
+### Verstehen und Erklären
+
+Die bis heute einflussreichste Definition stammt von Max Weber. Soziologie soll eine Wissenschaft sein, „welche soziales Handeln deutend verstehen und dadurch in seinem Ablauf und seinen Wirkungen ursächlich erklären will“ (Weber 1920/1985, S. 542). **Verstehen** heißt, den Sinn eines Handelns nachzuvollziehen: Warum handelt jemand so und nicht anders? **Erklären** heißt, systematisch den Ursachen, Bedingungen und Folgen nachzugehen. Beides gehört zusammen.
+
+### Soziale Tatsachen
+
+Émile Durkheim setzt einen anderen Akzent. Seine Grundregel lautet, „die soziologischen Tatbestände wie Dinge zu betrachten“ (Durkheim 1895/2007, S. 114). Soziale Tatsachen wie Normen, Recht oder Sitten bestehen unabhängig vom Einzelnen und wirken von außen auf ihn ein. Weber und Durkheim stehen damit für zwei Blickrichtungen, die die Soziologie bis heute prägen: vom handelnden Menschen aus und von den gesellschaftlichen Strukturen aus.
+
+## 3. Theorie: Soziologisch denken
+
+### Alltagswissen und wissenschaftliches Wissen
+
+Über Gesellschaft weiß jede:r etwas. Wir haben Erfahrungen mit Familie, Schule und Arbeit und machen uns ein Bild davon, „wie die Dinge laufen“. Dieses **Alltagswissen** ist nützlich. Es hilft, sich im Alltag zu orientieren. Es hat aber Grenzen: Es beruht auf einzelnen Erfahrungen, verallgemeinert schnell und wird selten überprüft.
+
+| | Alltagswissen | wissenschaftliches Wissen |
 |---|---|---|
-| Vergemeinschaftung | Nähe, persönliche Bindung | Familie, Verwandtschaft, Nachbarschaft, soziale Gruppe |
-| Vergesellschaftung | Zwecke, Regeln, Institutionen | Organisation, Gesellschaft, Staat |
+| Grundlage | eigene Erfahrungen, Hörensagen, Medien | systematische Beobachtung, Theorie, empirische Daten |
+| Geltung | wird selten überprüft | wird methodisch überprüft und kann widerlegt werden |
+| Reichweite | eigener Lebensausschnitt | viele Fälle, Vergleich, Zusammenhänge |
+| Typische Aussage | „Wer sich anstrengt, schafft es auch.“ | „Bildungserfolg hängt in Deutschland stark mit der sozialen Herkunft zusammen.“ |
 
-: Zwei Formen des Sozialen nach Schäfers {#tbl-formen}
+: Alltagswissen und wissenschaftliches Wissen {#tbl-wissen}
 
-Diese Unterscheidung greifen wir in [Sitzung 2](02-sozialkonstruktivismus.qmd) wieder auf, wenn es um Gemeinschaft und Gesellschaft geht.
+Soziologie ersetzt Alltagswissen nicht, sondern prüft es. Gerade scheinbar selbstverständliche Annahmen erweisen sich dabei oft als verkürzt.
 
-## 3. Verstehen und Erklären
+### Soziologische Imagination
 
-Die bis heute einflussreichste Definition stammt von Max Weber. Soziologie soll eine Wissenschaft sein, „welche soziales Handeln deutend verstehen und dadurch in seinem Ablauf und seinen Wirkungen ursächlich erklären will“ (Weber 1920/1985, S. 542). In dieser Definition stecken zwei Aufgaben, die zusammengehören.
+Der US-amerikanische Soziologe C. Wright Mills hat 1959 einen Begriff geprägt, der für die Soziale Arbeit besonders wertvoll ist: die **soziologische Imagination** *(sociological imagination)*. Gemeint ist die Fähigkeit, die eigene Biografie und die Geschichte einer Gesellschaft zusammenzudenken, also persönliche Erfahrungen auf gesellschaftliche Strukturen zu beziehen.
 
-**Verstehen** heißt, den Sinn eines sozialen Phänomens herauszufinden. Auf der Ebene des Handelns zwischen Menschen geht es darum, fremdes Handeln nachvollziehen zu können. Auf der Ebene abstrakter Strukturen geht es darum, die Bedingungen aufzudecken, unter denen soziale Phänomene entstanden sind und unter denen sie sich erhalten.
+Mills unterscheidet dabei **persönliche Schwierigkeiten** *(personal troubles)* und **öffentliche Probleme** *(public issues)*. Sein bekanntes Beispiel ist die Arbeitslosigkeit: Ist in einer Stadt mit 100.000 Einwohner:innen nur ein Mensch arbeitslos, ist das seine persönliche Schwierigkeit. Wir suchen die Ursachen in seinem Charakter, seinen Fähigkeiten, seinen unmittelbaren Möglichkeiten. Sind aber in einem Land Millionen Menschen arbeitslos, ist das ein öffentliches Problem. Seine Ursachen liegen in der Struktur der Wirtschaft und lassen sich nicht im Einzelnen finden (Mills 1959).
 
-**Erklären** heißt, systematisch allen möglichen Gründen nachzugehen, die zu einem Phänomen geführt haben. Erklärungen benennen nicht nur Ursachen und Bedingungen. Sie zielen auch auf die Folgen des Handelns, auf Abläufe und Wirkungen, die sich im besten Fall prognostizieren lassen.
+Für die Soziale Arbeit ist dieser Perspektivwechsel zentral. Wer Probleme nur individuell deutet, sucht die Lösung beim Einzelnen. Wer sie auch gesellschaftlich deutet, erkennt Handlungsbedarf auf weiteren Ebenen.
 
-Ein Beispiel: Eine Jugendliche bricht ihre Ausbildung ab. Verstehen fragt, welchen Sinn diese Entscheidung für sie hat. Erklären fragt, welche Bedingungen den Abbruch wahrscheinlich gemacht haben, etwa der Ausbildungsmarkt, familiäre Ressourcen oder Erfahrungen in der Schule, und was daraus folgt.
+### Mikro-, Meso- und Makroebene
 
-Émile Durkheim setzt einen anderen Akzent. Seine Grundregel lautet, „die soziologischen Tatbestände wie Dinge zu betrachten“ (Durkheim 1895/2007, S. 114). Soziale Tatsachen wie Normen, Recht oder Sitten bestehen unabhängig vom Einzelnen, wirken von außen auf ihn ein und lassen sich deshalb wie andere Gegenstände der Wissenschaft untersuchen.
+Soziologische Analysen unterscheiden drei Ebenen. Soziologisch denken heißt, sie aufeinander zu beziehen.
 
-Weber und Durkheim stehen damit für zwei Blickrichtungen, die die Soziologie bis heute prägen: vom handelnden Menschen aus und von den gesellschaftlichen Strukturen aus. Beides schließt sich nicht aus. Gute soziologische Analysen verbinden beide Perspektiven.
-
-## 4. Begriff und Gründerväter
-
-Der Begriff „Soziologie“ ist ein Kunstwort aus dem lateinischen *socius* (Gefährte, im weiteren Sinn: Mitmensch) und dem griechischen *logos* (Wort, Vernunft, im weiteren Sinn: Wissenschaft). Als Namensgeber gilt der Franzose Auguste Comte. An den Universitäten setzte sich die Soziologie erst später als eigene Disziplin durch.
-
-| Person | Lebensdaten | Wofür sie in dieser Lehrveranstaltung stehen |
+| Ebene | Gegenstand | Beispiel Arbeitslosigkeit |
 |---|---|---|
-| Auguste Comte | 1798–1857 | Namensgeber der Soziologie, Positivismus |
-| Ferdinand Tönnies | 1855–1936 | Gemeinschaft und Gesellschaft |
-| Émile Durkheim | 1858–1917 | soziale Tatsachen |
-| Georg Simmel | 1858–1918 | Wechselwirkungen zwischen Menschen, Großstadtleben |
-| Max Weber | 1864–1920 | verstehende Soziologie, soziales Handeln |
+| Mikroebene | Handeln und Interaktion von Personen | Ein Mann verliert seine Stelle; er schämt sich, zieht sich zurück, Konflikte in der Familie nehmen zu. |
+| Mesoebene | Organisationen, Gruppen, Netzwerke, Quartiere | Ein Betrieb verlagert die Produktion; das Jobcenter vermittelt; im Quartier fehlen Ausbildungsplätze. |
+| Makroebene | gesellschaftliche Strukturen und Institutionen | Strukturwandel der Wirtschaft, Arbeitsmarktpolitik, Sozialstaat, Konjunktur. |
 
-: Begründer der Soziologie {#tbl-gruender}
+: Drei Ebenen soziologischer Analyse {#tbl-ebenen}
 
-Auffällig ist, dass die „Klassiker“ fast ausschließlich weiße europäische Männer sind. Das sagt weniger über die Ideen anderer aus als über die Zugangsbedingungen zur Wissenschaft im 19. Jahrhundert. Auch das ist eine soziologische Beobachtung.
+Die drei Ebenen hängen zusammen. Entscheidungen auf der Makroebene, etwa Arbeitsmarktreformen, wirken über Organisationen wie das Jobcenter bis in den Alltag einzelner Menschen. Umgekehrt verändern viele gleichgerichtete Handlungen, etwa Proteste oder Wahlentscheidungen, gesellschaftliche Strukturen. Damit ist die Grundfrage der Soziologie berührt: das Verhältnis von **Individuum, Handeln und Struktur**. Menschen handeln nicht im luftleeren Raum, sondern unter Bedingungen, die sie nicht selbst gewählt haben. Zugleich bringen sie diese Bedingungen durch ihr Handeln immer wieder hervor und verändern sie.
 
-## 5. Historische Entstehungsbedingungen
+## 4. Theorie: Wie die Soziologie entstanden ist
 
 Die Soziologie ist eine Antwort auf gesellschaftliche Umbrüche. Sie entsteht im 19. Jahrhundert, als die alte Ordnung zerfällt und die Frage drängend wird, was eine Gesellschaft eigentlich zusammenhält.
 
-**Renaissance und frühe Individualisierung.** In der Feudalgesellschaft waren Lebensläufe weitgehend vorgezeichnet: Der Sohn des Königs wurde König, der Sohn des Bauern wurde Bauer. Am Beginn der Neuzeit rückt das Individuum in den Vordergrund. Der Buchdruck (um 1440) macht Autor:innen identifizierbar, das Selbstporträt etabliert sich als Genre (Albrecht Dürer, 1484), die Reformation (1517) hebt den einzelnen Gläubigen hervor. Autobiografie und Tagebuch entstehen als literarische Formen.
+**Renaissance und frühe Individualisierung.** In der Feudalgesellschaft waren Lebensläufe weitgehend vorgezeichnet: Der Sohn des Königs wurde König, der Sohn des Bauern wurde Bauer. Am Beginn der Neuzeit rückt das Individuum in den Vordergrund. Der Buchdruck (um 1440) macht Autor:innen identifizierbar, das Selbstporträt etabliert sich als Genre, die Reformation (1517) hebt den einzelnen Gläubigen hervor.
 
-**Aufklärung.** Die Aufklärung stellt die Frage nach der Freiheit des Einzelnen radikal. Rousseau eröffnet seinen „Gesellschaftsvertrag“ (1762) mit der Feststellung, der Mensch werde frei geboren und liege doch überall in Ketten. Kant fasst den Wahlspruch der Aufklärung als Aufforderung, den Mut zu haben, sich des eigenen Verstandes zu bedienen (Kant 1784). Das ist eine Absage an kirchliche und feudale Bevormundung und zugleich eine Forderung nach Eigenverantwortung.
+**Aufklärung.** Rousseau eröffnet seinen „Gesellschaftsvertrag“ (1762) mit der Feststellung, der Mensch werde frei geboren und liege doch überall in Ketten. Kant fasst den Wahlspruch der Aufklärung als Aufforderung, den Mut zu haben, sich des eigenen Verstandes zu bedienen (Kant 1784). Das ist eine Absage an kirchliche und feudale Bevormundung und zugleich eine Forderung nach Eigenverantwortung.
 
-**Französische Revolution und Positivismus.** Die Revolution von 1789 zeigt, dass eine Gesellschaftsordnung nicht gottgegeben ist, sondern verändert werden kann. Sozialer Wandel wird selbst zum Thema. Aus dem Geist der Aufklärung entsteht der **Positivismus**: Wissenschaft soll sich auf das Tatsächliche und Beobachtbare beschränken und sich allein auf konkrete Erfahrung berufen. Religiöse und irrationale Erklärungen werden zurückgewiesen. Comte überträgt diesen Anspruch auf die Gesellschaft.
+**Französische Revolution und Positivismus.** Die Revolution von 1789 zeigt, dass eine Gesellschaftsordnung nicht gottgegeben ist, sondern verändert werden kann. Aus dem Geist der Aufklärung entsteht der **Positivismus**: Wissenschaft soll sich auf das Beobachtbare beschränken und sich allein auf Erfahrung berufen. Auguste Comte überträgt diesen Anspruch auf die Gesellschaft.
 
-**Industrialisierung und Urbanisierung.** Maschinen und Arbeitsteilung verbilligen die Arbeitskraft; einfache, repetitive Tätigkeiten können nun auch Ungelernte, selbst Kinder, ausführen. Der Arbeiter wird „doppelt frei“: frei von der Bindung an einen Grundherrn, aber auch frei von dessen Versorgung, etwa bei einer Missernte. Neue Technologien schaffen einerseits Bedarf an Arbeitskräften, andererseits verarmen sie viele Menschen oder machen sie überflüssig. Zugleich wachsen die Städte. In Deutschland setzt die industrielle Urbanisierung in der zweiten Hälfte des 19. Jahrhunderts ein; zwischen 1870 und 1910 steigt der Anteil der Bevölkerung in Großstädten von 4,8 auf 21,3 Prozent (Häußermann et al. 2008, S. 13 f.). Armut, harte Landarbeit und starke soziale Kontrolle drängen die Menschen vom Land (Push-Faktoren), Arbeit, höhere Löhne und neue Freiheiten ziehen sie in die Stadt (Pull-Faktoren).
+**Industrialisierung und Urbanisierung.** Maschinen und Arbeitsteilung verbilligen die Arbeitskraft. Der Arbeiter wird „doppelt frei“: frei von der Bindung an einen Grundherrn, aber auch frei von dessen Versorgung. Zugleich wachsen die Städte. In Deutschland steigt der Anteil der Bevölkerung in Großstädten zwischen 1870 und 1910 von 4,8 auf 21,3 Prozent (Häußermann et al. 2008, S. 13 f.).
 
-**Modernisierung und Individualisierung.** In der traditionellen Gesellschaft regelten Herkunftsfamilie und Tradition, wen man heiratet und welchen Beruf man ergreift. Mit dem Aufbrechen dieser Ordnung werden solche Entscheidungen zunehmend dem Einzelnen auferlegt. Die Entscheidungsfreiheit wächst und mit ihr die Unsicherheit. Neue Formen kollektiver Interessenvertretung entstehen, etwa Gewerkschaften.
+**Modernisierung und Individualisierung.** Herkunftsfamilie und Tradition regeln immer weniger, wen man heiratet und welchen Beruf man ergreift. Die Entscheidungsfreiheit wächst und mit ihr die Unsicherheit. Neue Formen kollektiver Interessenvertretung entstehen, etwa Gewerkschaften.
 
 Die Leitfrage der jungen Soziologie lautet deshalb: Wie ist soziale Ordnung möglich, wenn Tradition und Religion sie nicht mehr selbstverständlich garantieren?
+
+## 5. Theorie: Gründerfiguren und ein erweiterter Kanon
+
+Der Begriff „Soziologie“ ist ein Kunstwort aus dem lateinischen *socius* (Gefährte, Mitmensch) und dem griechischen *logos* (Wort, Vernunft, Wissenschaft). Als Namensgeber gilt Auguste Comte. Die „Klassiker“, die bis heute in Lehrbüchern stehen, sind fast ausschließlich weiße europäische Männer. Das sagt weniger über die Ideen anderer aus als über die Zugangsbedingungen zur Wissenschaft im 19. Jahrhundert. Frauen und Schwarze Wissenschaftler:innen haben die Soziologie ebenso geprägt, wurden aber lange übergangen.
+
+| Person | Lebensdaten | Thematischer Bezug |
+|---|---|---|
+| Auguste Comte | 1798–1857 | Namensgeber der Soziologie, Positivismus |
+| Harriet Martineau | 1802–1876 | systematische Gesellschaftsbeobachtung, Geschlechterverhältnisse, Sklaverei („Society in America“, 1837) |
+| Karl Marx | 1818–1883 | Kapitalismus, Klassengesellschaft, Ausbeutung |
+| Ferdinand Tönnies | 1855–1936 | Gemeinschaft und Gesellschaft |
+| Émile Durkheim | 1858–1917 | soziale Tatsachen, Arbeitsteilung, Anomie |
+| Georg Simmel | 1858–1918 | Wechselwirkungen, Großstadtleben |
+| Jane Addams | 1860–1935 | Settlement-Bewegung, Verbindung von Soziologie und Sozialer Arbeit |
+| Max Weber | 1864–1920 | verstehende Soziologie, soziales Handeln, Herrschaft |
+| W. E. B. Du Bois | 1868–1963 | Rassismus, „color line“, erste große empirische Stadtstudie zur Schwarzen Bevölkerung („The Philadelphia Negro“, 1899) |
+
+: Gründerfiguren der Soziologie {#tbl-gruender}
+
+Besonders aufschlussreich für die Soziale Arbeit ist **Jane Addams**. Sie gründete 1889 in Chicago das Hull House, ein Nachbarschaftszentrum in einem armen Einwanderungsviertel. Dort lebten Gebildete und Arbeiterfamilien unter einem Dach; es entstanden Bildungsangebote, Kinderbetreuung und empirische Erhebungen zu Wohnen, Arbeit und Gesundheit im Viertel. Addams verband Forschung, Reform und praktische Hilfe. 1931 erhielt sie den Friedensnobelpreis. An ihr zeigt sich, dass Soziologie und Soziale Arbeit historisch eng zusammengehören (Addams 1910).
+
+**W. E. B. Du Bois** promovierte als erster Afroamerikaner an der Harvard University. In „The Souls of Black Folk“ (1903) beschreibt er das Problem des 20. Jahrhunderts als das Problem der „color line“, der Trennlinie nach Hautfarbe. Mit dem Begriff des „doppelten Bewusstseins“ beschreibt er die Erfahrung, sich selbst stets auch mit den abwertenden Augen der Mehrheitsgesellschaft sehen zu müssen.
 
 ## 6. Systematik der Soziologie
 
 | Bereich | Was dazugehört |
 |---|---|
-| Allgemeine Soziologie | Gesellschaftstheorie, Theorien sozialen Handelns, Grundbegriffe, Institutionenlehre, soziale Gruppen, sozialer Wandel, soziale Mobilität, Sozialstruktur, Fachgeschichte, Methodenlehre |
-| Spezielle Soziologien („Bindestrich-Soziologien“) | z. B. Stadt-, Wirtschafts-, Familien-, Technik- und Kultursoziologie, Politische Soziologie |
-| Forschungsmethoden | quantitative (statistische) und qualitative Methoden, z. B. die interpretative Analyse von Texten oder Handlungen |
+| Allgemeine Soziologie | Gesellschaftstheorie, Theorien sozialen Handelns, Grundbegriffe, Institutionen, Gruppen, sozialer Wandel, Sozialstruktur, Fachgeschichte, Methodenlehre |
+| Spezielle Soziologien („Bindestrich-Soziologien“) | z. B. Stadt-, Wirtschafts-, Familien-, Bildungs- und Kultursoziologie, Politische Soziologie |
+| Forschungsmethoden | quantitative und qualitative Methoden |
 
 : Bereiche der Soziologie {#tbl-systematik}
 
-Diese Lehrveranstaltung bewegt sich überwiegend in der Allgemeinen Soziologie. Mit der Stadt- und Landsoziologie kommt am Ende des Semesters eine spezielle Soziologie hinzu.
+## 7. Analyse: Was soziologisches Denken sichtbar macht
 
-## 7. Soziologie und Soziale Arbeit
+Nehmen wir noch einmal die Arbeitslosigkeit. Alltagsdeutungen setzen häufig bei der Person an: fehlende Motivation, falsche Entscheidungen. Eine soziologische Analyse fragt dagegen: Welche Gruppen sind besonders betroffen? Welche Branchen und Regionen? Welche Rolle spielen Bildungsabschlüsse, Alter, Geschlecht, Migrationsgeschichte oder Diskriminierung bei der Einstellung? Wie hat sich der Arbeitsmarkt verändert? Damit verschiebt sich der Blick von der Frage „Wer ist schuld?“ zur Frage „Unter welchen Bedingungen entsteht diese Lage, und für wen?“. Das entlastet den Einzelnen nicht von Verantwortung, macht aber sichtbar, wo seine Handlungsmöglichkeiten begrenzt sind.
 
-Soziale Arbeit beschäftigt sich vor allem mit sozialer Benachteiligung von Einzelnen und Gruppen. Wer Menschen in schwierigen Lebenslagen unterstützen will, muss wissen, wie diese Lebenslagen gesellschaftlich zustande kommen. Soziologisches Wissen ist deshalb in doppelter Hinsicht wichtig: analytisch, um Lebensverhältnisse zu verstehen und Probleme nicht vorschnell individuell zuzuschreiben, und gestaltend, um darüber nachzudenken, wie belastende Bedingungen überwunden werden können und wie sich präventiv verhindern lässt, dass Menschen in Not geraten.
+## 8. Praxis: Soziologie und Soziale Arbeit
+
+Soziale Arbeit beschäftigt sich vor allem mit sozialer Benachteiligung von Einzelnen und Gruppen. Soziologisches Wissen ist dabei in doppelter Hinsicht wichtig: **analytisch**, um Lebensverhältnisse zu verstehen und Probleme nicht vorschnell individuell zuzuschreiben, und **gestaltend**, um darüber nachzudenken, wie belastende Bedingungen überwunden werden können und wie sich präventiv verhindern lässt, dass Menschen in Not geraten. Die Arbeit von Jane Addams zeigt, dass beides von Beginn an zusammengehörte.
 
 ::: {.praxis}
-**Für die Praxis heißt das:** Wer nur den Einzelfall sieht, übersieht die Strukturen. Wer nur die Strukturen sieht, übersieht den Menschen. Soziologie hilft, beides zusammenzudenken.
+**Für die Praxis heißt das:** Wer nur den Einzelfall sieht, übersieht die Strukturen. Wer nur die Strukturen sieht, übersieht den Menschen. Soziologische Imagination hilft, persönliche Schwierigkeiten von Adressat:innen ernst zu nehmen und zugleich als Ausdruck öffentlicher Probleme zu erkennen. Daraus folgen Ansatzpunkte auf allen drei Ebenen: in der Einzelfallhilfe, in der Arbeit mit Organisationen und Quartieren und in der sozialpolitischen Einmischung.
+:::
+
+## 9. Reflexion: Grenzen soziologischen Denkens
+
+Soziologisches Denken hat auch Grenzen. Erstens erklärt es Wahrscheinlichkeiten, nicht Einzelschicksale. Aus der Tatsache, dass Bildungserfolg mit der sozialen Herkunft zusammenhängt, folgt nicht, dass ein bestimmtes Kind scheitern wird. Wer das übersieht, verwandelt eine Analyse in eine Prognose und im schlimmsten Fall in eine Zuschreibung. Zweitens kann eine einseitig strukturelle Perspektive die Handlungsmacht der Menschen unterschätzen. Adressat:innen sind nicht nur Produkte ihrer Verhältnisse, sondern gestalten ihr Leben aktiv. Drittens ist auch die Soziologie selbst nicht neutral: Ihr Kanon, ihre Begriffe und ihre Fragen sind historisch geprägt, wie der Blick auf Martineau, Addams und Du Bois zeigt.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Lesen Sie die Beschreibung von [Mira](../grundlagen/02-fallbeispiel-mira.qmd). Ihre Fehlzeiten in der Schule haben zugenommen. Beschreiben Sie die Fehlzeiten zunächst als *persönliche Schwierigkeit*: Welche Erklärungen liegen nahe? Beschreiben Sie sie dann als *öffentliches Problem* im Sinne von Mills: Welche gesellschaftlichen Bedingungen auf der Mikro-, Meso- und Makroebene spielen eine Rolle?
 :::
 
 ## Zur Vertiefung
 
 ::: {.callout-tip title="Arbeitsauftrag: Was die Klassiker noch nicht kannten (Gruppen, 20 Minuten)"}
-Mit welchen Herausforderungen, Entwicklungen und Fragen sehen sich (post-)moderne Gesellschaften konfrontiert, die die Klassiker der Soziologie noch nicht berücksichtigt haben? Recherchieren Sie zwei und erläutern Sie sie kurz.
+Mit welchen Herausforderungen sehen sich (post-)moderne Gesellschaften konfrontiert, die die Klassiker der Soziologie noch nicht berücksichtigen konnten? Recherchieren Sie zwei und erläutern Sie sie kurz, jeweils auf der Mikro-, Meso- und Makroebene.
 
-Mögliche Felder: Digitalisierung und soziale Medien, Globalisierung und Migration, Klimawandel und Nachhaltigkeit, Individualisierung und Pluralisierung von Lebensformen, Geschlechtervielfalt und die Rechte von LGBTQ+-Personen, neue Arbeitsformen wie Plattformarbeit und Homeoffice, Vielfalt in der Migrationsgesellschaft, globale Krisen wie Pandemien oder geopolitische Spannungen.
+Mögliche Felder: Digitalisierung und soziale Medien, Globalisierung und Migration, Klimawandel, Pluralisierung von Lebensformen, Geschlechtervielfalt, Plattformarbeit und Homeoffice, Vielfalt in der Migrationsgesellschaft, Pandemien und geopolitische Krisen.
 :::
 
 ::: {.callout-tip title="Reflexionsfrage"}
-Welches soziale Phänomen aus Ihrem Alltag oder Ihrem Praktikum würden Sie gern soziologisch verstehen, und wo würden Sie mit dem Verstehen, wo mit dem Erklären ansetzen?
+Denken Sie an eine Schwierigkeit aus Ihrem eigenen Leben oder aus Ihrem Praktikum. Was daran war eine persönliche Schwierigkeit, was ein öffentliches Problem?
 :::
 
-**Zum Weiterlesen:** Durkheim, Émile (1895/2007): Die Regeln der soziologischen Methode. Frankfurt a. M.: Suhrkamp. · Häußermann, Hartmut/Läpple, Dieter/Siebel, Walter (2008): Stadtpolitik. Frankfurt a. M.: Suhrkamp. · Schäfers, Bernhard (Hrsg.) (2003): Grundbegriffe der Soziologie. Wiesbaden: VS Verlag für Sozialwissenschaften. · Weber, Max (1920/1985): Gesammelte Aufsätze zur Wissenschaftslehre. Tübingen: Mohr Siebeck. · Bundeszentrale für politische Bildung: [Bevölkerungsentwicklung](https://www.bpb.de/nachschlagen/zahlen-und-fakten/globalisierung/52699/bevoelkerungsentwicklung).
+**Zum Weiterlesen:** Addams, Jane (1910): Twenty Years at Hull-House. New York: Macmillan. · Du Bois, W. E. B. (1903): The Souls of Black Folk. Chicago: A. C. McClurg. · Durkheim, Émile (1895/2007): Die Regeln der soziologischen Methode. Frankfurt a. M.: Suhrkamp. · Häußermann, Hartmut/Läpple, Dieter/Siebel, Walter (2008): Stadtpolitik. Frankfurt a. M.: Suhrkamp. · Mills, C. Wright (1959): The Sociological Imagination. New York: Oxford University Press. · Schäfers, Bernhard (Hrsg.) (2003): Grundbegriffe der Soziologie. Wiesbaden: VS Verlag für Sozialwissenschaften. · Weber, Max (1920/1985): Gesammelte Aufsätze zur Wissenschaftslehre. Tübingen: Mohr Siebeck.

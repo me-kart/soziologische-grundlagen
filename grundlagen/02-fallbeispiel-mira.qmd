@@ -1,0 +1,51 @@
+---
+title: "Fallbeispiel: Mira"
+subtitle: "Ein Fall, zwölf Perspektiven"
+---
+
+Theorien zu kennen ist das eine. Mit ihnen zu arbeiten ist etwas anderes. Deshalb begleitet uns durch das gesamte Semester ein Fall: Mira, 16 Jahre alt. In jeder Sitzung betrachten wir ihre Lebenssituation mit einer anderen theoretischen Brille. So wird sichtbar, was jede Theorie erklären kann und was sie ausblendet.
+
+Mira ist eine fiktive Person. Ihr Fall ist zu Übungszwecken konstruiert, verdichtet aber Lebenslagen, denen Fachkräfte der Sozialen Arbeit regelmäßig begegnen.
+
+## Miras Lebenssituation
+
+::: {.fall}
+Mira, 16 Jahre
+
+Mira lebt mit ihrer Mutter Sandra (38) und ihrem Bruder Leon (9) in einer Drei-Zimmer-Wohnung in einer Großwohnsiedlung am Rand von Regensburg. Sie teilt sich ein Zimmer mit Leon. Ihre Hausaufgaben macht sie meist am Küchentisch.
+
+Sandra arbeitet in Teilzeit als Pflegehelferin im Schichtdienst. Ihr Einkommen reicht nicht aus; die Familie bezieht ergänzende Leistungen. Miras Vater ist vor vier Jahren ausgezogen, der Kontakt ist unregelmäßig. Wenn Sandra Spätdienst hat, holt Mira ihren Bruder ab, kocht und bringt ihn ins Bett. Samstags arbeitet sie in einem Minijob in einer Bäckerei.
+
+Miras Großmutter kam Anfang der 1970er-Jahre aus dem damaligen Jugoslawien als sogenannte Gastarbeiterin nach Bayern. Mira ist in Regensburg geboren und spricht etwas Kroatisch. Trotzdem wird sie gelegentlich gefragt, woher sie „wirklich“ komme.
+
+Nach der vierten Klasse empfahl die Grundschule die Mittelschule. Sandra hat nicht widersprochen, auch weil sie selbst keine guten Erfahrungen mit Schule gemacht hat. Heute besucht Mira die 9. Klasse im M-Zweig und möchte den mittleren Schulabschluss erreichen. Ihr Berufswunsch ist Erzieherin. In den letzten Monaten haben ihre Fehlzeiten zugenommen. Die Schule hat die Jugendsozialarbeit an Schulen (JaS) eingeschaltet.
+
+Im Jugendtreff des Quartiers ist Mira fast jeden Tag. Dort trifft sie ihre Freundinnen und spricht manchmal mit dem Sozialarbeiter. Das Quartier gilt in der Stadt als „Problemviertel“. Mira hat gehört, dass Bewerbungen mit ihrer Adresse schlechtere Chancen hätten. Ihre Mutter sagt oft: „Ich will, dass du es einmal besser hast.“
+:::
+
+## Mira im Verlauf des Semesters
+
+| Sitzung | Perspektive | Leitfrage zu Mira |
+|---|---|---|
+| 1 | Soziologisches Denken | Sind Miras Fehlzeiten ein persönliches Problem oder Ausdruck einer gesellschaftlichen Problemlage? |
+| 2 | Weber, Berger/Luckmann | Welchen Sinn hat Miras Handeln für sie selbst, und welche Deutungen anderer prägen ihre Wirklichkeit? |
+| 3 | Parsons, Luhmann | Welche Rollen erfüllt Mira, und in welchen Systemen ist sie inkludiert oder exkludiert? |
+| 4 | Marx, Kritische Theorie | Wie prägen Klassenlage und Arbeitsbedingungen das Leben der Familie? |
+| 5 | Kultur, Normen, Institutionen | Welche Normen und Werte stoßen in Miras Alltag aufeinander? |
+| 6 | Identität, Sozialisation, Habitus | Wie haben Familie, Schule und Quartier Mira geprägt, und wie verarbeitet sie diese Einflüsse? |
+| 7 | Interaktion, Gruppen, Rollen | Welche Rollenkonflikte erlebt Mira, und welche Bedeutung hat ihre Peergroup? |
+| 8 | Klassen, Schichten, Milieus | Wo lässt sich Miras Familie in der Sozialstruktur verorten? Welche Mobilitätschancen hat sie? |
+| 9 | Dimensionen der Ungleichheit | Welche Ressourcen fehlen, und wie wirken mehrere Benachteiligungen zusammen? |
+| 10 | Bildungsungleichheit | Warum hat Mira die Mittelschule besucht, und welche Rolle spielen primäre und sekundäre Herkunftseffekte? |
+| 11 | Modernisierung und Wandel | Welche Freiheiten und welche Risiken bringt die Individualisierung für Mira? |
+| 12 | Sozialraum, Segregation | Wie wirkt das Quartier auf Miras Chancen, und wo kann sozialraumorientierte Arbeit ansetzen? |
+
+: Das Fallbeispiel in den zwölf Sitzungen {#tbl-mira}
+
+## So arbeiten Sie mit dem Fall
+
+In jeder Sitzung finden Sie einen Kasten **Fallbeispiel Mira** mit einem kurzen Analyseauftrag. Halten Sie Ihre Antworten über das Semester hinweg fest, etwa in einem eigenen Dokument. Am Ende können Sie die Perspektiven nebeneinanderlegen und vergleichen: Wo ergänzen sich die Theorien? Wo widersprechen sie sich? Welche Perspektive erscheint Ihnen für die professionelle Praxis besonders hilfreich, und warum?
+
+::: {.callout-tip title="Reflexionsfrage"}
+Welche Annahmen über Mira haben Sie beim ersten Lesen getroffen, die so nicht im Text stehen? Woher kommen diese Annahmen?
+:::

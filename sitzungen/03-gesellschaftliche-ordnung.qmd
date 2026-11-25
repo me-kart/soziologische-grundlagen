@@ -1,0 +1,150 @@
+---
+title: "Sitzung 3: Gesellschaftliche Ordnung"
+subtitle: "Block I · Parsons und Luhmann"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie wird gesellschaftliche Ordnung aufrechterhalten, und wie funktioniert eine hochkomplexe, in viele Bereiche gegliederte Gesellschaft?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Inklusion und Exklusion]{.tag} [Migration und gesellschaftliche Zugehörigkeit]{.tag} [Struktur und Handlungsmacht]{.tag}
+:::
+
+Wie viele Stunden in der Woche würden Sie arbeiten, wenn Sie es sich aussuchen könnten? Die Antwort wirkt wie eine persönliche Entscheidung. Tatsächlich hängt sie an Arbeitsverträgen, Löhnen, Sozialversicherung und Bildungsabschlüssen. Dass all das einigermaßen verlässlich ineinandergreift, ist alles andere als selbstverständlich. Die beiden Theorien dieser Sitzung fragen, wie das gelingt. Talcott Parsons antwortet: durch gemeinsame Werte, Normen und Rollen. Niklas Luhmann antwortet: durch Teilsysteme, die jeweils ihrer eigenen Logik folgen.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Das Problem der sozialen Ordnung
+- Strukturfunktionalismus (Parsons): Werte, Normen, Rollen, AGIL-Schema
+- Die Krankenrolle als Beispiel
+- Systemtheorie (Luhmann): Kommunikation, Funktionssysteme, Codes
+- Inklusion und Exklusion
+- Soziale Arbeit aus systemtheoretischer Sicht
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Strukturfunktionalismus, normative Integration
+- Rolle, Norm, Internalisierung, AGIL
+- funktionale Differenzierung, Komplexitätsreduktion
+- Autopoiesis, strukturelle Kopplung
+- binärer Code
+- Inklusion, Exklusion
+:::
+
+:::
+
+## 1. Theorie: Ordnung durch gemeinsame Werte (Parsons)
+
+Der US-amerikanische Soziologe Talcott Parsons (1902–1979) war in der Mitte des 20. Jahrhunderts der einflussreichste Soziologe der Welt. Ihn beschäftigte das **Problem der sozialen Ordnung**: Wenn alle Menschen nur ihren eigenen Interessen folgen, warum endet Gesellschaft dann nicht im Kampf aller gegen alle?
+
+Parsons' Antwort lautet: Ordnung entsteht durch **normative Integration**. Gesellschaften teilen grundlegende Werte. Diese Werte werden in **Normen** übersetzt, also verbindliche Verhaltenserwartungen, und in **Rollen** gebündelt, also Bündel von Erwartungen an Inhaber:innen bestimmter Positionen wie Mutter, Lehrerin oder Arzt. Durch Sozialisation verinnerlichen Menschen diese Werte und Normen (**Internalisierung**). Sie handeln dann nicht nur aus Angst vor Sanktionen konform, sondern weil sie die Erwartungen zu ihren eigenen gemacht haben.
+
+### Das AGIL-Schema
+
+Jedes soziale System muss nach Parsons vier Grundfunktionen erfüllen, um zu bestehen. Er nennt sie nach ihren englischen Anfangsbuchstaben AGIL.
+
+| Funktion | Bedeutung | gesellschaftlicher Bereich |
+|---|---|---|
+| A – Adaptation (Anpassung) | Ressourcen aus der Umwelt beschaffen | Wirtschaft |
+| G – Goal Attainment (Zielerreichung) | gemeinsame Ziele festlegen und verfolgen | Politik |
+| I – Integration | die Teile zusammenhalten, Konflikte regeln | Recht, gesellschaftliche Gemeinschaft |
+| L – Latency (Strukturerhaltung) | Werte erhalten und weitergeben | Familie, Schule, Religion, Kultur |
+
+: Das AGIL-Schema nach Parsons {#tbl-agil}
+
+Für die Soziale Arbeit ist besonders die vierte Funktion bedeutsam: Familie und Schule sorgen dafür, dass Werte über Generationen weitergegeben werden. Fallen sie aus, gerät aus Parsons' Sicht die Ordnung in Gefahr.
+
+### Die Krankenrolle
+
+Ein bekanntes Beispiel aus Parsons' Werk ist die **Krankenrolle** *(sick role)* (Parsons 1951). Krankheit ist für ihn nicht nur ein körperlicher Zustand, sondern eine soziale Rolle mit Rechten und Pflichten. Kranke werden von ihren normalen Verpflichtungen befreit und nicht für ihren Zustand verantwortlich gemacht. Im Gegenzug wird erwartet, dass sie gesund werden wollen und fachkundige Hilfe suchen und annehmen. Wer diese Erwartungen nicht erfüllt, etwa eine Therapie abbricht, verliert die Anerkennung als „legitim krank“. Hier wird deutlich, wie Rollen Verhalten ordnen und wie abweichendes Verhalten als Störung erscheint. Rollen behandeln wir in [Sitzung 7](07-interaktion-gruppen-rollen.qmd) genauer.
+
+## 2. Theorie: Gesellschaft als Kommunikationssystem (Luhmann)
+
+Niklas Luhmann (1927–1998) war Schüler von Parsons, hat dessen Theorie aber grundlegend umgebaut. Für Luhmann besteht Gesellschaft nicht aus Menschen und auch nicht aus Handlungen, sondern aus **Kommunikation**. Menschen mit ihrem Bewusstsein gehören zur Umwelt sozialer Systeme. Und anders als Parsons nimmt Luhmann nicht an, dass gemeinsame Werte die Gesellschaft zusammenhalten.
+
+**Funktionale Differenzierung.** Frühere Gesellschaften waren vor allem hierarchisch nach Ständen geordnet. Moderne Gesellschaften bestehen aus Teilsystemen, die jeweils eine bestimmte Aufgabe übernehmen, etwa Politik, Wirtschaft, Recht oder Wissenschaft.
+
+**Komplexitätsreduktion.** Moderne Gesellschaften sind zu komplex, um als Ganzes gesteuert zu werden. Jedes System konzentriert sich auf einen Ausschnitt der Welt und blendet den Rest aus.
+
+**Autopoiesis.** Jedes System erzeugt und erhält sich durch seine eigenen Operationen. Das Rechtssystem reproduziert sich durch rechtliche Kommunikation: Gesetze, Urteile, Verfahren.
+
+**Operative Geschlossenheit und strukturelle Kopplung.** Systeme kommunizieren nur in ihrer eigenen „Sprache“. Sie reagieren zwar auf Impulse aus ihrer Umwelt, verarbeiten sie aber nach eigener Logik. Was in der Wissenschaft als „wahr“ gilt, muss politisch nicht durchsetzbar sein.
+
+### Funktionssysteme und binäre Codes
+
+| | Wissenschaft | Politik | Recht | Wirtschaft |
+|---|---|---|---|---|
+| Funktion | Erweiterung von Wissen | kollektiv verbindliche Entscheidungen | Stabilisierung normativer Erwartungen | Regulierung von Knappheit |
+| Medium | Wahrheit | Macht | Recht | Geld |
+| Code | wahr/unwahr | Macht haben/nicht haben (Regierung/Opposition) | Recht/Unrecht | zahlen/nicht zahlen |
+
+: Funktionssysteme der Gesellschaft nach Luhmann {#tbl-systeme}
+
+::: {.callout-warning title="Umstritten: Ist Soziale Arbeit ein eigenes Funktionssystem?"}
+Luhmann selbst hat die Soziale Arbeit nicht als eigenes Funktionssystem ausgearbeitet. Dirk Baecker (1994) hat vorgeschlagen, soziale Hilfe als Funktionssystem mit dem Code **Hilfe/Nicht-Hilfe** zu verstehen; in der Praxis zeige er sich als Unterscheidung **Fall/Nicht-Fall**. Diese These ist in der Fachdiskussion umstritten. Kritiker:innen wenden ein, Soziale Arbeit habe weder ein eigenes Kommunikationsmedium noch eine eigene, von anderen Systemen unabhängige Logik. Sie sei eher ein Leistungsbereich, der vom Rechts-, Politik- und Gesundheitssystem abhängt, oder ein Komplex von Organisationen. Andere sehen in ihr ein sekundäres Funktionssystem, das die Folgeprobleme der anderen Systeme bearbeitet. Wenn im Folgenden vom Code Fall/Nicht-Fall die Rede ist, ist das deshalb eine Deutungsperspektive, keine gesicherte Tatsache.
+:::
+
+### Inklusion und Exklusion
+
+In einer funktional differenzierten Gesellschaft gehört niemand mehr „ganz“ zu einem Stand. Menschen sind an vielen Systemen gleichzeitig beteiligt, als Schüler:in, Arbeitnehmer:in, Wähler:in, Patient:in, Rechtsperson. Luhmann nennt diese Teilhabe **Inklusion**, den Ausschluss **Exklusion** (Luhmann 1995).
+
+- Inklusion und Exklusion bedingen einander.
+- Es gibt keine zentrale Instanz, die Inklusion garantiert. Jedes System entscheidet selbst, wer teilnimmt.
+- Exklusion wirkt **kumulativ**: Wer keinen Schulabschluss hat, findet schwer Arbeit; wer keine Arbeit hat, verliert leichter die Wohnung; wer keine Meldeadresse hat, hat Probleme im Kontakt mit Behörden.
+
+## 3. Analyse: Zwei Antworten auf dieselbe Frage
+
+| | Parsons: Strukturfunktionalismus | Luhmann: Systemtheorie |
+|---|---|---|
+| Woraus besteht Gesellschaft? | aus Handlungen, die in Rollen und Normen geordnet sind | aus Kommunikation |
+| Was hält sie zusammen? | gemeinsame, verinnerlichte Werte | funktionale Differenzierung; keine gemeinsame Werteklammer |
+| Stellung des Menschen | Träger von Rollen, durch Sozialisation integriert | Umwelt sozialer Systeme, in einzelne Systeme inkludiert |
+| Blick auf Abweichung | Störung, die durch soziale Kontrolle bearbeitet wird | Folge von Exklusion aus Funktionssystemen |
+
+: Parsons und Luhmann im Vergleich {#tbl-parsons-luhmann}
+
+Ein Beispiel aus der Arbeit mit Geflüchteten zeigt die Erklärungskraft der Systemtheorie. Eine Person darf einen Sprachkurs besuchen (Inklusion ins Bildungssystem), aber nicht arbeiten (Exklusion aus dem Wirtschaftssystem), weil ihr Aufenthaltsstatus das ausschließt (Rechtssystem). Parsons würde eher fragen, ob und wie die Person die Werte und Rollenerwartungen der Aufnahmegesellschaft verinnerlicht. Hier zeigt sich bereits eine Schwäche seines Ansatzes: Er verlagert das Problem leicht auf die Seite der Einzelnen.
+
+## 4. Praxis: Was das für die Soziale Arbeit bedeutet
+
+**Mit Parsons** lässt sich verstehen, warum Soziale Arbeit häufig mit Rollenerwartungen arbeitet: Eltern sollen erziehen, Kranke gesund werden wollen, Arbeitslose Arbeit suchen. Soziale Arbeit kann aus dieser Sicht als Instanz sozialer Kontrolle erscheinen, die Abweichungen bearbeitet und Integration wiederherstellt.
+
+**Mit Luhmann** wird ein anderes Bild sichtbar. Die Soziale Arbeit reagiert auf Probleme, die in anderen Systemen entstehen, und zielt auf Re-Inklusion. Sie lebt dabei von den Exklusionen, die sie zugleich verhindern will. Und sie kann selbst ausschließen: Jede Fallentscheidung schließt auch Menschen aus, und die Markierung als „Fall“ kann stigmatisieren.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Wer mit Rollenerwartungen arbeitet, sollte fragen, wessen Normen hier gelten und ob die Bedingungen, diese Rollen zu erfüllen, überhaupt gegeben sind. Wer Hilfe als Fallentscheidung begreift, sollte auf jene achten, die knapp außerhalb der Kriterien liegen, und auf die Wirkung der Etikettierung.
+:::
+
+## 5. Reflexion: Grenzen der Ansätze
+
+Parsons' Strukturfunktionalismus wurde vor allem für drei Punkte kritisiert. Er überschätzt den Konsens über Werte, unterschätzt Konflikte und Machtverhältnisse und neigt dazu, bestehende Verhältnisse als funktional zu rechtfertigen. Ralf Dahrendorf hat dagegen eingewandt, dass Gesellschaften ebenso durch Konflikt und Herrschaft geprägt sind (→ [Sitzung 4](04-macht-herrschaft.qmd)). Luhmanns Systemtheorie ist analytisch scharf, aber abstrakt. Sie beschreibt Exklusion, ohne sie normativ zu bewerten, und lässt die Erfahrungen der Betroffenen weitgehend außen vor. Für eine Profession, die sich auf soziale Gerechtigkeit und Menschenrechte beruft, ist das eine bedeutsame Leerstelle.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Welche Rollen erfüllt Mira (als Tochter, Schwester, Schülerin, Beschäftigte, Freundin)? Welche Rollenerwartungen kollidieren? Prüfen Sie dann mit Luhmann: In welche Funktionssysteme ist Mira inkludiert, wo droht Exklusion, und wie könnte sich eine Exklusion kumulativ auswirken?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Anwendungsaufgaben (Gruppen, 20 Minuten)"}
+1. Ordnen Sie Einrichtungen der Sozialen Arbeit (z. B. Kita, Jugendamt, Schuldnerberatung, Wohnungslosenhilfe) den vier AGIL-Funktionen zu. Wo gelingt die Zuordnung, wo nicht?
+2. Beschreiben Sie ein Beispiel für strukturelle Kopplung zwischen Sozialer Arbeit und einem anderen System (Recht, Gesundheit, Bildung).
+3. Wann wird eine Person zum „Fall“? Welche Risiken entstehen durch diese Unterscheidung?
+
+**Lösungsideen:** Die Kita lässt sich der Funktion L (Strukturerhaltung) zuordnen, die Schuldnerberatung am ehesten A (Anpassung), viele Einrichtungen erfüllen aber mehrere Funktionen zugleich. Jugendamt und Schule sind strukturell gekoppelt: Was die Schule als „Leistungsversagen“ sieht, deutet das Jugendamt als „Hilfebedarf“; nötig ist Übersetzungsarbeit, etwa über Schulsozialarbeit. Ob jemand zum Fall wird, hängt von Gesetz, Zuständigkeit und Ressourcen ab, nicht allein vom subjektiven Leid. Risiken sind Stigmatisierung, Abhängigkeit und Menschen, die durchs Raster fallen.
+:::
+
+::: {.callout-tip title="Diskussion"}
+1. Ist Soziale Arbeit eher Instanz sozialer Kontrolle (Parsons) oder Bearbeiterin von Exklusion (Luhmann), oder beides?
+2. „Es gibt keine Inklusion ohne Exklusion.“ Was bedeutet das für das Ideal einer inklusiven Gesellschaft?
+:::
+
+**Zum Weiterlesen:** Baecker, Dirk (1994): Soziale Hilfe als Funktionssystem der Gesellschaft. In: Zeitschrift für Soziologie 23 (2). · Luhmann, Niklas (1984): Soziale Systeme. Grundriß einer allgemeinen Theorie. Frankfurt a. M.: Suhrkamp. · Luhmann, Niklas (1995): Inklusion und Exklusion. In: Ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch. Opladen: Westdeutscher Verlag. · Luhmann, Niklas (1997): Die Gesellschaft der Gesellschaft. Frankfurt a. M.: Suhrkamp. · Parsons, Talcott (1951): The Social System. Glencoe: Free Press.

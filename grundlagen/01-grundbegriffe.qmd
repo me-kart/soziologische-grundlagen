@@ -2,7 +2,7 @@
 title: "Grundbegriffe der Soziologie"
 ---
 
-Diese Seite stellt die Begriffe vor, die in der Lehrveranstaltung immer wieder auftauchen. Klicken Sie auf einen Begriff, um die Erläuterung und die typische Verwechslung zu sehen. Üben können Sie die Begriffe anschließend auf der Seite [Lernspiele](../03-lernspiele.qmd), prüfen können Sie sich in der [Lernkontrolle](../04-lernkontrolle.qmd).
+Diese Seite stellt die Begriffe vor, die in der Lehrveranstaltung immer wieder auftauchen, geordnet nach den Themen des Semesters. Klicken Sie auf einen Begriff, um die Erläuterung und die typische Verwechslung zu sehen. Üben können Sie die Begriffe anschließend auf der Seite [Lernspiele](../03-lernspiele.qmd), prüfen können Sie sich in der [Lernkontrolle](../04-lernkontrolle.qmd).
 
 ```{=html}
 <div class="term-tools">
@@ -69,12 +69,47 @@ Der Positivismus ist eine aus der Aufklärung hervorgegangene Strömung, nach de
 </details>
 
 <details class="term">
-<summary>Vergemeinschaftung und Vergesellschaftung</summary>
+<summary>Vergemeinschaftung und Vergesellschaftung (Weber)</summary>
 
-Vergemeinschaftung meint Formen des Zusammenlebens, die auf Nähe und persönlicher Bindung beruhen (Familie, Nachbarschaft, Gruppe). Vergesellschaftung meint Formen, die auf Zwecken, Regeln und Organisation beruhen (Organisation, Gesellschaft, Staat).
+Bei Max Weber zwei Orientierungen sozialer Beziehungen. Vergemeinschaftung beruht auf subjektiv gefühlter (affektueller oder traditionaler) Zusammengehörigkeit, etwa in Familie oder Freundeskreis. Vergesellschaftung beruht auf einem rational motivierten Interessenausgleich oder einer Interessenverbindung, etwa im Tausch, im Vertrag oder im Zweckverein. Beide kommen in den meisten Beziehungen gemischt vor.
 
 ::: {.confused}
-**Häufig verwechselt mit:** einer zeitlichen Abfolge. Beide Formen bestehen in modernen Gesellschaften nebeneinander.
+**Häufig verwechselt mit:** Tönnies' Unterscheidung von Gemeinschaft und Gesellschaft. Tönnies beschreibt zwei Formen oder Epochen des Zusammenlebens, oft mit kulturkritischem Unterton; Weber beschreibt wertfrei zwei Prozesse, die sich überlagern.
+:::
+
+</details>
+
+## Soziologisch denken {#sec-denken}
+
+<details class="term">
+<summary>Soziologische Imagination</summary>
+
+Begriff von C. Wright Mills (1959): die Fähigkeit, die eigene Biografie und die Geschichte einer Gesellschaft zusammenzudenken. Mills unterscheidet persönliche Schwierigkeiten (personal troubles), deren Ursachen im Umfeld der Person liegen, und öffentliche Probleme (public issues), deren Ursachen in gesellschaftlichen Strukturen liegen.
+
+::: {.confused}
+**Häufig verwechselt mit:** Fantasie oder Kreativität. Gemeint ist eine analytische Fähigkeit: individuelle Erfahrungen auf gesellschaftliche Zusammenhänge zu beziehen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Alltagswissen und wissenschaftliches Wissen</summary>
+
+Alltagswissen beruht auf eigenen Erfahrungen, verallgemeinert schnell und wird selten überprüft. Wissenschaftliches Wissen beruht auf systematischer Beobachtung, Theorie und empirischen Daten und wird methodisch überprüft.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer Rangordnung von „falsch“ und „richtig“. Alltagswissen ist im Alltag nützlich; Wissenschaft prüft es und zeigt, wo es verkürzt.
+:::
+
+</details>
+
+<details class="term">
+<summary>Mikro-, Meso- und Makroebene</summary>
+
+Drei Ebenen soziologischer Analyse: die Mikroebene des Handelns und der Interaktion von Personen, die Mesoebene von Organisationen, Gruppen und Quartieren und die Makroebene gesellschaftlicher Strukturen und Institutionen. Soziologisch denken heißt, die Ebenen aufeinander zu beziehen.
+
+::: {.confused}
+**Häufig verwechselt mit:** getrennten Welten. Entscheidungen auf der Makroebene wirken über Organisationen bis in den Alltag Einzelner, und viele gleichgerichtete Handlungen verändern Strukturen.
 :::
 
 </details>
@@ -87,7 +122,7 @@ Vergemeinschaftung meint Formen des Zusammenlebens, die auf Nähe und persönlic
 Gemeinschaft beruht auf Nähe, emotionaler Verbundenheit, Vertrautheit und Tradition. Gesellschaft beruht auf Zweckorientierung, Rationalität, Anonymität und Arbeitsteilung.
 
 ::: {.confused}
-**Häufig verwechselt mit:** einer Wertung. Gemeinschaft ist nicht „besser“ als Gesellschaft; beide beschreiben unterschiedliche Formen von Beziehungen.
+**Häufig verwechselt mit:** Webers Vergemeinschaftung und Vergesellschaftung. Tönnies sieht eine historische Abfolge mit kulturkritischem Unterton (Verlust von Gemeinschaft); Weber unterscheidet wertfrei zwei Orientierungen, die sich überlagern.
 :::
 
 </details>
@@ -150,7 +185,7 @@ Moderne Gesellschaften gliedern sich nach Luhmann in Funktionssysteme wie Politi
 <details class="term">
 <summary>Binärer Code</summary>
 
-Ein binärer Code ist ein Gegensatzpaar, mit dem ein Funktionssystem entscheidet, was für es relevant ist: wahr/unwahr in der Wissenschaft, Recht/Unrecht im Recht, Fall/Nicht-Fall bzw. Hilfe/Nicht-Hilfe in der Sozialen Arbeit.
+Ein binärer Code ist ein Gegensatzpaar, mit dem ein Funktionssystem entscheidet, was für es relevant ist: wahr/unwahr in der Wissenschaft, Recht/Unrecht im Recht, zahlen/nicht zahlen in der Wirtschaft. Ob auch die Soziale Arbeit ein Funktionssystem mit eigenem Code (Hilfe/Nicht-Hilfe bzw. Fall/Nicht-Fall) ist, ist umstritten; der Vorschlag stammt von Dirk Baecker (1994).
 
 ::: {.confused}
 **Häufig verwechselt mit:** der Funktion. Die Funktion ist die Aufgabe des Systems für die Gesellschaft; der Code ist die Unterscheidung, mit der es arbeitet.
@@ -187,6 +222,162 @@ Inklusion meint die Teilhabe an Funktionssystemen, Exklusion den Ausschluss. Bei
 
 ::: {.confused}
 **Häufig verwechselt mit:** dem pädagogischen Inklusionsbegriff. Bei Luhmann ist Inklusion zunächst ein beschreibender Begriff, kein normatives Ziel.
+:::
+
+</details>
+
+<details class="term">
+<summary>Typen sozialen Handelns (Weber)</summary>
+
+Weber unterscheidet zweckrationales (an Zweck, Mitteln und Folgen orientiertes), wertrationales (am Eigenwert orientiertes), affektuelles (von Gefühlen bestimmtes) und traditionales (durch eingelebte Gewohnheit bestimmtes) Handeln.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer Einteilung von Menschen in Typen. Es sind Idealtypen von Handlungen, die in der Wirklichkeit meist gemischt vorkommen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Normative Integration und AGIL (Parsons)</summary>
+
+Nach Talcott Parsons wird gesellschaftliche Ordnung durch gemeinsame, verinnerlichte Werte, Normen und Rollen gesichert. Jedes soziale System muss vier Funktionen erfüllen: Anpassung (Adaptation), Zielerreichung (Goal Attainment), Integration und Strukturerhaltung (Latency).
+
+::: {.confused}
+**Häufig verwechselt mit:** Luhmanns Systemtheorie. Parsons sieht Gesellschaft durch gemeinsame Werte integriert; für Luhmann besteht sie aus Kommunikation ohne gemeinsame Werteklammer.
+:::
+
+</details>
+
+<details class="term">
+<summary>Macht und Herrschaft (Weber)</summary>
+
+Macht ist jede Chance, innerhalb einer sozialen Beziehung den eigenen Willen auch gegen Widerstreben durchzusetzen. Herrschaft ist die Chance, für einen Befehl bei angebbaren Personen Gehorsam zu finden. Weber unterscheidet legale, traditionale und charismatische Herrschaft.
+
+::: {.confused}
+**Häufig verwechselt mit:** Gewalt. Herrschaft ist stabil, wenn die Beherrschten sie für legitim halten.
+:::
+
+</details>
+
+<details class="term">
+<summary>Klasse (Marx)</summary>
+
+Bei Marx bestimmt sich die Klasse über das Verhältnis zu den Produktionsmitteln. Im Kapitalismus stehen sich Bourgeoisie (Besitz an Produktionsmitteln) und Proletariat (nur Besitz der eigenen Arbeitskraft) gegenüber.
+
+::: {.confused}
+**Häufig verwechselt mit:** Schicht. Der Klassenbegriff betont einen Interessengegensatz; der Schichtbegriff beschreibt ein Oben und Unten mit fließenden Übergängen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Entfremdung</summary>
+
+Bei Marx die Erfahrung, dass Menschen in der kapitalistischen Lohnarbeit dem Produkt ihrer Arbeit, ihrer Tätigkeit, ihrem eigenen Wesen und ihren Mitmenschen fremd werden.
+
+::: {.confused}
+**Häufig verwechselt mit:** bloßer Unzufriedenheit im Job. Entfremdung ist ein Strukturmerkmal der Arbeitsverhältnisse, kein individuelles Gefühl.
+:::
+
+</details>
+
+<details class="term">
+<summary>Ideologie</summary>
+
+Vorstellungen, die bestehende Herrschaftsverhältnisse als natürlich oder gerecht erscheinen lassen. Nach Marx sind die herrschenden Ideen einer Zeit die Ideen der herrschenden Klasse.
+
+::: {.confused}
+**Häufig verwechselt mit:** Weltanschauung im Allgemeinen. Im kritischen Sinn bezeichnet Ideologie Ideen, die Herrschaft verschleiern.
+:::
+
+</details>
+
+<details class="term">
+<summary>Kulturindustrie</summary>
+
+Begriff von Horkheimer und Adorno für die industrielle Produktion standardisierter Kulturwaren, die die Illusion freier Wahl vermitteln, aber Anpassung fördern und von gesellschaftlichen Widersprüchen ablenken.
+
+::: {.confused}
+**Häufig verwechselt mit:** Kulturwirtschaft als neutralem Branchenbegriff. Kulturindustrie ist ein kritischer Begriff.
+:::
+
+</details>
+
+## Kultur, Interaktion und Rollen {#sec-kultur}
+
+<details class="term">
+<summary>Normen (Muss-, Soll-, Kann-Normen)</summary>
+
+Normen sind Verhaltenserwartungen, die Werte konkretisieren. Dahrendorf unterscheidet nach ihrer Verbindlichkeit Muss-Normen (oft rechtlich, formell sanktioniert), Soll-Normen (gesellschaftlich erwartet, informell sanktioniert) und Kann-Normen (Erfüllung wird positiv anerkannt).
+
+::: {.confused}
+**Häufig verwechselt mit:** Werten. Werte sind allgemeine Vorstellungen des Wünschenswerten; Normen legen konkretes Verhalten fest.
+:::
+
+</details>
+
+<details class="term">
+<summary>Anomie</summary>
+
+Bei Durkheim ein Zustand, in dem Normen ihre Verbindlichkeit verlieren. Bei Merton die Spannung, die entsteht, wenn eine Gesellschaft allen dieselben Ziele vorgibt, aber nicht allen dieselben legitimen Mittel bereitstellt.
+
+::: {.confused}
+**Häufig verwechselt mit:** Anarchie. Anomie meint nicht Herrschaftslosigkeit, sondern Normschwäche oder eine Kluft zwischen Zielen und Mitteln.
+:::
+
+</details>
+
+<details class="term">
+<summary>Etikettierung (Labeling Approach)</summary>
+
+Abweichung ist nach Howard S. Becker keine Eigenschaft einer Handlung, sondern das Ergebnis einer Zuschreibung. Etiketten können sich verfestigen und ins Selbstbild übernommen werden.
+
+::: {.confused}
+**Häufig verwechselt mit:** Verharmlosung. Der Ansatz bestreitet nicht, dass Handlungen geschehen, sondern fragt, wer sie wie bewertet und mit welchen Folgen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Totale Institution</summary>
+
+Einrichtungen wie Gefängnisse, geschlossene Psychiatrien oder Heime, in denen Menschen über längere Zeit von der Außenwelt getrennt leben und alle Lebensbereiche unter einer Autorität stattfinden (Goffman).
+
+::: {.confused}
+**Häufig verwechselt mit:** jeder großen Organisation. Entscheidend ist die umfassende Kontrolle aller Lebensbereiche.
+:::
+
+</details>
+
+<details class="term">
+<summary>Stigma</summary>
+
+Ein Merkmal, das eine Person in den Augen anderer diskreditiert und ihre übrigen Eigenschaften überlagert (Goffman). Diskreditierte tragen ein sichtbares, Diskreditierbare ein verbergbares Stigma.
+
+::: {.confused}
+**Häufig verwechselt mit:** dem Merkmal selbst. Ein Stigma entsteht erst durch die gesellschaftliche Bewertung eines Merkmals.
+:::
+
+</details>
+
+<details class="term">
+<summary>Primärgruppe und Sekundärgruppe</summary>
+
+Primärgruppen sind kleine, persönliche, emotional bedeutsame Gruppen wie Familie oder enger Freundeskreis. Sekundärgruppen sind größer, zweckgebunden und eher unpersönlich, etwa Arbeitsteam oder Verein.
+
+::: {.confused}
+**Häufig verwechselt mit:** primärer und sekundärer Sozialisation. Die Begriffe hängen zusammen, bezeichnen aber Gruppen, nicht Lernphasen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Soziale Rolle und Rollenkonflikt</summary>
+
+Eine Rolle ist das Bündel von Erwartungen an die Inhaber:innen einer sozialen Position. Ein Intrarollenkonflikt entsteht bei widersprüchlichen Erwartungen an eine Rolle, ein Interrollenkonflikt, wenn die Erwartungen verschiedener Rollen einer Person kollidieren.
+
+::: {.confused}
+**Häufig verwechselt mit:** Schauspiel im Sinne von Verstellung. Rollen sind gesellschaftliche Erwartungen, die Menschen übernehmen und zugleich aktiv gestalten.
 :::
 
 </details>
@@ -266,6 +457,153 @@ Nach Hurrelmann und Bauer ist Sozialisation ein wechselseitiger Prozess, in dem 
 
 ::: {.confused}
 **Häufig verwechselt mit:** Prägung. Der Mensch wird nicht passiv geformt, sondern setzt sich aktiv mit seinen Bedingungen auseinander.
+:::
+
+</details>
+
+## Sozialstruktur und Ungleichheit {#sec-ungleichheit}
+
+<details class="term">
+<summary>Sozialstruktur</summary>
+
+Die relativ dauerhaften Muster, nach denen eine Gesellschaft gegliedert ist, etwa Bevölkerungs- und Erwerbsstruktur und vor allem die Struktur sozialer Ungleichheit: die Verteilung von Einkommen, Vermögen, Bildung, Macht und Ansehen auf Gruppen.
+
+::: {.confused}
+**Häufig verwechselt mit:** Sozialisation oder Kultur. Sozialstruktur meint dauerhafte Verteilungs- und Beziehungsmuster der Gesamtgesellschaft, nicht das Hineinwachsen Einzelner.
+:::
+
+</details>
+
+<details class="term">
+<summary>Schicht</summary>
+
+Zusammenfassung von Menschen in ähnlichen Positionen, gemessen an Merkmalen wie Einkommen, Bildung und Beruf, mit ähnlichen Lebenschancen. Der Begriff geht in der deutschsprachigen Soziologie auf Theodor Geiger zurück.
+
+::: {.confused}
+**Häufig verwechselt mit:** Milieu. Schichten ordnen vertikal nach oben und unten; Milieus fassen zusätzlich Werte und Lebensstile zusammen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Soziales Milieu</summary>
+
+Gruppe von Menschen mit ähnlicher sozialer Lage und ähnlichen Werten, Lebensstilen und Alltagsorientierungen, etwa in den Sinus-Milieus.
+
+::: {.confused}
+**Häufig verwechselt mit:** Umfeld im Sinne von Nachbarschaft. Ein Milieu ist ein soziologischer Typ, kein Ort.
+:::
+
+</details>
+
+<details class="term">
+<summary>Soziale Mobilität</summary>
+
+Wechsel von Personen zwischen sozialen Positionen. Vertikale Mobilität meint Auf- und Abstieg, horizontale einen Wechsel ohne Statusveränderung; intragenerationale Mobilität findet im Lebensverlauf, intergenerationale zwischen Eltern und Kindern statt.
+
+::: {.confused}
+**Häufig verwechselt mit:** räumlicher Mobilität. Ein Umzug ist nicht automatisch ein sozialer Auf- oder Abstieg.
+:::
+
+</details>
+
+<details class="term">
+<summary>Kapitalarten (Bourdieu)</summary>
+
+Ressourcen, mit denen Menschen ihre Position sichern oder verbessern: ökonomisches Kapital (Geld, Eigentum), kulturelles Kapital (verinnerlichtes Wissen, Kulturgüter, Bildungsabschlüsse), soziales Kapital (Beziehungen) und symbolisches Kapital (Anerkennung).
+
+::: {.confused}
+**Häufig verwechselt mit:** dem alltäglichen Kapitalbegriff, der nur Geld meint. Bei Bourdieu lassen sich die Kapitalarten ineinander umwandeln.
+:::
+
+</details>
+
+<details class="term">
+<summary>Primäre und sekundäre Herkunftseffekte (Boudon)</summary>
+
+Primäre Effekte sind herkunftsbedingte Unterschiede in den schulischen Leistungen. Sekundäre Effekte sind herkunftsbedingte Unterschiede in den Bildungsentscheidungen bei gleicher Leistung.
+
+::: {.confused}
+**Häufig verwechselt mit:** fehlender Bildungsorientierung. Sekundäre Effekte entstehen, weil Kosten und Risiken eines Bildungswegs für Familien ungleich verteilt sind.
+:::
+
+</details>
+
+<details class="term">
+<summary>Institutionelle Diskriminierung</summary>
+
+Benachteiligung, die in den Routinen, Regeln und Entscheidungspraxen von Organisationen wie Schulen oder Behörden wirkt, oft ohne Absicht der Beteiligten (Gomolla/Radtke).
+
+::: {.confused}
+**Häufig verwechselt mit:** individuellen Vorurteilen. Institutionelle Diskriminierung kann auch dort wirken, wo niemand diskriminieren will.
+:::
+
+</details>
+
+<details class="term">
+<summary>Intersektionalität</summary>
+
+Das Zusammenwirken mehrerer Kategorien sozialer Ungleichheit wie Klasse, Geschlecht, Rassismuserfahrung oder Behinderung. Der Begriff geht auf Kimberlé Crenshaw (1989) zurück.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer bloßen Addition von Benachteiligungen. An der Kreuzung entstehen eigene Formen der Diskriminierung.
+:::
+
+</details>
+
+## Wandel und Raum {#sec-raum}
+
+<details class="term">
+<summary>Individualisierung (Beck)</summary>
+
+Herauslösung der Menschen aus traditionellen Bindungen wie Klasse, Familie und Geschlechterrollen. Beck beschreibt sie als Freisetzung, als Verlust traditioneller Sicherheiten und als Einbindung in neue Abhängigkeiten, etwa vom Arbeitsmarkt.
+
+::: {.confused}
+**Häufig verwechselt mit:** Vereinzelung oder Egoismus. Gemeint ist ein struktureller Wandel, der mehr Wahlmöglichkeiten und zugleich neue Risiken schafft.
+:::
+
+</details>
+
+<details class="term">
+<summary>Postmigrantische Gesellschaft</summary>
+
+Gesellschaft, in der Migration als Tatsache anerkannt ist, in der aber weiterhin darüber gestritten wird, wer dazugehört und wie Gleichheit hergestellt wird (Foroutan).
+
+::: {.confused}
+**Häufig verwechselt mit:** einer Gesellschaft „nach“ der Migration. Migration hört nicht auf; „post“ bezeichnet die Aushandlungen, die ihr folgen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Segregation</summary>
+
+Ungleiche Verteilung von Bevölkerungsgruppen über die Stadtteile, etwa nach Einkommen (sozial), Herkunft (ethnisch) oder Alter und Haushaltsform (demografisch).
+
+::: {.confused}
+**Häufig verwechselt mit:** freiwilliger Abgrenzung. Für benachteiligte Gruppen ist Segregation meist erzwungen, etwa durch Mietpreise und Diskriminierung.
+:::
+
+</details>
+
+<details class="term">
+<summary>Territoriale Stigmatisierung</summary>
+
+Der schlechte Ruf eines Viertels überträgt sich auf seine Bewohner:innen und benachteiligt sie, etwa bei Bewerbungen oder auf dem Wohnungsmarkt.
+
+::: {.confused}
+**Häufig verwechselt mit:** einer objektiven Beschreibung der Lage im Viertel. Der Ruf kann sich von den tatsächlichen Verhältnissen weit entfernen.
+:::
+
+</details>
+
+<details class="term">
+<summary>Sozialraumorientierung</summary>
+
+Fachkonzept der Sozialen Arbeit, das am Willen der Menschen ansetzt, Eigeninitiative fördert, Ressourcen der Menschen und des Sozialraums nutzt, zielgruppen- und bereichsübergreifend arbeitet und Akteur:innen vernetzt.
+
+::: {.confused}
+**Häufig verwechselt mit:** bloßer Zuständigkeit nach Stadtteilen. Sozialraumorientierung ist eine fachliche Haltung, keine Verwaltungsgliederung.
 :::
 
 </details>

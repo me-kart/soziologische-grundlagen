@@ -1,0 +1,112 @@
+---
+title: "Sitzung 11: Modernisierung und gesellschaftlicher Wandel"
+subtitle: "Block IV · Gesellschaftlicher Wandel und Sozialraum"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie wandeln sich moderne Gesellschaften, welche Freiheiten und welche neuen Risiken entstehen dabei, und wer kann sie nutzen oder muss sie tragen?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Migration und gesellschaftliche Zugehörigkeit]{.tag} [Geschlecht und soziale Ungleichheit]{.tag} [Struktur und Handlungsmacht]{.tag} [Inklusion und Exklusion]{.tag}
+:::
+
+Die Großmutter einer Studentin hat mit 19 geheiratet, ihren Beruf nach der Geburt des ersten Kindes aufgegeben und lebte ihr Leben lang in derselben Stadt. Die Studentin selbst weiß nicht, ob sie heiraten will, hat schon in drei Städten gewohnt, plant ein Auslandssemester und wird voraussichtlich mehrfach den Arbeitsplatz wechseln. Ihr Leben bietet mehr Wahlmöglichkeiten. Es verlangt aber auch mehr Entscheidungen, und Fehlentscheidungen werden ihr selbst zugerechnet. Diese Sitzung fragt, wie sich moderne Gesellschaften wandeln und was das für die Lebensführung der Menschen bedeutet.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Was ist sozialer Wandel?
+- Modernisierung: vier Dimensionen
+- Von mechanischer zu organischer Solidarität (Durkheim)
+- Individualisierung und Risikogesellschaft (Beck)
+- Globalisierung, Migration, Digitalisierung
+- Gesellschaft der Singularitäten (Reckwitz)
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- sozialer Wandel, Modernisierung
+- Differenzierung, Rationalisierung, Individualisierung, Domestizierung
+- mechanische und organische Solidarität
+- Risikogesellschaft, riskante Freiheiten
+- postmigrantische Gesellschaft
+- Singularisierung
+:::
+
+:::
+
+## 1. Theorie: Sozialer Wandel und Modernisierung
+
+**Sozialer Wandel** bezeichnet die Veränderung gesellschaftlicher Strukturen über die Zeit: von Familienformen, Arbeitswelt, Werten, Institutionen oder Machtverhältnissen. Die Soziologie ist selbst als Wissenschaft vom Wandel entstanden (→ [Sitzung 1](01-einfuehrung.qmd)).
+
+Unter **Modernisierung** versteht man den langfristigen Wandel von traditionalen zu modernen Gesellschaften. Hans van der Loo und Willem van Reijen (1992) beschreiben ihn in vier Dimensionen:
+
+| Dimension | Bedeutung | Beispiel |
+|---|---|---|
+| Differenzierung | Gesellschaft gliedert sich in spezialisierte Bereiche | Trennung von Familie, Beruf, Politik, Religion (→ Luhmann, [Sitzung 3](03-gesellschaftliche-ordnung.qmd)) |
+| Rationalisierung | Handeln orientiert sich zunehmend an Zweck, Berechnung und Regeln | Bürokratie, Wissenschaft, Markt; Webers „Entzauberung der Welt“ |
+| Individualisierung | Menschen lösen sich aus traditionellen Bindungen und gestalten ihr Leben selbst | Freie Partner- und Berufswahl |
+| Domestizierung | Menschen beherrschen Natur und eigene Triebe zunehmend | Technik, Medizin, Selbstkontrolle |
+
+: Dimensionen der Modernisierung {#tbl-modernisierung}
+
+### Von mechanischer zu organischer Solidarität
+
+Émile Durkheim (1893) fragte, was moderne Gesellschaften zusammenhält, wenn Menschen sich immer stärker unterscheiden. In einfachen Gesellschaften beruht Zusammenhalt auf Ähnlichkeit: Alle teilen dieselben Überzeugungen und Lebensweisen (**mechanische Solidarität**). In arbeitsteiligen Gesellschaften beruht er auf wechselseitiger Abhängigkeit: Weil jede:r eine spezialisierte Aufgabe erfüllt, sind alle aufeinander angewiesen (**organische Solidarität**). Wandelt sich die Gesellschaft schneller, als neue Normen entstehen, droht **Anomie** (→ [Sitzung 5](05-kultur-normen-institutionen.qmd)).
+
+## 2. Theorie: Individualisierung und Risikogesellschaft (Beck)
+
+Ulrich Beck (1986) hat die Gegenwart als **Risikogesellschaft** beschrieben. Zwei Entwicklungen stehen im Mittelpunkt. Erstens erzeugt die Moderne selbst neue, globale Risiken, etwa ökologische Gefahren, die sich nicht an Klassen- oder Ländergrenzen halten. Zweitens werden Menschen aus traditionellen Bindungen wie Klasse, Familie und Geschlechterrollen herausgelöst.
+
+Beck beschreibt diese **Individualisierung** in drei Dimensionen: als *Freisetzung* aus vorgegebenen Sozialformen, als *Entzauberung*, also Verlust traditioneller Sicherheiten und Orientierungen, und als *Reintegration* in neue Abhängigkeiten, etwa vom Arbeitsmarkt, vom Bildungssystem und vom Sozialstaat. Biografien werden zur **Bastelbiografie**: Sie müssen selbst gestaltet und verantwortet werden. Ulrich Beck und Elisabeth Beck-Gernsheim (1994) sprechen deshalb von **riskanten Freiheiten**. Wer scheitert, erlebt das als persönliches Versagen, auch wenn die Ursachen gesellschaftlich sind (→ Mills, [Sitzung 1](01-einfuehrung.qmd)).
+
+## 3. Theorie: Globalisierung, Migration und Digitalisierung
+
+**Globalisierung** bezeichnet die zunehmende weltweite Verflechtung von Wirtschaft, Politik, Kommunikation und Kultur. Sie eröffnet Chancen, etwa durch Austausch und Mobilität, verschärft aber auch Konkurrenz und kann Arbeitsplätze verlagern.
+
+**Migration** ist kein Sonderfall, sondern ein Normalfall moderner Gesellschaften. Deutschland ist seit Jahrzehnten ein Einwanderungsland, von der Anwerbung sogenannter Gastarbeiter:innen über die Aussiedlerzuwanderung bis zur Fluchtmigration. Naika Foroutan (2019) beschreibt Deutschland als **postmigrantische Gesellschaft**: eine Gesellschaft, in der Migration als Tatsache anerkannt ist, in der aber weiterhin darüber gestritten wird, wer dazugehört und wie Gleichheit und Teilhabe hergestellt werden.
+
+**Digitalisierung** verändert Arbeit, Kommunikation, Öffentlichkeit und Beziehungen. Plattformen ermöglichen neue Formen der Teilhabe, erzeugen aber auch neue Ungleichheiten, etwa zwischen jenen, die digitale Werkzeuge souverän nutzen, und jenen, denen Geräte, Kompetenzen oder Zugänge fehlen.
+
+## 4. Theorie: Die Gesellschaft der Singularitäten (Reckwitz)
+
+Andreas Reckwitz (2017) beschreibt einen weiteren Wandel. In der industriellen Moderne zählte das Allgemeine: standardisierte Produkte, Normalbiografien, die breite Mittelschicht. In der Spätmoderne wird das **Besondere** zum Maßstab: einzigartige Erfahrungen, authentische Persönlichkeiten, unverwechselbare Orte. Getragen wird diese Kultur von einer neuen, akademisch gebildeten Mittelklasse. Ihr gegenüber stehen eine traditionelle Mittelklasse, die an Bedeutung verliert, und eine neue Unterklasse in einfachen Dienstleistungen, deren Lebensweise als „nicht besonders“ entwertet wird. Der Wandel ist damit nicht nur kulturell, sondern auch eine neue Form sozialer Polarisierung.
+
+## 5. Analyse: Gewinne und Verluste des Wandels
+
+Modernisierung bringt Freiheitsgewinne, etwa für Frauen, für queere Menschen oder für junge Menschen, die ihren Lebensweg selbst wählen wollen. Diese Gewinne sind aber ungleich verteilt. Wer über Bildung, Geld und Netzwerke verfügt, kann Wahlmöglichkeiten nutzen. Wer diese Ressourcen nicht hat, erlebt vor allem die Kehrseite: Unsicherheit, Konkurrenz und die Erwartung, für das eigene Scheitern selbst verantwortlich zu sein. Individualisierung hebt soziale Ungleichheit also nicht auf, sie macht sie nur weniger sichtbar, weil sie als individuelles Schicksal erscheint.
+
+## 6. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Mit dem gesellschaftlichen Wandel verändert sich auch die Soziale Arbeit. Wo traditionelle Sicherheiten durch Familie, Nachbarschaft oder Normalarbeitsverhältnis wegfallen, wächst der Bedarf an Unterstützung bei der Lebensbewältigung. Soziale Arbeit begleitet Menschen an Übergängen, in Krisen und beim „Basteln“ ihrer Biografien. Sie hat es mit neuen Problemlagen zu tun, etwa digitaler Ausgrenzung, Einsamkeit oder prekärer Plattformarbeit, und sie arbeitet in einer postmigrantischen Gesellschaft, in der Zugehörigkeit immer wieder verhandelt wird.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Individualisierte Risiken brauchen kollektive Antworten. Soziale Arbeit sollte Menschen bei der Gestaltung ihrer Biografien stärken, ohne die Verantwortung für gesellschaftlich erzeugte Risiken allein auf sie zu übertragen. Dazu gehört, Wandel auch sozialpolitisch mitzugestalten.
+:::
+
+## 7. Reflexion: Grenzen der Ansätze
+
+Modernisierungstheorien wurden vielfach kritisiert. Sie unterstellen leicht einen linearen Fortschritt nach westlichem Vorbild und haben andere Wege in die Moderne sowie die koloniale Geschichte Europas ausgeblendet. Becks Individualisierungsthese wurde vorgeworfen, sie überschätze die Auflösung von Klassen; die Forschung zeigt, dass soziale Herkunft weiterhin stark wirkt (→ [Sitzung 8](08-klassen-schichten-milieus.qmd) und [Sitzung 10](10-bildungsungleichheit.qmd)). Reckwitz' Klassenmodell wiederum ist anschaulich, aber grob und vor allem auf westliche Großstädte zugeschnitten.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Vergleichen Sie Miras Lebenssituation mit der ihrer Großmutter, die als sogenannte Gastarbeiterin nach Bayern kam. Welche Freiheiten hat Mira, die ihre Großmutter nicht hatte? Welche neuen Risiken und Entscheidungszwänge erlebt sie? Inwiefern erfährt Mira eine „riskante Freiheit“, und welche Ressourcen bräuchte sie, um diese Freiheit nutzen zu können?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Drei Generationen (Gruppen, 20 Minuten)"}
+Vergleichen Sie die Lebensläufe von drei Generationen einer Familie (real oder fiktiv): Ausbildung, Beruf, Familiengründung, Wohnorte, Mediennutzung. Wo zeigen sich die vier Dimensionen der Modernisierung? Wo zeigen sich Kontinuitäten?
+:::
+
+::: {.callout-tip title="Diskussion"}
+Ist Individualisierung für die Adressat:innen der Sozialen Arbeit eher Befreiung oder Belastung?
+:::
+
+**Zum Weiterlesen:** Beck, Ulrich (1986): Risikogesellschaft. Auf dem Weg in eine andere Moderne. Frankfurt a. M.: Suhrkamp. · Beck, Ulrich/Beck-Gernsheim, Elisabeth (Hrsg.) (1994): Riskante Freiheiten. Individualisierung in modernen Gesellschaften. Frankfurt a. M.: Suhrkamp. · Durkheim, Émile (1893/1992): Über soziale Arbeitsteilung. Frankfurt a. M.: Suhrkamp. · Foroutan, Naika (2019): Die postmigrantische Gesellschaft. Ein Versprechen der pluralen Demokratie. Bielefeld: transcript. · Reckwitz, Andreas (2017): Die Gesellschaft der Singularitäten. Berlin: Suhrkamp. · van der Loo, Hans/van Reijen, Willem (1992): Modernisierung. Projekt und Paradox. München: dtv.

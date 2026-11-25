@@ -1,0 +1,133 @@
+---
+title: "Sitzung 9: Dimensionen und Mechanismen sozialer Ungleichheit"
+subtitle: "Block III · Macht, Ressourcen und Teilhabe"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Worin unterscheiden sich die Lebenschancen von Menschen, und durch welche Mechanismen entsteht und verfestigt sich soziale Ungleichheit?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Macht und Herrschaft]{.tag} [Rassismus und Diskriminierung]{.tag} [Geschlecht und soziale Ungleichheit]{.tag} [Inklusion und Exklusion]{.tag}
+:::
+
+Zwei Familien leben im selben Haus. Beide haben ein ähnliches Einkommen. Die eine hat Großeltern mit Eigentumswohnung, Freund:innen in der Verwaltung und Eltern mit Hochschulabschluss. Die andere hat Schulden, kaum Kontakte außerhalb des Quartiers und erlebt bei der Wohnungssuche, dass ihr Nachname Türen verschließt. Auf dem Papier sind beide Familien gleich gestellt. Ihre Lebenschancen unterscheiden sich dennoch erheblich. Diese Sitzung fragt, welche Dimensionen sozialer Ungleichheit es gibt und durch welche Mechanismen sie entsteht und weitergegeben wird.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Was ist soziale Ungleichheit?
+- Klassische und neue Dimensionen
+- Kapitalarten (Bourdieu)
+- Mechanismen: Schließung, Diskriminierung, Kumulation
+- Etablierte und Außenseiter (Elias)
+- Intersektionalität
+- Armut und Teilhabe
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- soziale Ungleichheit, Lebenschancen
+- ökonomisches, kulturelles, soziales, symbolisches Kapital
+- soziale Schließung
+- direkte, indirekte, institutionelle Diskriminierung
+- Etablierte, Außenseiter, Machtbalance
+- Intersektionalität, relative Armut, Teilhabe
+:::
+
+:::
+
+## 1. Theorie: Was ist soziale Ungleichheit?
+
+Nicht jeder Unterschied ist soziale Ungleichheit. Dass Menschen unterschiedlich groß sind oder verschiedene Hobbys haben, ist soziologisch zunächst unerheblich. Von **sozialer Ungleichheit** spricht man, wenn Menschen aufgrund ihrer Stellung in der Gesellschaft dauerhaft bessere oder schlechtere Zugangschancen zu Gütern und Positionen haben, die in einer Gesellschaft als erstrebenswert gelten (Kreckel 1992). Entscheidend sind also drei Merkmale: Es geht um *gesellschaftlich bewertete* Güter, die Unterschiede sind *dauerhaft*, und sie hängen mit *sozialen Positionen* zusammen, nicht mit Zufall oder individueller Laune.
+
+## 2. Theorie: Dimensionen sozialer Ungleichheit
+
+| | Dimension | Beispiele |
+|---|---|---|
+| klassisch | Einkommen und Vermögen | Lohn, Rücklagen, Erbschaften, Wohneigentum |
+| | Bildung | Schulabschluss, Ausbildung, Studium |
+| | Macht | Einfluss auf Entscheidungen in Betrieb, Politik, Verwaltung |
+| | Prestige | Ansehen eines Berufs oder einer Gruppe |
+| erweitert | Arbeits- und Wohnbedingungen | Schichtarbeit, Belastungen, Wohnfläche, Lärm |
+| | Gesundheit | Lebenserwartung, chronische Erkrankungen |
+| | soziale Sicherheit | Absicherung bei Krankheit, Arbeitslosigkeit, Alter |
+| | Teilhabe und Anerkennung | Zugang zu Kultur, Mitbestimmung, Diskriminierungserfahrungen |
+
+: Dimensionen sozialer Ungleichheit {#tbl-dimensionen}
+
+Die Dimensionen hängen zusammen, decken sich aber nicht vollständig. Ein Handwerksmeister kann gut verdienen und wenig Prestige im Bildungsbürgertum genießen; eine promovierte Geflüchtete kann über hohe Bildung verfügen und dennoch in prekärer Beschäftigung arbeiten, weil ihr Abschluss nicht anerkannt wird.
+
+## 3. Theorie: Ressourcen als Kapital (Bourdieu)
+
+Pierre Bourdieu (1983) unterscheidet vier Formen von Kapital, also Ressourcen, die Menschen einsetzen können, um ihre Position zu sichern oder zu verbessern:
+
+- **Ökonomisches Kapital:** Geld, Vermögen, Eigentum.
+- **Kulturelles Kapital:** in drei Formen. *Inkorporiert* als verinnerlichtes Wissen, Sprache und Umgangsformen; *objektiviert* als Bücher, Instrumente, Kunstwerke; *institutionalisiert* als Bildungsabschlüsse und Titel.
+- **Soziales Kapital:** Beziehungen und Netzwerke, die Unterstützung, Informationen oder Zugänge ermöglichen.
+- **Symbolisches Kapital:** Anerkennung und Prestige, die aus den anderen Kapitalformen entstehen, wenn sie als legitim gelten.
+
+Kapital lässt sich umwandeln: Geld finanziert Nachhilfe (kulturelles Kapital), Abschlüsse eröffnen Netzwerke (soziales Kapital), Netzwerke verschaffen Stellen (ökonomisches Kapital). Wer bereits viel Kapital besitzt, kann es leichter vermehren.
+
+## 4. Theorie: Mechanismen der Ungleichheit
+
+Wie entsteht und verfestigt sich Ungleichheit? Vier Mechanismen sind besonders wichtig.
+
+**Soziale Schließung.** Max Weber beschrieb, wie Gruppen den Zugang zu begehrten Positionen auf ihresgleichen beschränken, etwa über Zertifikate, Mitgliedschaften oder informelle Kriterien wie „Passung“. Wer drin ist, profitiert; wer draußen ist, bleibt ausgeschlossen.
+
+**Diskriminierung.** Man unterscheidet *direkte* Diskriminierung (eine Person wird wegen eines Merkmals schlechter behandelt), *indirekte* Diskriminierung (eine scheinbar neutrale Regel benachteiligt bestimmte Gruppen) und *institutionelle* Diskriminierung, die in den Routinen von Organisationen wie Schulen oder Behörden wirkt, oft ohne Absicht der Beteiligten (Gomolla/Radtke 2002).
+
+**Kumulation.** Vorteile und Nachteile häufen sich. Robert K. Merton (1968) nannte das den **Matthäus-Effekt**: „Wer hat, dem wird gegeben.“ Benachteiligungen in Bildung, Wohnen, Gesundheit und Arbeit verstärken sich gegenseitig (→ kumulative Exklusion in [Sitzung 3](03-gesellschaftliche-ordnung.qmd)).
+
+**Machtbalancen und Stigmatisierung.** Norbert Elias und John L. Scotson (1965) untersuchten eine englische Vorortgemeinde, in der zwei Gruppen lebten, die sich in Einkommen, Beruf und Herkunft kaum unterschieden. Dennoch hielten sich die Alteingesessenen für besser und grenzten die später Zugezogenen aus. Ihr Machtvorsprung beruhte allein auf der längeren Wohndauer und dem dichteren Zusammenhalt. Sie verbreiteten abwertende Gerüchte, die die Außenseiter schließlich in ihr Selbstbild übernahmen. Elias zeigt damit: Ungleichheit kann aus **Machtdifferenzen** zwischen Gruppen entstehen, auch ohne ökonomische Unterschiede.
+
+### Intersektionalität
+
+Die US-amerikanische Juristin Kimberlé Crenshaw (1989) hat am Beispiel Schwarzer Arbeiterinnen gezeigt, dass Benachteiligungen nicht einfach addiert werden können. Die Frauen wurden weder als Frauen noch als Schwarze ausreichend geschützt, weil ihre spezifische Diskriminierung an der **Kreuzung** beider Kategorien lag. **Intersektionalität** beschreibt dieses Zusammenwirken von Kategorien wie Klasse, Geschlecht, Rassismuserfahrung, Behinderung oder Alter.
+
+## 5. Theorie: Armut und Teilhabe
+
+Armut ist die schärfste Form sozialer Ungleichheit. In Europa wird sie meist **relativ** bestimmt: Als armutsgefährdet gilt, wer weniger als 60 Prozent des mittleren Einkommens (Median) der Bevölkerung zur Verfügung hat. Der Lebenslagenansatz geht darüber hinaus und betrachtet neben dem Einkommen auch Wohnen, Gesundheit, Bildung und soziale Beziehungen. Amartya Sen (1999) fragt nach den **Verwirklichungschancen**: Welche Möglichkeiten haben Menschen tatsächlich, ein Leben zu führen, das sie mit guten Gründen wertschätzen? Armut bedeutet dann vor allem eingeschränkte Teilhabe.
+
+## 6. Analyse: Was diese Perspektiven sichtbar machen
+
+Zurück zu den beiden Familien vom Anfang. Ihr Einkommen ist ähnlich, ihre Ausstattung mit kulturellem und sozialem Kapital aber nicht. Die eine Familie kann Wissen über das Schulsystem, Kontakte und Rücklagen mobilisieren, die andere nicht. Hinzu kommt Diskriminierung auf dem Wohnungsmarkt, eine Form direkter Benachteiligung, die mit ökonomischen Merkmalen allein nicht zu erklären ist. Die Perspektiven dieser Sitzung zeigen: Ungleichheit hat viele Dimensionen, sie wirkt über verschiedene Mechanismen, und sie verstärkt sich dort, wo Benachteiligungen zusammentreffen.
+
+## 7. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Soziale Arbeit bearbeitet Ungleichheit täglich, in der Schuldnerberatung ebenso wie in der Jugendhilfe oder der Migrationsberatung. Die Perspektiven dieser Sitzung helfen, gezielter anzusetzen:
+
+- **Ressourcen erschließen:** Neben materieller Hilfe geht es um kulturelles Kapital (Wissen über Institutionen, Sprache) und soziales Kapital (Netzwerke, Mentoring).
+- **Diskriminierung erkennen und bearbeiten:** auch in den eigenen Organisationen, etwa in Zugangswegen, Formularen oder Entscheidungsroutinen.
+- **Intersektional denken:** Adressat:innen nicht auf eine Kategorie reduzieren, sondern das Zusammenwirken mehrerer Benachteiligungen erfassen.
+- **Machtbalancen verändern:** Stigmatisierte Gruppen stärken, ihnen Gehör verschaffen und Selbstorganisation fördern.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Ungleichheit ist mehr als zu wenig Geld. Wer sie bearbeiten will, muss Kapital in allen Formen erschließen, Diskriminierung auch in den eigenen Strukturen erkennen und das Zusammenwirken mehrerer Benachteiligungen in den Blick nehmen.
+:::
+
+## 8. Reflexion: Grenzen der Ansätze
+
+Mehrdimensionale Ungleichheitsmodelle bilden die Wirklichkeit genauer ab als einfache Schichtmodelle. Sie haben aber einen Preis: Je mehr Dimensionen berücksichtigt werden, desto schwerer lässt sich sagen, was im Kern Ungleichheit erzeugt. Kritiker:innen warnen, über der Vielfalt von Lagen und Identitäten könne die ökonomische Grundstruktur aus dem Blick geraten. Umgekehrt wird klassischen Ansätzen vorgeworfen, Rassismus und Geschlecht nur als Nebenwidersprüche zu behandeln. Auch der Intersektionalitätsansatz ist nicht frei von Spannungen: Wie viele Kategorien sind zu berücksichtigen, und wie lässt sich ihr Zusammenwirken empirisch messen?
+
+::: {.fall}
+Fallbeispiel Mira
+
+Über welches ökonomische, kulturelle, soziale und symbolische Kapital verfügen Mira und ihre Familie? Wo fehlt Kapital, und wo gibt es Ressourcen, die leicht übersehen werden? Welche Dimensionen der Ungleichheit wirken in Miras Fall zusammen? Welche Rolle spielt das Gerücht, Bewerbungen mit ihrer Adresse hätten schlechtere Chancen, und wie lässt sich das mit Elias deuten?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Kapitalbilanz (Gruppen, 20 Minuten)"}
+Erstellen Sie für eine fiktive Familie aus Ihrem Praxisfeld eine „Kapitalbilanz“ nach Bourdieu. Welche Kapitalformen sind vorhanden, welche fehlen? Welche Umwandlungen wären möglich, und wo könnte Soziale Arbeit sie unterstützen?
+:::
+
+::: {.callout-tip title="Diskussion"}
+Ist Diskriminierung eine Ursache sozialer Ungleichheit oder eine Folge? Begründen Sie mit Beispielen.
+:::
+
+**Zum Weiterlesen:** Bourdieu, Pierre (1983): Ökonomisches Kapital, kulturelles Kapital, soziales Kapital. In: Kreckel, Reinhard (Hrsg.): Soziale Ungleichheiten. Soziale Welt, Sonderband 2. Göttingen: Schwartz, S. 183–198. · Crenshaw, Kimberlé (1989): Demarginalizing the Intersection of Race and Sex. In: University of Chicago Legal Forum 1989 (1). · Elias, Norbert/Scotson, John L. (1990): Etablierte und Außenseiter. Frankfurt a. M.: Suhrkamp (engl. Original 1965). · Gomolla, Mechtild/Radtke, Frank-Olaf (2002): Institutionelle Diskriminierung. Die Herstellung ethnischer Differenz in der Schule. Opladen: Leske + Budrich. · Kreckel, Reinhard (1992): Politische Soziologie der sozialen Ungleichheit. Frankfurt a. M./New York: Campus. · Merton, Robert K. (1968): The Matthew Effect in Science. In: Science 159 (3810). · Sen, Amartya (1999): Development as Freedom. Oxford: Oxford University Press.

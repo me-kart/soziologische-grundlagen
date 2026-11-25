@@ -1,0 +1,109 @@
+---
+title: "Sitzung 12: Stadt- und Landsoziologie"
+subtitle: "Block IV · Sozialraum, Segregation und Exklusion"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie zeigen sich soziale Unterschiede im Raum, wie wirkt der Ort, an dem Menschen leben, auf ihre Lebenschancen, und wo kann Soziale Arbeit ansetzen?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Inklusion und Exklusion]{.tag} [Migration und gesellschaftliche Zugehörigkeit]{.tag} [Rassismus und Diskriminierung]{.tag} [Macht und Herrschaft]{.tag}
+:::
+
+Zwei Jugendliche wohnen in derselben Stadt, nur wenige Kilometer voneinander entfernt. Die eine wächst in einem Viertel mit Altbauten, Cafés, Musikschule und Gymnasium auf. Der andere lebt in einer Großwohnsiedlung am Stadtrand, mit langen Busfahrten, wenig Grün und einem Ruf, der ihm vorauseilt. Ihre Wohnorte sind nicht nur Kulisse. Sie prägen, wen die Jugendlichen kennen, welche Angebote sie erreichen und wie andere sie sehen. Die letzte Sitzung führt die Themen des Semesters im Raum zusammen: Ungleichheit, Ausgrenzung und Zugehörigkeit werden an konkreten Orten sichtbar.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Raum als soziales Phänomen
+- Die Großstadt in der klassischen Soziologie
+- Residentielle Segregation
+- Quartierseffekte und territoriale Stigmatisierung
+- Gentrifizierung
+- Ländliche Räume
+- Soziale Exklusion
+- Sozialraumorientierung
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Sozialraum, relationaler Raum
+- Urbanität
+- Segregation (sozial, ethnisch, demografisch)
+- Quartierseffekt, territoriale Stigmatisierung
+- Gentrifizierung
+- Exklusion
+- Sozialraumorientierung, Gemeinwesenarbeit
+:::
+
+:::
+
+## 1. Theorie: Raum ist sozial
+
+Im Alltag stellen wir uns Raum oft als Behälter vor, in dem Menschen und Dinge einfach vorhanden sind. Die Raumsoziologie hat gezeigt, dass Raum sozial hergestellt wird. Martina Löw (2001) versteht Raum als **relationale Anordnung** von Menschen und Dingen, die durch Handeln, Wahrnehmung und Erinnerung entsteht. Ein Platz wird für die einen zum Treffpunkt, für die anderen zum „Angstraum“. Ein **Sozialraum** ist damit mehr als ein Stadtteil auf der Karte: Er ist der Ausschnitt der Welt, in dem Menschen ihren Alltag leben und den sie selbst mitgestalten.
+
+## 2. Theorie: Die Großstadt in der klassischen Soziologie
+
+Georg Simmel (1903) beschrieb in seinem Aufsatz „Die Großstädte und das Geistesleben“, wie die Fülle von Reizen in der Großstadt eine besondere Lebensweise hervorbringt: Reserviertheit, Blasiertheit und eine Haltung, die vieles nüchtern und berechnend betrachtet. Zugleich bietet die Großstadt Freiheit von der sozialen Kontrolle der Kleinstadt. Louis Wirth (1938) bestimmte **Urbanität** über Größe, Dichte und Heterogenität der Bevölkerung. Die Chicagoer Schule um Robert E. Park und Ernest W. Burgess (1925) untersuchte, wie sich unterschiedliche Gruppen in der Stadt auf verschiedene Zonen verteilen. Sie begründete damit die empirische Stadtforschung, nicht zufällig in jener Stadt, in der Jane Addams das Hull House betrieb (→ [Sitzung 1](01-einfuehrung.qmd)).
+
+## 3. Theorie: Segregation, Quartierseffekte und Gentrifizierung
+
+**Residentielle Segregation** bezeichnet die ungleiche Verteilung von Bevölkerungsgruppen über die Stadtteile. Sie kann **sozial** sein (nach Einkommen), **ethnisch** (nach Herkunft) oder **demografisch** (nach Alter und Haushaltsform). Segregation kann freiwillig sein, etwa wenn wohlhabende Haushalte bewusst unter sich bleiben. Für benachteiligte Gruppen ist sie meist erzwungen: Sie wohnen dort, wo Wohnungen bezahlbar sind und wo man sie als Mieter:innen akzeptiert (Häußermann/Siebel 2004).
+
+Konzentriert sich Benachteiligung räumlich, können **Quartierseffekte** entstehen. Das Quartier wirkt dann selbst benachteiligend, zusätzlich zur individuellen Lage:
+
+- **Soziale Netzwerke:** Wenn im Umfeld viele arbeitslos sind, fehlen Kontakte, über die man von Stellen erfährt.
+- **Infrastruktur:** Schulen, Ärzt:innen, Freizeitangebote und Verkehrsanbindung sind oft schlechter.
+- **Vorbilder und Normen:** Wo wenige Menschen den Weg über Bildung und Ausbildung erfolgreich gehen, wirkt er weniger erreichbar.
+- **Territoriale Stigmatisierung:** Der schlechte Ruf eines Viertels überträgt sich auf seine Bewohner:innen, etwa bei Bewerbungen oder bei der Wohnungssuche (→ Etablierte und Außenseiter in [Sitzung 9](09-dimensionen-ungleichheit.qmd)).
+
+Ein gegenläufiger Prozess ist die **Gentrifizierung**: Ein zuvor günstiges, oft innerstädtisches Viertel wird aufgewertet, zuerst durch Studierende und Kreative, später durch zahlungskräftige Haushalte. Mieten steigen, und die bisherigen Bewohner:innen werden verdrängt, häufig an den Stadtrand.
+
+## 4. Theorie: Ländliche Räume
+
+Die Stadtsoziologie hat lange den Blick auf ländliche Räume verstellt. Doch auch dort zeigen sich soziale Unterschiede. Ländliche Räume sind sehr verschieden: wohlhabende Speckgürtel um Großstädte, prosperierende Regionen mit Mittelstand, aber auch strukturschwache Gebiete mit Abwanderung, Alterung und ausgedünnter Infrastruktur. Wer dort ohne Auto lebt, ist bei Bildung, Ausbildung und Versorgung schnell abgehängt. Zugleich sind soziale Kontrolle und Zusammenhalt oft stärker, was Unterstützung bedeuten kann, aber auch Enge für jene, die von den Normen abweichen.
+
+## 5. Theorie: Soziale Exklusion
+
+Martin Kronauer (2002) beschreibt **Exklusion** als Ausschluss aus wesentlichen Formen gesellschaftlicher Teilhabe: aus Erwerbsarbeit, aus sozialen Beziehungen und aus den Bürger:innenrechten des Sozialstaats. Er betont, dass Exklusion ein Ausschluss *in* der Gesellschaft ist, nicht außerhalb von ihr: Die Ausgeschlossenen bleiben auf Institutionen angewiesen, die ihnen keine volle Teilhabe gewähren. Räumliche Segregation kann Exklusion verfestigen, wenn Ausgrenzung am Arbeitsmarkt, Isolation und territoriale Stigmatisierung zusammentreffen (→ Luhmanns Exklusionsbegriff in [Sitzung 3](03-gesellschaftliche-ordnung.qmd)).
+
+## 6. Analyse: Wie der Ort Lebenschancen prägt
+
+Die Raumperspektive führt die Themen des Semesters zusammen. Die Sozialstruktur (Sitzung 8) wird im Stadtplan sichtbar. Kapital (Sitzung 9) ist ungleich im Raum verteilt. Bildungsungleichheit (Sitzung 10) zeigt sich in der Zusammensetzung von Schulen. Und Zugehörigkeit (Sitzung 11) wird an konkreten Orten ausgehandelt: Wer darf sich wo aufhalten, wer gilt als „von hier“? Zugleich zeigt sie, dass Quartiere nicht nur Orte der Benachteiligung sind. Gerade in benachteiligten Vierteln gibt es oft dichte Netzwerke, Solidarität und Initiativen, die von außen kaum wahrgenommen werden.
+
+## 7. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Soziale Arbeit hat eine lange Tradition der Arbeit im Raum, von den Settlements um Jane Addams über die **Gemeinwesenarbeit** bis zur heutigen **Sozialraumorientierung**. Wolfgang Hinte und andere haben diese als Fachkonzept ausgearbeitet (Hinte/Treeß 2007). Seine Prinzipien sind: am Willen und an den Interessen der Menschen ansetzen, Eigeninitiative und Selbsthilfe fördern, die Ressourcen der Menschen und des Sozialraums nutzen, zielgruppen- und bereichsübergreifend arbeiten und die Akteur:innen im Quartier vernetzen. Programme der Städtebauförderung wie „Sozialer Zusammenhalt“ verbinden bauliche Erneuerung mit Quartiersmanagement und Beteiligung.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Der Ort, an dem Menschen leben, ist Teil ihres Falls. Sozialraumorientierte Arbeit setzt nicht nur bei Einzelnen an, sondern stärkt Netzwerke, verbessert Infrastruktur, verschafft Bewohner:innen Gehör und tritt territorialer Stigmatisierung entgegen.
+:::
+
+## 8. Reflexion: Grenzen der Ansätze
+
+Auch die Raumperspektive hat Grenzen. Quartierseffekte lassen sich empirisch schwer von den Effekten der individuellen Lage trennen. Wer ein Viertel als „Problemquartier“ beschreibt, trägt möglicherweise selbst zu seiner Stigmatisierung bei, auch die Soziale Arbeit, wenn sie Förderanträge mit Defizitbeschreibungen begründet. Sozialraumorientierung wiederum steht in der Kritik, strukturelle Probleme wie Wohnungsmangel oder Niedriglöhne auf die lokale Ebene zu verlagern, wo sie nicht gelöst werden können. Der Sozialraum ist ein wichtiger Ansatzpunkt, aber kein Ersatz für Sozialpolitik.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Wie wirkt Miras Quartier auf ihre Lebenschancen? Unterscheiden Sie Netzwerke, Infrastruktur, Vorbilder und territoriale Stigmatisierung. Welche Ressourcen bietet das Quartier zugleich, etwa den Jugendtreff? Entwerfen Sie zwei Ideen sozialraumorientierter Arbeit, die Mira und anderen Jugendlichen im Viertel zugutekämen.
+
+**Zum Abschluss des Semesters:** Legen Sie Ihre Analysen aus allen zwölf Sitzungen nebeneinander. Welche Perspektive hat Ihnen am meisten über Miras Situation verraten? Welche hat etwas Wichtiges übersehen? Was würden Sie als Fachkraft der JaS als Nächstes tun, und warum?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Stadtteilbegehung (Gruppen, 45 Minuten)"}
+Gehen Sie durch einen Stadtteil Ihrer Wahl. Halten Sie fest: Wohnformen, Geschäfte, soziale Einrichtungen, Treffpunkte, Verkehrsanbindung, Spuren von Aneignung (Graffiti, Gärten, Sitzgelegenheiten). Wer nutzt welche Orte? Was fehlt? Vergleichen Sie Ihre Beobachtungen in der Gruppe.
+:::
+
+::: {.callout-tip title="Diskussion"}
+Sollte Stadtpolitik soziale Mischung in Wohnvierteln gezielt fördern? Welche Chancen und welche Risiken hätte das für die Bewohner:innen benachteiligter Quartiere?
+:::
+
+**Zum Weiterlesen:** Häußermann, Hartmut/Siebel, Walter (2004): Stadtsoziologie. Eine Einführung. Frankfurt a. M./New York: Campus. · Hinte, Wolfgang/Treeß, Helga (2007): Sozialraumorientierung in der Jugendhilfe. Weinheim/München: Juventa. · Kronauer, Martin (2002): Exklusion. Die Gefährdung des Sozialen im hoch entwickelten Kapitalismus. Frankfurt a. M./New York: Campus. · Löw, Martina (2001): Raumsoziologie. Frankfurt a. M.: Suhrkamp. · Park, Robert E./Burgess, Ernest W./McKenzie, Roderick D. (1925): The City. Chicago: University of Chicago Press. · Simmel, Georg (1903): Die Großstädte und das Geistesleben. In: Petermann, Theodor (Hrsg.): Die Großstadt. Dresden: Zahn & Jaensch. · Wirth, Louis (1938): Urbanism as a Way of Life. In: American Journal of Sociology 44 (1).

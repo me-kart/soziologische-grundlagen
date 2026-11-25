@@ -1,0 +1,156 @@
+---
+title: "Sitzung 2: Soziales Handeln und gesellschaftliche Wirklichkeit"
+subtitle: "Block I · Weber, Berger und Luckmann"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie entsteht Gesellschaft aus dem Handeln von Menschen, und wie kommt es, dass uns diese von Menschen gemachte Welt als feste, objektive Wirklichkeit erscheint?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Struktur und Handlungsmacht]{.tag} [Macht und Herrschaft]{.tag} [Rassismus und Diskriminierung]{.tag}
+:::
+
+Eine Mutter erwartet von ihrer Tochter ein Abitur mit 1,0, damit ihr „alle Türen offenstehen“. Für sie ist das selbstverständlich. Für die Tochter ist es eine Belastung, für Mitschüler:innen ohne Nachhilfe ein unerreichbarer Maßstab. Zwei Fragen stecken in dieser Szene. Die erste: Welchen Sinn hat das Handeln der Mutter für sie selbst? Das ist die Frage Max Webers. Die zweite: Wie wird aus solchen Erwartungen eine scheinbar objektive Wirklichkeit, in der „Leistung“ und „Erfolg“ wie Naturtatsachen erscheinen? Das ist die Frage von Peter L. Berger und Thomas Luckmann. Beide Ansätze setzen beim Handeln an und fragen, wie daraus Gesellschaft wird.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Soziales Handeln und soziale Beziehung (Weber)
+- Vier Typen sozialen Handelns
+- Vergemeinschaftung und Vergesellschaftung (Weber) im Unterschied zu Gemeinschaft und Gesellschaft (Tönnies)
+- Die gesellschaftliche Konstruktion der Wirklichkeit (Berger/Luckmann)
+- Definition der Situation (Thomas-Theorem)
+- Fallbeispiel: Frau Trambosi
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- soziales Handeln, gemeinter Sinn
+- zweckrational, wertrational, affektuell, traditional
+- Vergemeinschaftung, Vergesellschaftung
+- Habitualisierung, Tradierung, Institutionalisierung
+- subjektive Lebenswelt
+- Definition der Situation
+:::
+
+:::
+
+## 1. Theorie: Soziales Handeln bei Max Weber
+
+Für Max Weber ist **Handeln** ein menschliches Verhalten, mit dem die handelnde Person einen subjektiven Sinn verbindet. **Soziales Handeln** ist ein Handeln, das seinem gemeinten Sinn nach auf das Verhalten anderer bezogen ist (Weber 1922/1980, § 1). Wer allein im Regen den Schirm aufspannt, handelt, aber nicht sozial. Wer ihn für eine andere Person aufspannt, handelt sozial. Gesellschaft besteht für Weber nicht aus übergeordneten Strukturen, sondern letztlich aus dem sinnhaften Handeln vieler Menschen.
+
+### Vier Typen sozialen Handelns
+
+Weber unterscheidet vier idealtypische Bestimmungsgründe des Handelns (Weber 1922/1980, § 2). Idealtypen sind gedankliche Zuspitzungen. In der Wirklichkeit kommen sie fast immer gemischt vor.
+
+| Typ | Handeln orientiert sich an … | Beispiel |
+|---|---|---|
+| zweckrational | Zwecken, Mitteln und Folgen, die gegeneinander abgewogen werden | Eine Studentin wählt ihr Praktikum, weil es ihre Chancen auf eine bestimmte Stelle erhöht. |
+| wertrational | dem Eigenwert eines Handelns, unabhängig vom Erfolg | Ein Sozialarbeiter meldet einen Missstand, obwohl er Nachteile befürchten muss. |
+| affektuell | Gefühlen und Stimmungen | Ein Jugendlicher schlägt die Tür zu, weil er wütend ist. |
+| traditional | eingelebter Gewohnheit | Eine Familie feiert ein Fest „wie immer“, ohne darüber nachzudenken. |
+
+: Typen sozialen Handelns nach Weber {#tbl-handlungstypen}
+
+### Soziale Beziehung, Vergemeinschaftung und Vergesellschaftung
+
+Orientieren sich mehrere Menschen wechselseitig aneinander, entsteht eine **soziale Beziehung**. Weber unterscheidet zwei Grundformen (Weber 1922/1980, § 9):
+
+- **Vergemeinschaftung** liegt vor, wenn und soweit die Einstellung des sozialen Handelns auf subjektiv *gefühlter* Zusammengehörigkeit der Beteiligten beruht, sei sie affektuell oder traditional begründet. Beispiele sind Familie, Liebesbeziehung, Freundeskreis oder eine religiöse Gemeinschaft.
+- **Vergesellschaftung** liegt vor, wenn und soweit die Einstellung des sozialen Handelns auf einem *rational* motivierten Interessenausgleich oder einer rational motivierten Interessenverbindung beruht, sei es wert- oder zweckrational. Beispiele sind der Tausch auf dem Markt, ein Vertrag oder ein Zweckverein.
+
+### Abgrenzung zu Tönnies
+
+Weber knüpft an Ferdinand Tönnies an, dessen Buch „Gemeinschaft und Gesellschaft“ (1887) die Unterscheidung populär gemacht hat. Die Begriffe klingen ähnlich, meinen aber Unterschiedliches.
+
+| | Tönnies: Gemeinschaft und Gesellschaft | Weber: Vergemeinschaftung und Vergesellschaftung |
+|---|---|---|
+| Was wird unterschieden? | zwei Formen des Zusammenlebens, oft auch zwei Epochen | zwei Orientierungen sozialen Handelns |
+| Begriffsform | Zustände („Gemeinschaft“) | Prozesse („-ung“) |
+| Verhältnis | Gesellschaft löst Gemeinschaft historisch ab; Gemeinschaft erscheint als organisch, Gesellschaft als mechanisch | Idealtypen, die in den meisten sozialen Beziehungen gemischt vorkommen |
+| Wertung | kulturkritischer Unterton: Verlust von Gemeinschaft | keine Wertung, analytische Unterscheidung |
+
+: Tönnies und Weber im Vergleich {#tbl-toennies-weber}
+
+Ein Beispiel macht den Unterschied deutlich. Ein Arbeitsteam ist zunächst eine Vergesellschaftung: Man arbeitet zusammen, weil es der Zweck des Betriebs verlangt. Über die Jahre können Vertrauen und Zusammengehörigkeit entstehen. Dann enthält dieselbe Beziehung auch Elemente der Vergemeinschaftung. Bei Weber ist das kein Widerspruch, sondern der Normalfall.
+
+## 2. Theorie: Die gesellschaftliche Konstruktion der Wirklichkeit
+
+Peter L. Berger und Thomas Luckmann veröffentlichten 1966 „The Social Construction of Reality“ (deutsch 1969: „Die gesellschaftliche Konstruktion der Wirklichkeit“). Sie knüpfen an Weber an und fragen weiter: Wie kommt es, dass uns die soziale Welt als feste, objektive Wirklichkeit erscheint, obwohl Menschen sie selbst hervorgebracht haben?
+
+### Kernaussagen
+
+- Wirklichkeit ist nicht einfach objektiv gegeben. Ihre **Bedeutung** wird sozial konstruiert.
+- Menschen erzeugen ihre Wahrnehmung von Realität durch Sprache, Kommunikation und Interaktion.
+- Beobachtungen sind immer geprägt durch Erfahrungen, Kontext und Perspektive.
+
+Wichtig ist eine Präzisierung. Der Sozialkonstruktivismus behauptet nicht, dass es Armut, Krankheit oder Gewalt „nicht wirklich“ gibt. Er behauptet, dass die Bedeutung, die wir diesen Phänomenen geben, und die Art, wie wir mit ihnen umgehen, sozial hergestellt sind.
+
+### Wie aus Handeln Institutionen werden
+
+1. **Wiederkehrende Handlungen:** Menschen lösen Alltagsprobleme auf eine bestimmte Weise und tun das wieder, wenn es funktioniert.
+2. **Habitualisierung:** Aus Wiederholung wird Gewohnheit. Das entlastet, weil nicht jedes Mal neu entschieden werden muss. So entstehen **geteilte Wissensbestände**: „So macht man das.“
+3. **Tradierung:** Gewohnheiten werden weitergegeben, vor allem an die nächste Generation. Für sie sind sie nicht selbst erfunden, sondern vorgefunden.
+4. **Institutionalisierung:** Gewohnheiten verfestigen sich zu Institutionen wie Ehe, Schule, Prüfung oder Beruf. Sie erscheinen nun als soziale Tatsachen, die unabhängig vom Einzelnen bestehen und auf ihn zurückwirken.
+
+Daraus ergibt sich ein Kreislauf: Menschen schaffen Gesellschaft, Gesellschaft tritt ihnen als objektive Wirklichkeit gegenüber, und Menschen werden durch Sozialisation von dieser Gesellschaft geprägt (→ [Sitzung 6](06-identitaet-sozialisation-habitus.qmd)). Neben den geteilten Wissensbeständen steht die **subjektive Lebenswelt**: die erfahrene, erlebte und erlittene Wirklichkeit eines Menschen. Zwei Personen können in derselben Stadt oder Familie leben und doch ganz unterschiedliche Wirklichkeiten erfahren.
+
+### Die Definition der Situation
+
+William I. Thomas und Dorothy S. Thomas (1928) formulierten einen Satz, der für diese Perspektive zentral ist: „If men define situations as real, they are real in their consequences.“ Wenn Menschen eine Situation als wirklich definieren, ist sie in ihren Folgen wirklich. Hält ein Lehrer eine Schülerin für „leistungsschwach“, hat diese Deutung reale Folgen, etwa für die Schulempfehlung, unabhängig davon, ob sie zunächst zutraf. Am Ende kann sie sich selbst bestätigen.
+
+## 3. Analyse: Fallbeispiel Frau Trambosi
+
+> Frau Trambosi ist Ärztin und lebt in sehr wohlhabenden Verhältnissen. Sie ist überzeugt, dass sich Leistung auszahlt und dass Bildung der Schlüssel zu gesellschaftlichem Erfolg ist. In ihrem Umfeld gilt es als selbstverständlich, dass Kinder früh gefördert werden. Ihre 14-jährige Tochter Natalie besucht ein Gymnasium, spricht drei Sprachen, erhält seit der Grundschule Nachhilfe und nimmt Ballett- und Geigenunterricht. Frau Trambosi erwartet ein Abitur mit 1,0, damit ihr „alle Türen offenstehen“. Natalie fühlt sich zunehmend unter Druck und interessiert sich eher für kreative Tätigkeiten. In ihrer Klasse gibt es Mitschüler:innen, die sich keine Nachhilfe leisten können und andere familiäre Verpflichtungen haben.
+
+Mit Weber lässt sich Frau Trambosis Handeln als überwiegend **zweckrational** verstehen: Förderung ist ein Mittel zum Zweck eines guten Abschlusses. Zugleich enthält es **wertrationale** Elemente, denn Bildung hat für sie einen Eigenwert. Mit Berger und Luckmann wird sichtbar, dass „Leistung“, „Erfolg“ und „Bildung“ keine objektiven Wahrheiten sind, sondern in bestimmten Milieus geteilte und institutionell verstärkte Konstruktionen.
+
+| Begriff | im Fall |
+|---|---|
+| geteiltes Wissen | Frühe Förderung gilt im Umfeld als selbstverständlich und wird durch Vergleiche mit anderen Kindern bestätigt. |
+| Institution | Gymnasium, Abiturnote und Bildungszertifikate verfestigen die Idee „Leistung führt zu Erfolg“. |
+| Definition der Situation | Erfolg wird als „Top-Abitur und maximale Leistung“ definiert; diese Definition steuert das Handeln und hat reale Folgen für Natalie. |
+| Lebenswelt | Natalie erlebt dieselbe Situation als belastend; die Mitschüler:innen ohne vergleichbare Ressourcen leben in einer anderen Wirklichkeit. |
+
+: Das Fallbeispiel handlungs- und konstruktivistisch gelesen {#tbl-trambosi}
+
+Als Gesellschaftsdiagnose bietet sich die Kritik an einer **Leistungsideologie** an: Erfolg erscheint als Ergebnis individueller Anstrengung, während ungleiche Startbedingungen aus dem Blick geraten. Der Fall zeigt damit, wie soziale Konstruktionen Ungleichheit verdecken können.
+
+## 4. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Weber erinnert daran, dass Verhalten von Adressat:innen einen Sinn hat, auch wenn er von außen nicht sofort erkennbar ist. Verstehen geht dem Bewerten voraus. Berger und Luckmann zeigen, dass Hilfeprozesse auf der Aushandlung einer gemeinsamen Wirklichkeit beruhen und dass Fachkräfte Probleme selbst mitkonstruieren, durch ihre Beschreibungen in Hilfeplänen, Akten und Gutachten. Ein Jugendlicher gilt als „schulverweigernd“: Aus Sicht der Schule ist das ein Disziplinproblem, aus Sicht des Jugendlichen Selbstschutz vor Mobbing. Aufgabe der Sozialen Arbeit ist es, beide Perspektiven zu verstehen und eine neue, gemeinsame Beschreibung zu finden.
+
+Daraus folgen vier Prinzipien: **Reflexivität** (die eigene Beobachtung prüfen, etwa in Supervision), **Aushandlung** (Probleme und Ziele gemeinsam bestimmen, neue Bedeutungsrahmen schaffen), **Respekt vor Pluralität** (unterschiedliche Deutungen sind legitim) und **Anerkennung von Lebenswelten** statt bloßer Anpassung an Normen.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Erst verstehen, dann bewerten. Wirklichkeit gemeinsam aushandeln, statt Deutungen als objektiv festzuschreiben. Und sich bewusst machen, dass jede Akte und jede Diagnose selbst eine Definition der Situation ist, mit realen Folgen für die Adressat:innen.
+:::
+
+## 5. Reflexion: Grenzen der Ansätze
+
+Webers Handlungstheorie setzt beim Einzelnen an. Sie kann erklären, warum Menschen so handeln, wie sie handeln, unterschätzt aber leicht Strukturen, die hinter dem Rücken der Handelnden wirken. Der Sozialkonstruktivismus wiederum kann Verantwortung relativieren („alles ist nur Interpretation“) und Machtverhältnisse ausblenden. Nicht alle Deutungen haben dieselbe Durchsetzungskraft: Die Definition einer Lehrkraft oder eines Jugendamts wiegt mehr als die eines Kindes. Gewalt, Armut oder Missbrauch sind reale Strukturen, keine bloßen Deutungen. Beides muss zugleich gesehen werden. An dieser Stelle setzen die Theorien der [Sitzungen 3](03-gesellschaftliche-ordnung.qmd) und [4](04-macht-herrschaft.qmd) an.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Mira holt nach der Schule ihren Bruder ab, statt zum Nachmittagsunterricht zu gehen. Ordnen Sie ihr Handeln Webers Handlungstypen zu: Welche Bestimmungsgründe lassen sich erkennen? Beschreiben Sie dann, wie die Schule, die JaS-Fachkraft und Miras Mutter die Situation jeweils definieren könnten. Welche Folgen hat es, wessen Definition sich durchsetzt?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Gruppendiskussion"}
+1. Welche Bedeutung hat der Konstruktivismus für den Umgang mit Klient:innen, die unterschiedliche „Versionen der Wirklichkeit“ haben?
+2. Inwiefern prägt Ihre eigene Wahrnehmung als Sozialarbeiter:in die Definition eines Problems?
+3. Wenn soziale Probleme nicht „objektiv gegeben“ sind: Wer bestimmt dann in der Sozialen Arbeit, was ein „Problem“ ist? Beteiligt sind Fachkräfte, Klient:innen, Politik, Verwaltung, Medien und öffentliche Meinung.
+:::
+
+::: {.callout-tip title="Reflexionsfrage"}
+Welche „Selbstverständlichkeit“ aus Ihrer eigenen Familie haben Sie erst später als soziale Konstruktion erkannt?
+:::
+
+**Zum Weiterlesen:** Berger, Peter L./Luckmann, Thomas (1969): Die gesellschaftliche Konstruktion der Wirklichkeit. Eine Theorie der Wissenssoziologie. Frankfurt a. M.: S. Fischer. · Thomas, William I./Thomas, Dorothy S. (1928): The Child in America. Behavior Problems and Programs. New York: Knopf. · Tönnies, Ferdinand (1887): Gemeinschaft und Gesellschaft. Leipzig: Fues. · Weber, Max (1922/1980): Wirtschaft und Gesellschaft. Grundriß der verstehenden Soziologie. 5. Aufl. Tübingen: Mohr.

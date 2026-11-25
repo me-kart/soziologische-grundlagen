@@ -8,8 +8,20 @@ project:
   render:                     # nur diese Seiten werden gebaut
     - index.qmd
     - welcome.qmd
-    - grundlagen/*.qmd
-    - sitzungen/*.qmd
+    - grundlagen/01-grundbegriffe.qmd
+    - grundlagen/02-fallbeispiel-mira.qmd
+    - sitzungen/01-einfuehrung.qmd
+    - sitzungen/02-handeln-wirklichkeit.qmd
+    - sitzungen/03-gesellschaftliche-ordnung.qmd
+    - sitzungen/04-macht-herrschaft.qmd
+    - sitzungen/05-kultur-normen-institutionen.qmd
+    - sitzungen/06-identitaet-sozialisation-habitus.qmd
+    - sitzungen/07-interaktion-gruppen-rollen.qmd
+    - sitzungen/08-klassen-schichten-milieus.qmd
+    - sitzungen/09-dimensionen-ungleichheit.qmd
+    - sitzungen/10-bildungsungleichheit.qmd
+    - sitzungen/11-modernisierung-wandel.qmd
+    - sitzungen/12-sozialraum-segregation.qmd
     - 03-lernspiele.qmd
     - 04-lernkontrolle.qmd
   resources:
@@ -30,22 +42,44 @@ website:
         contents:
           - text: "Grundbegriffe der Soziologie"
             href: grundlagen/01-grundbegriffe.qmd
+          - text: "Fallbeispiel: Mira"
+            href: grundlagen/02-fallbeispiel-mira.qmd
       - section: "Sitzungen"
         contents:
           - text: "Seminarüberblick"
             href: index.qmd
-          - section: "Block I · Einführung und Gesellschaftstheorien"
+          - section: "Block I · Soziologisches Denken und Gesellschaftstheorien"
             contents:
-              - text: "1 · Einführung: Was ist Soziologie?"
+              - text: "1 · Was ist Soziologie?"
                 href: sitzungen/01-einfuehrung.qmd
-              - text: "2 · Gesellschaftstheorien I: Sozialkonstruktivismus"
-                href: sitzungen/02-sozialkonstruktivismus.qmd
-              - text: "3 · Gesellschaftstheorien II: Systemtheorie"
-                href: sitzungen/03-systemtheorie.qmd
-          - section: "Block II · Sozialstruktur"
+              - text: "2 · Soziales Handeln und gesellschaftliche Wirklichkeit"
+                href: sitzungen/02-handeln-wirklichkeit.qmd
+              - text: "3 · Gesellschaftliche Ordnung: Parsons und Luhmann"
+                href: sitzungen/03-gesellschaftliche-ordnung.qmd
+              - text: "4 · Macht und Herrschaft: Marx und Kritische Theorie"
+                href: sitzungen/04-macht-herrschaft.qmd
+          - section: "Block II · Individuum und Gesellschaft"
             contents:
-              - text: "7 · Sozialstruktur II: Identität, Sozialisation, Habitus"
-                href: sitzungen/07-sozialisation-habitus.qmd
+              - text: "5 · Kultur, Normen, Werte und Institutionen"
+                href: sitzungen/05-kultur-normen-institutionen.qmd
+              - text: "6 · Identität, Sozialisation und Habitus"
+                href: sitzungen/06-identitaet-sozialisation-habitus.qmd
+              - text: "7 · Interaktion, Gruppen und Rollen"
+                href: sitzungen/07-interaktion-gruppen-rollen.qmd
+          - section: "Block III · Sozialstruktur und soziale Ungleichheit"
+            contents:
+              - text: "8 · Klassen, Schichten, Milieus, Mobilität"
+                href: sitzungen/08-klassen-schichten-milieus.qmd
+              - text: "9 · Dimensionen und Mechanismen sozialer Ungleichheit"
+                href: sitzungen/09-dimensionen-ungleichheit.qmd
+              - text: "10 · Bildungsungleichheit und Reproduktion"
+                href: sitzungen/10-bildungsungleichheit.qmd
+          - section: "Block IV · Gesellschaftlicher Wandel und Sozialraum"
+            contents:
+              - text: "11 · Modernisierung und gesellschaftlicher Wandel"
+                href: sitzungen/11-modernisierung-wandel.qmd
+              - text: "12 · Sozialraum, Segregation und Exklusion"
+                href: sitzungen/12-sozialraum-segregation.qmd
       - section: "Üben"
         contents:
           - text: "Lernspiele"

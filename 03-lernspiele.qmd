@@ -19,7 +19,7 @@ Finden Sie die zehn Paare aus Begriff und Definition. Jedes gefundene Paar zeigt
 ## Aussagen zuordnen {#sec-zuordnen}
 
 ::: {.callout-tip title="Lernspiel: Aussagen zuordnen"}
-Lesen Sie jede Aussage und notieren Sie in einem Satz, welches Merkmal für Ihre Zuordnung entscheidet. Wählen Sie dann eine der vier Theorien: Berger/Luckmann, Luhmann, Mead oder Bourdieu. Nach jeder Wahl erklärt ein Satz, warum sie passt oder nicht. Mit „Vorherige Aussage“ können Sie frühere Aussagen erneut ansehen. Die Theorien sind in den Sitzungen [2](sitzungen/02-sozialkonstruktivismus.qmd), [3](sitzungen/03-systemtheorie.qmd) und [7](sitzungen/07-sozialisation-habitus.qmd) erläutert.
+Lesen Sie jede Aussage und notieren Sie in einem Satz, welches Merkmal für Ihre Zuordnung entscheidet. Wählen Sie dann eine der vier Theorien: Berger/Luckmann, Luhmann, Mead oder Bourdieu. Nach jeder Wahl erklärt ein Satz, warum sie passt oder nicht. Mit „Vorherige Aussage“ können Sie frühere Aussagen erneut ansehen. Die Theorien sind in den Sitzungen [2](sitzungen/02-handeln-wirklichkeit.qmd), [3](sitzungen/03-gesellschaftliche-ordnung.qmd) und [6](sitzungen/06-identitaet-sozialisation-habitus.qmd) erläutert.
 
 <iframe class="lernspiel" src="interactions/soziologie-zuordnen.html" height="700" loading="lazy" title="Aussagen soziologischen Theorien zuordnen">
 

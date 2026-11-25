@@ -1,0 +1,159 @@
+---
+title: "Sitzung 6: Identität, Sozialisation und Habitus"
+subtitle: "Block II · Individuum und Gesellschaft"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie wird ein Mensch zu dem, der er ist, und wie gelangt Gesellschaft „in“ den Einzelnen?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Struktur und Handlungsmacht]{.tag} [Migration und gesellschaftliche Zugehörigkeit]{.tag} [Geschlecht und soziale Ungleichheit]{.tag}
+:::
+
+Welches Essen verbinden Sie mit Ihrer Kindheit? Die Frage zu Beginn der Sitzung wirkt ganz persönlich. Die Antworten zeigen aber schnell: Geschmack ist durch Familie, Region, Milieu und Herkunft geprägt. Diese Sitzung beschäftigt sich mit drei eng verbundenen Begriffen. **Identität** (Mead) beschreibt, wie ein Selbst in der Interaktion mit anderen entsteht. **Sozialisation** (Scherr, Hurrelmann) beschreibt, wie Menschen in Gesellschaft hineinwachsen. **Habitus** (Bourdieu) beschreibt, wie die soziale Position sich in Denken, Wahrnehmen und Handeln einschreibt.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Identität nach George Herbert Mead
+- Personale und kollektive Identität (Pries)
+- Identität in der Moderne
+- Habitus nach Pierre Bourdieu
+- Sozialisation: primär und sekundär
+- Produktive Realitätsverarbeitung (Hurrelmann und Bauer)
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- symbolischer Interaktionismus
+- signifikante Andere, generalisierter Anderer
+- Play und Game, I, Me und Self
+- Habitus
+- primäre und sekundäre Sozialisation
+- innere und äußere Realität
+:::
+
+:::
+
+## 1. Theorie: Identität nach George Herbert Mead
+
+George Herbert Mead (1863–1931) gilt als zentraler Vertreter des **symbolischen Interaktionismus**. Seine Grundidee: Identität ist nicht angeboren. Sie entsteht in der Interaktion mit anderen, dadurch, dass wir lernen, uns selbst mit den Augen der anderen zu sehen.
+
+**Frühe Kindheit: signifikante Andere.** Säuglinge reagieren auf die Gesten ihrer primären Bezugspersonen. Mead nennt diese wichtigen Bezugspersonen **signifikante Andere**. Über Imitation, Mimik, Gestik und Tonfall entsteht wechselseitiges Verstehen. Wenn Eltern ihr Kind ermutigen, die eigenen Erfahrungen mit denen anderer abzugleichen, ist das ein erster Schritt zur Perspektivübernahme.
+
+**Sprache als Medium.** Sprache ist das entscheidende Medium sozialer Interaktion. Handlungen anderer werden über Gesten, lautliche Gesten und schließlich bedeutungsvolle Symbole verstanden, die für alle Beteiligten dieselbe Bedeutung haben. Erst dadurch lassen sich Handlungen deuten und aufeinander abstimmen.
+
+**Von Play zu Game.** Mit wachsender sprachlicher Kompetenz erweitert sich der Radius der Interaktionen.
+
+| Stufe | Was das Kind tut | Beispiel |
+|---|---|---|
+| Play (freies Rollenspiel) | übernimmt einzelne Rollen nacheinander | „Ich bin heute die Mutter.“ |
+| Game (organisiertes Spiel mit Regeln) | hat alle Rollen und Regeln gleichzeitig im Blick | Fußball: Mitspieler:innen, Gegner:innen, Schiedsrichter:in, Teamregeln |
+
+: Vom Rollenspiel zum Regelspiel {#tbl-play-game}
+
+Aus dieser Erfahrung entsteht der **generalisierte Andere**: die verinnerlichten Erwartungen, Normen und Werte einer Gruppe oder der Gesellschaft insgesamt. Er ist gewissermaßen die Stimme der Gesellschaft in uns. Er sagt uns, was „man tut“ und was „man nicht tut“, und ermöglicht so soziale Ordnung und Identität.
+
+## 2. Theorie: Das Selbst – I, Me und Self
+
+Die soziale Umwelt funktioniert wie ein Spiegel, in dem der Mensch sich selbst erkennt. Daraus entsteht die Fähigkeit zur Selbstreflexion, ein innerer Dialog. Mead unterscheidet drei Komponenten:
+
+| Komponente | Bedeutung | Beispiel |
+|---|---|---|
+| I | spontaner, kreativer, individueller Anteil; Freiheit und Initiative; handelt „aus dem Bauch heraus“ | der Impuls, in der Vorlesung sofort zu widersprechen |
+| Me | verinnerlichte gesellschaftliche Erwartungen; Kontrollinstanz, die angemessenes Verhalten aus Sicht der anderen signalisiert | „Man unterbricht den Professor nicht.“ |
+| Self | integrierte Identität; reflexives Bewusstsein, das aus dem Dialog zwischen I und Me hervorgeht | sich melden und den Einwand sachlich vorbringen |
+
+: I, Me und Self nach Mead {#tbl-self}
+
+Identitätsbildung braucht damit drei Bedingungen: die Austauschbarkeit der Perspektiven, die wechselseitige Rollenübernahme und das Symbolsystem Sprache. Identität entsteht in einem symbolisch-sprachlichen Interaktionsprozess.
+
+## 3. Theorie: Personale und kollektive Identität
+
+Ludger Pries betont, dass auch die persönlichste Identität ein soziales Produkt ist. Ich- oder personale Identitäten sind „immer Ergebnis sozialer Prozesse, weil sie ohne die Unterscheidungen von Ich und Du und Ich und Es nicht zustande kommen können“ (Pries 2019, S. 117). Personale und kollektive Identitäten integrieren das Selbst und das Wir, schaffen die Erfahrung von Kontinuität und Zugehörigkeit, geben Sicherheit und binden Einzelne und Gruppen in größere Ordnungen ein.
+
+| Form | Bedeutung | Beispiel |
+|---|---|---|
+| Zugehörigkeitsidentität | Gemeinsamkeit mit anderen in einer Gruppe | „Ich bin Studentin der OTH Regensburg.“ |
+| Bewusstseinsidentität | sich seiner selbst als denkendes Wesen bewusst sein | „Ich denke, also bin ich.“ (Descartes) |
+| Selbigkeitsidentität | sich selbst treu sein und bleiben | „Ich war, bin und bleibe jemand, der von einer besseren Welt träumt.“ |
+| Einmaligkeitsidentität | sich als einmalig, von anderen verschieden erleben | „So wie ich ist niemand sonst.“ |
+
+: Vier Formen von Identität nach Pries {#tbl-identitaet}
+
+**Identität im Wandel.** In traditionalen Gesellschaften bestand Identität vor allem darin, vorgefertigte Muster zu übernehmen. In der Moderne ist sie eher eine Eigenkonstruktion aus verschiedenen Identitätsangeboten (Pries 2019, S. 118). Man spricht deshalb von multiplen, transitorischen oder hybriden Identitäten. Sie verändern sich im Lebensverlauf und können widersprüchlich sein. Eine junge Frau kann sich zugleich als Bayerin, Muslima, Studentin und Fußballerin verstehen, und je nach Situation tritt ein anderer Teil in den Vordergrund. Identität ist damit weniger etwas, das „man hat“, als etwas Relationales, das in Prozessen hergestellt wird.
+
+## 4. Theorie: Habitus nach Pierre Bourdieu
+
+Der Habitus ist ein zentraler Begriff in der Theorie von Pierre Bourdieu (1930–2002). Er bezeichnet dauerhafte, „eingefleischte“ Denk-, Wahrnehmungs- und Handlungsmuster, die als Ergebnis von Sozialisation und Lernen die Position eines Menschen in der Ungleichheitsstruktur einer Gesellschaft widerspiegeln (Pries 2019, S. 119 f.). Drei Punkte sind wichtig:
+
+- **Der Habitus ist nicht angeboren.** Er meint auch keinen Dialekt oder Sprachfehler, sondern Arten des Verhaltens, Handelns und des Geschmacks, die durch soziale Ungleichheitsverhältnisse geprägt sind.
+- **Er entsteht vor allem in der Kindheit.** Er ist Produkt einer individuellen Geschichte, einer milieubezogenen Erziehung und einer kollektiven Geschichte.
+- **Er ist verinnerlicht.** Denk- und Wahrnehmungsmuster sind verinnerlichte soziale Strukturen. Geschmack, Sprache und Auftreten fühlen sich deshalb „natürlich“ an.
+
+Ein Beispiel: Zwei Studierende sitzen in derselben Sprechstunde. Die eine verhandelt selbstverständlich eine Fristverlängerung, der andere ist unsicher, ob er überhaupt fragen darf. Das hat oft weniger mit Begabung zu tun als mit einem Habitus, der in einem Elternhaus mit oder ohne Hochschulerfahrung erworben wurde. Bourdieu zeigt damit, wie soziale Ungleichheit über den Habitus weitergegeben wird, scheinbar unbemerkt und gerade deshalb wirksam (→ [Sitzung 8](08-klassen-schichten-milieus.qmd) und [Sitzung 10](10-bildungsungleichheit.qmd)).
+
+## 5. Theorie: Sozialisation
+
+Albert Scherr (2018) versteht Sozialisation als den „Prozess, in dem der Mensch in die ihn umgebenden sozialen Kontexte hineinwächst, die dort gegebenen Sprache(n), Gewohnheiten, Regeln und Normen erwirbt und zugleich zu einem eigenverantwortlich und eigensinnig handlungsfähigen Individuum wird“. Zwei Seiten wirken zusammen: unterschiedliche soziale Einflüsse und der Eigensinn des Individuums. Sozialisation ist also keine bloße Anpassung. Menschen erwerben in ihr auch die Fähigkeit, Normen zu hinterfragen und Gewohnheiten kreativ zu überschreiten.
+
+| | primäre Sozialisation | sekundäre Sozialisation |
+|---|---|---|
+| Was wird erworben? | Sprach- und Handlungsfähigkeit, grundlegende Persönlichkeitsmerkmale | spezifische Kompetenzen und Normen |
+| Wann? | vor allem in der frühen Kindheit | ab Kita und Schule, lebenslang |
+| Wo? | vor allem in der Familie | Kita, Schule, Peergroup, Ausbildung, Hochschule, Betrieb, Medien |
+
+: Primäre und sekundäre Sozialisation (vgl. Hobmair 2019, S. 66) {#tbl-sozialisation}
+
+**Schichtspezifische und sozialökologische Forschung.** Die traditionelle schichtspezifische Sozialisationsforschung geht von einem Zusammenhang zwischen Schichtzugehörigkeit, familiärer Sozialisation, Persönlichkeitsentwicklung sowie Schul- und Berufserfolg aus; die Schicht beeinflusst die Entwicklung kognitiver, motivationaler und sprachlicher Kompetenzen. Die sozialökologische Forschung untersucht die Familienumwelt genauer, nach ihrer sozialen und materiellen Beschaffenheit. Beides zusammen bildet den Erfahrungsraum der Kinder, mit unterschiedlichem Anregungs-, aber auch Belastungspotenzial (Scherr 2018).
+
+## 6. Theorie: Produktive Realitätsverarbeitung
+
+Klaus Hurrelmann und Ullrich Bauer (2020) verstehen Sozialisation als **produktive Realitätsverarbeitung**: ein wechselseitiger Prozess zwischen dem Subjekt und seiner Umwelt. Der Mensch ist dabei nicht passiv, sondern verarbeitet aktiv zwei Realitäten:
+
+- die **innere Realität**: körperliche und psychische Merkmale, Temperament, Bedürfnisse, Gesundheit,
+- die **äußere Realität**: Familie, Freundeskreis, Schule, Medien, Wohnumfeld sowie gesellschaftliche Bedingungen wie Einkommen, Bildung und Kultur.
+
+In der Auseinandersetzung mit beiden bewältigt der Mensch lebensphasentypische Entwicklungsaufgaben und bildet seine Persönlichkeit und Identität aus.
+
+Ein Beispiel: Ein 15-Jähriger möchte Profifußballer werden. Seine innere Realität: sportliches Talent, aber Konzentrationsschwierigkeiten in der Schule. Seine äußere Realität: ein engagierter Trainer, Eltern mit wenig Zeit und knappen Mitteln, ein Freundeskreis, der Schule für unwichtig hält. Wie er diese Bedingungen verarbeitet, ob er Training und Schulabschluss verbindet oder die Schule vernachlässigt, ist weder vollständig vorgegeben noch völlig frei.
+
+## 7. Analyse: Wie Herkunft wirksam wird
+
+Die drei Ansätze ergänzen sich. Mead erklärt, wie Identität in Interaktion entsteht, und damit auch, warum abwertende Fremdbilder so wirksam sind: Wer immer wieder gespiegelt bekommt, „schwierig“ oder „fremd“ zu sein, nimmt dieses Bild leicht in das eigene Selbst auf. W. E. B. Du Bois hat diese Erfahrung als „doppeltes Bewusstsein“ beschrieben (→ [Sitzung 1](01-einfuehrung.qmd)). Bourdieu zeigt, wie soziale Herkunft sich als Habitus in Sprache, Geschmack und Auftreten einschreibt und in Institutionen wie Schule oder Hochschule als „Begabung“ oder „Unsicherheit“ wahrgenommen wird. Hurrelmann und Bauer schließlich betonen, dass Menschen diese Einflüsse nicht passiv übernehmen, sondern aktiv verarbeiten. Gemeinsam erklären sie, warum Herkunft wirkt und warum sie dennoch kein Schicksal ist.
+
+## 8. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Ein Jugendlicher, der im Beratungsgespräch schweigt, ist nicht einfach „unmotiviert“. Sein Verhalten kann Ausdruck eines Habitus sein, der in Erfahrungen mit Behörden oder Ausgrenzung entstanden ist. Auch Fachkräfte haben einen Habitus. Er beeinflusst, was ihnen „normal“ erscheint, mit wem sie leicht ins Gespräch kommen und wen sie eher als „schwierig“ wahrnehmen. Und Soziale Arbeit ist selbst eine Sozialisationsinstanz, etwa in Kita, Jugendarbeit oder Jugendhilfe.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Soziale Arbeit kann an der äußeren Realität ansetzen, also an Ressourcen und Lebensbedingungen, und an der Fähigkeit der Einzelnen, diese Realität produktiv zu verarbeiten. Sie bietet Erfahrungsräume, in denen junge Menschen Anerkennung erleben und sich anders spiegeln können, als es Schule oder Öffentlichkeit oft tun. Und sie verlangt von Fachkräften, den eigenen Habitus zu reflektieren.
+:::
+
+## 9. Reflexion: Grenzen der Ansätze
+
+Meads Theorie wurde in einer weitgehend homogenen bürgerlichen Welt entwickelt. Sie erklärt gut, wie Identität entsteht, aber weniger, warum manche Gruppen systematisch abwertende Spiegelungen erfahren. Bourdieus Habitusbegriff wird vorgeworfen, er erkläre vor allem Reproduktion und unterschätze Veränderung und Eigensinn: Wie kommt es, dass Menschen ihren Herkunftshabitus überschreiten? Das Modell der produktiven Realitätsverarbeitung ist dagegen so offen formuliert, dass es kaum widerlegbar ist. Es beschreibt das Zusammenspiel von Person und Umwelt, sagt aber wenig darüber, welche Einflüsse unter welchen Bedingungen überwiegen.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Beschreiben Sie Miras innere und äußere Realität im Sinne von Hurrelmann und Bauer. Welche Instanzen der primären und sekundären Sozialisation haben sie geprägt? Wie verarbeitet sie diese Einflüsse produktiv, etwa durch ihren Berufswunsch? Welche Spiegelungen erfährt Mira, wenn sie gefragt wird, woher sie „wirklich“ komme, und welche Folgen kann das für ihre Identität haben?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Produktive Realitätsverarbeitung (Einzelarbeit, 15 Minuten)"}
+Erläutern Sie an einem selbstgewählten Beispiel, wie sich Persönlichkeit nach dem Modell der produktiven Realitätsverarbeitung von Hurrelmann und Bauer entwickelt. Benennen Sie die innere und die äußere Realität und die Entwicklungsaufgabe, um die es geht.
+:::
+
+::: {.callout-tip title="Zum Hören und Sehen"}
+- Soziopod Academics, Folge 003: Gesellschaft und Identität von George Herbert Mead (I, Me und Self).
+- [Soziologie studieren: Pierre Bourdieu – Habitus](https://www.youtube.com/watch?v=FREhPtcV6LA) (YouTube-Kanal der Universität Rostock).
+:::
+
+**Zum Weiterlesen:** Bourdieu, Pierre (1982): Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft. Frankfurt a. M.: Suhrkamp. · Hurrelmann, Klaus/Bauer, Ullrich (2020): Einführung in die Sozialisationstheorie. 13. Aufl. Weinheim/Basel: Beltz. · Mead, George Herbert (1968): Geist, Identität und Gesellschaft aus der Sicht des Sozialbehaviorismus. Frankfurt a. M.: Suhrkamp. · Pries, Ludger (2019): Soziologie. Schlüsselbegriffe – Herangehensweisen – Perspektiven. 2. Aufl. Weinheim/Basel: Beltz Juventa.

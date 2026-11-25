@@ -1,0 +1,114 @@
+---
+title: "Sitzung 10: Soziale Bildungsungleichheit und gesellschaftliche Reproduktion"
+subtitle: "Block III · Sozialstruktur und soziale Ungleichheit"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Warum hängt Bildungserfolg so stark von der sozialen Herkunft ab, und wie trägt das Bildungssystem dazu bei, Ungleichheit von Generation zu Generation weiterzugeben?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Migration und gesellschaftliche Zugehörigkeit]{.tag} [Rassismus und Diskriminierung]{.tag} [Inklusion und Exklusion]{.tag} [Struktur und Handlungsmacht]{.tag}
+:::
+
+Zwei Kinder haben am Ende der vierten Klasse denselben Notendurchschnitt. Die Eltern des einen Kindes sind Ärztin und Ingenieur. Sie melden ihr Kind am Gymnasium an, organisieren bei Bedarf Nachhilfe und sind überzeugt, dass es das schaffen wird. Die Eltern des anderen Kindes arbeiten im Schichtdienst und haben selbst keinen höheren Abschluss. Sie zögern, haben Sorge vor Überforderung und folgen der Empfehlung, das Kind auf eine weniger anspruchsvolle Schulart zu schicken. Gleiche Leistung, unterschiedliche Wege: An dieser Stelle setzt die soziologische Bildungsforschung an.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Bildung als zentrale Ressource
+- Bildungsexpansion und ihre Grenzen
+- Primäre und sekundäre Herkunftseffekte (Boudon)
+- Kulturelles Kapital und die Illusion der Chancengleichheit (Bourdieu)
+- Institutionelle Diskriminierung in der Schule
+- Übergänge im gegliederten Schulsystem
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Bildungsungleichheit, Bildungsexpansion
+- primäre und sekundäre Herkunftseffekte
+- kulturelles Kapital, Reproduktion
+- Leistungsideologie
+- institutionelle Diskriminierung
+- Übertritt, Bildungsübergang
+:::
+
+:::
+
+## 1. Theorie: Bildung als Schlüsselressource
+
+In modernen Gesellschaften entscheidet Bildung in hohem Maße über berufliche Positionen, Einkommen, Gesundheit und gesellschaftliche Teilhabe. Bildungsabschlüsse sind institutionalisiertes kulturelles Kapital (→ [Sitzung 9](09-dimensionen-ungleichheit.qmd)). Zugleich gilt die Schule als Ort, an dem allein Leistung zählen soll. Gerade deshalb wiegt es schwer, dass Bildungserfolg in Deutschland seit Jahrzehnten eng mit der sozialen Herkunft zusammenhängt, wie Schulleistungsstudien immer wieder zeigen.
+
+### Bildungsexpansion
+
+Seit den 1960er-Jahren hat sich die Bildungsbeteiligung stark erhöht. Mehr junge Menschen erreichen höhere Abschlüsse, besonders Frauen haben aufgeholt. Damals galt das „katholische Arbeitermädchen vom Lande“ als Sinnbild der Bildungsbenachteiligung. Heute wird häufig der „Migrantensohn aus der Großstadt“ genannt (Geißler 2014). Die Bildungsexpansion hat das Bildungsniveau insgesamt angehoben, die Abstände zwischen sozialen Gruppen aber nur begrenzt verringert, ein weiteres Beispiel für den Fahrstuhleffekt (→ [Sitzung 8](08-klassen-schichten-milieus.qmd)).
+
+## 2. Theorie: Primäre und sekundäre Herkunftseffekte (Boudon)
+
+Der französische Soziologe Raymond Boudon (1974) hat zwei Mechanismen unterschieden, über die soziale Herkunft auf Bildungserfolg wirkt.
+
+| | primäre Herkunftseffekte | sekundäre Herkunftseffekte |
+|---|---|---|
+| Was ist gemeint? | Unterschiede in den schulischen *Leistungen* | Unterschiede in den *Bildungsentscheidungen* bei gleicher Leistung |
+| Ursachen | Förderung zu Hause, Sprache, Lernumgebung, Ressourcen für Nachhilfe | unterschiedliche Abwägung von Kosten, Nutzen und Erfolgswahrscheinlichkeit |
+| Beispiel | Ein Kind, dem viel vorgelesen wird, hat Vorteile beim Lesen. | Eltern aus Arbeiterfamilien wählen bei gleicher Note seltener das Gymnasium. |
+
+: Herkunftseffekte nach Boudon {#tbl-boudon}
+
+Sekundäre Effekte sind kein Ausdruck mangelnder Bildungsorientierung. Für Familien mit wenig Geld und ohne eigene Erfahrung mit höherer Bildung sind Kosten und Risiken eines langen Bildungswegs tatsächlich höher, und ein Scheitern hätte schwerere Folgen. Ihre Entscheidungen sind aus ihrer Lage heraus rational.
+
+## 3. Theorie: Kulturelles Kapital und die Illusion der Chancengleichheit (Bourdieu)
+
+Pierre Bourdieu und Jean-Claude Passeron (1971) haben gezeigt, dass die Schule nicht neutral ist. Sie setzt stillschweigend jene Sprache, Umgangsformen und Wissensbestände voraus, die Kinder aus gebildeten Familien zu Hause erwerben. Was diese Kinder mitbringen, erscheint in der Schule als Begabung. Was anderen fehlt, erscheint als Defizit. Indem die Schule Leistung bewertet, ohne die ungleichen Voraussetzungen zu berücksichtigen, verwandelt sie soziale Unterschiede in scheinbar natürliche Leistungsunterschiede. Bourdieu spricht von der **Illusion der Chancengleichheit**: Das Bildungssystem trägt zur **Reproduktion** der Sozialstruktur bei und legitimiert sie zugleich, weil die Ergebnisse als verdient gelten. Die Vorstellung, dass sich Leistung immer auszahlt, wirkt dabei als Leistungsideologie (→ Fallbeispiel Trambosi in [Sitzung 2](02-handeln-wirklichkeit.qmd)).
+
+## 4. Theorie: Institutionelle Diskriminierung
+
+Mechtild Gomolla und Frank-Olaf Radtke (2002) haben in einer Studie zu Grundschulen gezeigt, wie Schulen an Entscheidungspunkten (Einschulung, Zurückstellung, Überweisung an Förderschulen, Übertrittsempfehlung) Kinder mit Migrationsgeschichte benachteiligen. Das geschieht meist nicht aus bösem Willen, sondern über Routinen und Begründungen, die plausibel erscheinen: fehlende Deutschkenntnisse, mangelnde Unterstützung durch die Eltern, „Passung“ zur Schulart. Die Benachteiligung liegt in den Strukturen der Organisation.
+
+### Übergänge im gegliederten Schulsystem
+
+Besonders wirksam werden Herkunftseffekte an **Übergängen**. In Bayern fällt eine erste wichtige Entscheidung bereits nach der vierten Klasse, wenn über den Übertritt auf Mittelschule, Realschule oder Gymnasium entschieden wird. Je früher solche Weichen gestellt werden, desto stärker wirken Herkunft und Elternentscheidungen, und desto weniger Zeit bleibt, Startnachteile auszugleichen. Zugleich bietet das bayerische System Anschlusswege, etwa über den mittleren Schulabschluss an der Mittelschule und die Fachoberschule.
+
+## 5. Analyse: Wie Herkunft und Schule zusammenwirken
+
+Die drei Perspektiven ergänzen sich. Boudon erklärt, wie Herkunft über Leistung *und* über Entscheidungen wirkt. Bourdieu erklärt, warum die Schule Herkunftsunterschiede nicht ausgleicht, sondern in scheinbar natürliche Leistungsunterschiede übersetzt. Gomolla und Radtke zeigen, wie Organisationen selbst an Entscheidungspunkten Ungleichheit erzeugen. Zusammen machen sie verständlich, warum gleiche Leistung zu ungleichen Bildungswegen führen kann, und warum der Hinweis auf individuelle Anstrengung allein zu kurz greift.
+
+## 6. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Die Soziale Arbeit ist an vielen Stellen des Bildungssystems präsent: in Kitas, in der Jugendsozialarbeit an Schulen (JaS), in der Ganztagsbetreuung, in der Berufsorientierung und in der Jugendberufshilfe. Aus den Theorien dieser Sitzung folgen konkrete Ansatzpunkte:
+
+- **An Übergängen begleiten:** Eltern über Bildungswege informieren, Ängste ernst nehmen und Anschlussmöglichkeiten aufzeigen, um sekundäre Effekte abzuschwächen.
+- **Kulturelles Kapital zugänglich machen:** Lernräume, Hausaufgabenhilfe, Mentoring und Zugang zu außerschulischer Bildung.
+- **Defizitblicke hinterfragen:** In Fallbesprechungen und Kooperationen mit der Schule darauf achten, ob soziale Unterschiede als individuelle Defizite gedeutet werden.
+- **Institutionelle Routinen ansprechen:** Entscheidungspraxen bei Empfehlungen, Zurückstellungen oder Förderbedarfen kritisch begleiten.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Bildungsungleichheit ist kein Ergebnis fehlender Anstrengung, sondern entsteht im Zusammenspiel von Herkunft, Entscheidungen und Institutionen. Soziale Arbeit kann an Übergängen begleiten, Ressourcen erschließen und Defizitzuschreibungen widersprechen.
+:::
+
+## 7. Reflexion: Grenzen der Ansätze
+
+Boudons Modell rationaler Bildungsentscheidungen wurde dafür kritisiert, Familien als nüchtern kalkulierende Akteur:innen zu zeichnen und Gefühle, Erfahrungen und Diskriminierung zu unterschätzen. Bourdieus Reproduktionstheorie erklärt sehr gut, warum Ungleichheit fortbesteht, aber weniger gut, warum Bildungsaufstiege dennoch gelingen. Schließlich darf der Blick auf Herkunftseffekte nicht dazu führen, Kinder aus benachteiligten Familien von vornherein als „Risikokinder“ zu sehen. Auch das wäre eine Etikettierung mit realen Folgen (→ [Sitzung 5](05-kultur-normen-institutionen.qmd)).
+
+::: {.fall}
+Fallbeispiel Mira
+
+Nach der vierten Klasse empfahl die Grundschule Mira die Mittelschule, und ihre Mutter widersprach nicht. Deuten Sie diese Entscheidung mit Boudons primären und sekundären Herkunftseffekten. Welche Rolle könnten kulturelles Kapital und institutionelle Routinen gespielt haben? Welche Anschlusswege stehen Mira heute offen, um ihren Berufswunsch Erzieherin zu erreichen, und wie kann die JaS-Fachkraft sie dabei unterstützen?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag: Bildungsbiografien (Partnerarbeit, 20 Minuten)"}
+Erzählen Sie sich gegenseitig Ihren Bildungsweg. An welchen Stellen wurden Entscheidungen getroffen, und von wem? Welche Ressourcen hatten Sie, welche fehlten? Wo lassen sich primäre, wo sekundäre Effekte erkennen?
+:::
+
+::: {.callout-tip title="Diskussion"}
+Sollte die Entscheidung über die weiterführende Schule später fallen als nach der vierten Klasse? Sammeln Sie Argumente aus soziologischer Sicht.
+:::
+
+**Zum Weiterlesen:** Boudon, Raymond (1974): Education, Opportunity, and Social Inequality. New York: Wiley. · Bourdieu, Pierre/Passeron, Jean-Claude (1971): Die Illusion der Chancengleichheit. Stuttgart: Klett. · Geißler, Rainer (2014): Die Sozialstruktur Deutschlands. 7. Aufl. Wiesbaden: Springer VS. · Gomolla, Mechtild/Radtke, Frank-Olaf (2002): Institutionelle Diskriminierung. Die Herstellung ethnischer Differenz in der Schule. Opladen: Leske + Budrich.

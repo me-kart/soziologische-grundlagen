@@ -2,7 +2,7 @@
 title: "Soziologische Grundlagen: Lernkontrolle"
 ---
 
-Diese Lernkontrolle zeigt, welche Grundbegriffe der Lehrveranstaltung Sie schon sicher anwenden können. Jede der neun Fragen zielt auf eine typische Verwechslung, etwa zwischen Gemeinschaft und Gesellschaft, zwischen Code und Funktion eines Systems oder zwischen signifikanten Anderen und dem generalisierten Anderen. Nach jeder Antwort erklärt die Rückmeldung alle Optionen, auch die falschen. Die Lernkontrolle wird nicht bewertet.
+Diese Lernkontrolle zeigt, welche Grundbegriffe der Lehrveranstaltung Sie schon sicher anwenden können. Jede der zwölf Fragen zielt auf eine typische Verwechslung, etwa zwischen Gemeinschaft und Gesellschaft, zwischen Code und Funktion eines Systems oder zwischen signifikanten Anderen und dem generalisierten Anderen. Nach jeder Antwort erklärt die Rückmeldung alle Optionen, auch die falschen. Die Lernkontrolle wird nicht bewertet.
 
 Wenn Sie bei einer Frage unsicher sind, lesen Sie die Begriffe noch einmal auf der Seite [Grundbegriffe der Soziologie](grundlagen/01-grundbegriffe.qmd) nach.
 

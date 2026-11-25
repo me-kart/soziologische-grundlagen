@@ -1,14 +1,14 @@
 # Soziologische Grundlagen
 
-Interaktives Skript zur Lehrveranstaltung „1.10.1 Soziologische Grundlagen“ von Prof. Dr. Mehmet Kart, Soziale Arbeit (B. A.), OTH Regensburg (SoSe 2026, Gruppe Freitag).
+Interaktives Skript zur Lehrveranstaltung „1.10.1 Soziologische Grundlagen“ von Prof. Dr. Mehmet Kart, Soziale Arbeit (B. A.), OTH Regensburg. Das Skript enthält bewusst keine Termine und kann jedes Semester wiederverwendet werden.
 
 ## Was wo liegt
 
 ```
 welcome.qmd              Willkommensseite
 index.qmd                Seminarüberblick (Startseite der Webseite)
-grundlagen/              Grundbegriffe zum Aufklappen
-sitzungen/               Sitzungen nach dem Seminarplan (bisher 1, 2, 3 und 7)
+grundlagen/              Grundbegriffe zum Aufklappen, durchgängiges Fallbeispiel Mira
+sitzungen/               zwölf Sitzungen in vier Blöcken
 03-lernspiele.qmd        Lernspiele (Memory, Aussagen zuordnen)
 04-lernkontrolle.qmd     Lernkontrolle
 interactions/            die drei Lernspiele als HTML-Dateien
@@ -25,7 +25,7 @@ Welche Seiten gebaut werden, steht in `_quarto.yml` unter `render:`.
 
 ## Neue Sitzung hinzufügen
 
-Neue `.qmd`-Datei unter `sitzungen/` anlegen (z. B. `sitzungen/04-marx-kritische-theorie.qmd`), in `_quarto.yml` unter `sidebar: contents:` eintragen und in `index.qmd` den Sitzungstitel verlinken.
+Neue `.qmd`-Datei unter `sitzungen/` anlegen, in `_quarto.yml` unter `render:` **und** unter `sidebar: contents:` eintragen und in `index.qmd` verlinken. Jede Sitzung folgt dem Aufbau Theorie – Analyse – Praxis – Reflexion und enthält einen Kasten zum Fallbeispiel Mira.
 
 ## Lernspiele ändern
 

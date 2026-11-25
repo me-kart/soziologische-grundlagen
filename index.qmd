@@ -1,6 +1,6 @@
 ---
 title: "Seminarüberblick"
-subtitle: "1.10.1 Soziologische Grundlagen · Soziale Arbeit (B. A.), OTH Regensburg · SoSe 2026 · Gruppe Freitag"
+subtitle: "1.10.1 Soziologische Grundlagen · Soziale Arbeit (B. A.), OTH Regensburg"
 ---
 
 ::: {.callout-note appearance="simple" icon=false}
@@ -10,73 +10,138 @@ Wie entsteht und funktioniert Gesellschaft, wie werden Menschen zu Mitgliedern d
 
 ## Worum es geht
 
-Die Lehrveranstaltung führt in die Grundlagen der Soziologie ein. Sie klärt, was Soziologie ist, unter welchen historischen Bedingungen sie entstanden ist und mit welchen Theorien sie Gesellschaft beschreibt. Danach geht es um Sozialstruktur: um Kultur, Normen und Werte, um Sozialisation und Habitus, um Gruppen und Rollen. Den Abschluss bilden soziale Schichtung, soziale Ungleichheit, sozialer Wandel und Raum.
+Die Lehrveranstaltung führt in das soziologische Denken ein. Sie beginnt mit der Frage, was Soziologie ist und wie sie den Blick auf scheinbar private Probleme verändert. Danach lernen Sie zentrale Gesellschaftstheorien kennen, jeweils entlang ihres Erkenntnisinteresses. Der zweite Block fragt, wie Menschen zu Mitgliedern einer Gesellschaft werden: über Kultur und Normen, Sozialisation und Habitus, Interaktion, Gruppen und Rollen. Der dritte Block behandelt Sozialstruktur und soziale Ungleichheit, der vierte gesellschaftlichen Wandel und Sozialraum.
 
-Für die Soziale Arbeit ist soziologisches Wissen unverzichtbar. Ihre Adressat:innen leben in Lebenslagen, die gesellschaftlich bedingt sind. Wer diese Lagen verstehen und verändern will, muss wissen, wie sie entstehen. Drei Fragen begleiten uns deshalb durch das Semester: Was hält eine Gesellschaft zusammen? Wie prägt Gesellschaft den Einzelnen und wie gestaltet der Einzelne Gesellschaft mit? Und welche Verantwortung folgt daraus für die professionelle Praxis?
+Für die Soziale Arbeit ist dieses Wissen unverzichtbar. Ihre Adressat:innen leben in Lebenslagen, die gesellschaftlich bedingt sind. Arbeitslosigkeit, Armut oder Bildungsbenachteiligung erscheinen zunächst als individuelle Schicksale. Soziologisch betrachtet verweisen sie auf Strukturen, die sich erkennen, erklären und verändern lassen. Wer nur den Einzelfall sieht, übersieht die Strukturen. Wer nur die Strukturen sieht, übersieht den Menschen.
+
+## Drei Kernkompetenzen
+
+Die Lehrveranstaltung verfolgt drei übergeordnete Ziele. Sie sollen lernen,
+
+1. **soziologisch zu denken**, also individuelle Erfahrungen auf gesellschaftliche Zusammenhänge zu beziehen,
+2. **das Verhältnis von Individuum und Gesellschaft zu verstehen**, also wie Menschen Gesellschaft hervorbringen und zugleich von ihr geprägt werden,
+3. **soziale Problemlagen mithilfe soziologischer Theorien zu analysieren**, also Theorien nicht nur zu kennen, sondern mit ihnen zu arbeiten.
 
 ## Lernziele
 
 Nach der Lehrveranstaltung können Sie
 
-- eine grundlegende Definition von Soziologie wiedergeben und ihre Bedeutung in modernen Gesellschaften erklären,
-- die wichtigsten historischen Meilensteine der Soziologie und ihre Gründerfiguren benennen,
-- zentrale Gesellschaftstheorien, ihre Vertreter und ihre Kernaussagen unterscheiden,
-- erläutern, wie Identität, Sozialisation und Habitus den Einzelnen mit der Gesellschaft verbinden,
-- soziologische Erkenntnisse auf Fragen und Probleme der Sozialen Arbeit anwenden.
+- erklären, was Soziologie ist und worin sich soziologisches Wissen von Alltagswissen unterscheidet,
+- gesellschaftliche Phänomene auf der Mikro-, Meso- und Makroebene beschreiben und die Ebenen aufeinander beziehen,
+- zentrale Gesellschaftstheorien nach ihrem Erkenntnisinteresse vergleichen und ihre Stärken und Grenzen kritisch einschätzen,
+- analysieren, wie Kultur, Sozialisation, Interaktion und Rollen den Einzelnen mit der Gesellschaft verbinden,
+- Mechanismen sozialer Ungleichheit und ihrer Reproduktion erklären und an Beispielen belegen,
+- soziologische Begriffe und Theorien auf Fälle aus der Sozialen Arbeit anwenden und daraus begründete Folgerungen für die Praxis ableiten,
+- die eigene professionelle Perspektive und ihre gesellschaftliche Prägung reflektieren.
+
+## So sind die Sitzungen aufgebaut
+
+Jede Sitzung folgt denselben vier Fragen. So wird der Bezug zur Sozialen Arbeit nicht erst am Ende hergestellt, sondern zieht sich durch die gesamte Sitzung.
+
+::: {.vier-fragen}
+::: {}
+**Theorie**
+
+Was besagt der soziologische Ansatz?
+:::
+::: {}
+**Analyse**
+
+Welche gesellschaftlichen Phänomene lassen sich damit erklären?
+:::
+::: {}
+**Praxis**
+
+Was bedeutet das für die Soziale Arbeit?
+:::
+::: {}
+**Reflexion**
+
+Wo liegen die Grenzen des Ansatzes?
+:::
+:::
+
+Hinzu kommt ein **durchgängiges Fallbeispiel**: Mira, 16 Jahre alt, lebt in einem benachteiligten Quartier in Regensburg. Ihre Lebenssituation wird in jeder Sitzung aus einer anderen theoretischen Perspektive betrachtet (→ [Fallbeispiel: Mira](grundlagen/02-fallbeispiel-mira.qmd)). Am Ende des Semesters haben Sie denselben Fall zwölfmal gelesen und dabei erfahren, was jede Theorie sichtbar macht und was sie ausblendet.
+
+## Theoretische Perspektiven im Überblick
+
+Die Theorien dieser Lehrveranstaltung lassen sich nach ihrer zentralen Fragestellung ordnen. Keine Perspektive erklärt alles. Gerade im Vergleich zeigt sich, was jede leistet.
+
+| Perspektive | Vertreter:innen | Zentrale Fragestellung | Sitzung |
+|---|---|---|---|
+| Handlungstheorie | Max Weber | Wie entsteht Gesellschaft durch soziales Handeln? | 2 |
+| Sozialkonstruktivismus | Peter L. Berger, Thomas Luckmann | Wie wird gesellschaftliche Wirklichkeit hergestellt? | 2 |
+| Strukturfunktionalismus | Talcott Parsons | Wie wird gesellschaftliche Ordnung aufrechterhalten? | 3 |
+| Systemtheorie | Niklas Luhmann | Wie funktioniert eine funktional differenzierte Gesellschaft? | 3 |
+| Konfliktperspektive, Historischer Materialismus | Karl Marx | Wie entstehen Macht, Herrschaft und Ungleichheit? | 4 |
+| Kritische Theorie | Theodor W. Adorno, Max Horkheimer | Wie werden Herrschaftsverhältnisse reproduziert und legitimiert? | 4 |
+| Symbolischer Interaktionismus | George Herbert Mead, Erving Goffman | Wie entstehen Identität und soziale Ordnung in Interaktion? | 6, 7 |
+| Praxeologie | Pierre Bourdieu | Wie schreiben sich soziale Positionen in Körper, Geschmack und Handeln ein? | 6, 8, 10 |
+
+: Gesellschaftstheorien nach Erkenntnisinteresse {#tbl-perspektiven}
 
 ## Die Sitzungen
-
-Sitzungen mit Link sind im Skript bereits ausgearbeitet. Die übrigen Seiten folgen im Laufe des Semesters.
 
 ::: {.block-card .block-1}
 [Block I · Sitzungen 1–4]{.block-badge}
 
-### Einführung und Gesellschaftstheorien
+### Soziologisches Denken und Gesellschaftstheorien
 
-**Schwerpunkt:** Was Soziologie ist, wie sie entstanden ist und wie Sozialkonstruktivismus, Systemtheorie, Historischer Materialismus und Kritische Theorie Gesellschaft beschreiben.
+**Schwerpunkt:** Was soziologisches Denken ausmacht und wie unterschiedliche Theorien Gesellschaft erklären.
 
-1. [Organisatorisches und Einführung: Was ist Soziologie?](sitzungen/01-einfuehrung.qmd) · 20.03.2026
-2. [Gesellschaftstheorien I: Sozialkonstruktivismus (P. L. Berger und T. Luckmann)](sitzungen/02-sozialkonstruktivismus.qmd) · 27.03.2026
-3. [Gesellschaftstheorien II: Die Gesellschaft aus der Perspektive der Systemtheorie](sitzungen/03-systemtheorie.qmd) · 10.04.2026
-4. Gesellschaftstheorien III: Historischer Materialismus (K. Marx) und Kritische Theorie (T. W. Adorno, M. Horkheimer) · 17.04.2026
+1. [Einführung: Was ist Soziologie? Soziologisches Denken und historische Entstehung](sitzungen/01-einfuehrung.qmd)
+2. [Soziales Handeln und gesellschaftliche Wirklichkeit: Weber, Berger und Luckmann](sitzungen/02-handeln-wirklichkeit.qmd)
+3. [Gesellschaftliche Ordnung: Parsons und Luhmann](sitzungen/03-gesellschaftliche-ordnung.qmd)
+4. [Gesellschaft, Macht und Herrschaft: Marx und Kritische Theorie](sitzungen/04-macht-herrschaft.qmd)
 :::
 
-Am 24.04.2026 entfällt die Sitzung.
-
 ::: {.block-card .block-2}
-[Block II · Sitzungen 6–8]{.block-badge}
+[Block II · Sitzungen 5–7]{.block-badge}
 
-### Sozialstruktur
+### Individuum und Gesellschaft
 
-**Schwerpunkt:** Wie Kultur, Normen und Werte, Sozialisation und Habitus sowie Gruppen und Rollen das Zusammenleben ordnen.
+**Schwerpunkt:** Wie Menschen zu Mitgliedern einer Gesellschaft werden und wie sie soziale Ordnung im Alltag herstellen.
 
-6. Sozialstruktur I: Kultur, Normen und Werte · 08.05.2026
-7. [Sozialstruktur II: Identität, Sozialisation und Habitus](sitzungen/07-sozialisation-habitus.qmd) · 22.05.2026
-8. Sozialstruktur III: Gruppen und soziale Rolle · 29.05.2026
+5. [Kultur, Normen, Werte und Institutionen](sitzungen/05-kultur-normen-institutionen.qmd)
+6. [Identität, Sozialisation und Habitus](sitzungen/06-identitaet-sozialisation-habitus.qmd)
+7. [Soziale Interaktion, Gruppen und Rollen](sitzungen/07-interaktion-gruppen-rollen.qmd)
 :::
 
 ::: {.block-card .block-3}
-[Block III · Sitzungen 9–11]{.block-badge}
+[Block III · Sitzungen 8–10]{.block-badge}
 
-### Schichtung und Ungleichheit
+### Sozialstruktur und soziale Ungleichheit
 
-**Schwerpunkt:** Wie Gesellschaften vertikal gegliedert sind und wie Ungleichheit entsteht und weitergegeben wird.
+**Schwerpunkt:** Wie Gesellschaften dauerhaft gegliedert sind und wie Ungleichheit entsteht und weitergegeben wird.
 
-9. Soziale Schichtung: Klassen, Schichten, soziale Milieus · 12.06.2026
-10. Soziale Ungleichheit: Dimensionen sozialer Ungleichheit; Macht, Abhängigkeit und soziale Dynamik (N. Elias) · 19.06.2026
-11. Soziale Bildungsungleichheit · 26.06.2026
+8. [Klassen, Schichten, soziale Milieus und soziale Mobilität](sitzungen/08-klassen-schichten-milieus.qmd)
+9. [Dimensionen und Mechanismen sozialer Ungleichheit: Macht, Ressourcen und Teilhabe](sitzungen/09-dimensionen-ungleichheit.qmd)
+10. [Soziale Bildungsungleichheit und gesellschaftliche Reproduktion](sitzungen/10-bildungsungleichheit.qmd)
 :::
 
 ::: {.block-card .block-4}
-[Block IV · Sitzungen 12–13]{.block-badge}
+[Block IV · Sitzungen 11–12]{.block-badge}
 
-### Wandel und Raum
+### Gesellschaftlicher Wandel und Sozialraum
 
 **Schwerpunkt:** Wie sich Gesellschaften wandeln und wie sich soziale Unterschiede im Raum zeigen.
 
-12. Sozialer Wandel und Globalisierung: Moderne, Postmoderne, Migration, Digitalisierung · 03.07.2026
-13. Stadt- und Landsoziologie: Raum, Segregation, soziale Exklusion · 10.07.2026
+11. [Modernisierung und gesellschaftlicher Wandel](sitzungen/11-modernisierung-wandel.qmd)
+12. [Stadt- und Landsoziologie: Sozialraum, Segregation und Exklusion](sitzungen/12-sozialraum-segregation.qmd)
 :::
+
+## Querschnittsthemen
+
+Einige Themen haben keine eigene Sitzung, ziehen sich aber durch das gesamte Semester. Sie sind am Anfang jeder Sitzung als Schlagworte vermerkt:
+
+- Macht und Herrschaft
+- Migration und gesellschaftliche Zugehörigkeit
+- Geschlecht und soziale Ungleichheit
+- Rassismus und Diskriminierung
+- Inklusion und Exklusion
+- Struktur und Handlungsmacht
+
+Sie bilden zugleich die Brücke zu weiterführenden Lehrveranstaltungen, etwa zu sozialer Ungleichheit oder zu rassismuskritischer Sozialer Arbeit.
 
 ## Prüfung
 
@@ -84,7 +149,7 @@ Die Lehrveranstaltung schließt mit einer **Portfolioprüfung** aus drei Teilen 
 
 1. **Rolle als Expert:in in einer Sitzung.** Jede:r Studierende übernimmt einmal die Rolle der Expertin oder des Experten zu einem Thema (ab der 2. oder 3. Sitzung). Expert:innen sind während der gesamten Sitzung thematische Ansprechpersonen: Sie beantworten Fragen, bringen sich in Diskussionen ein und unterstützen die Erarbeitung des Themas. Ein vorbereiteter Input ist nicht verpflichtend, Eigeninitiative ist aber ausdrücklich erwünscht.
 2. **Stundenprotokoll.** In der Woche nach der eigenen Expert:innen-Sitzung verfassen Sie ein einseitiges Protokoll, das die Inhalte dokumentiert und zugleich reflektiert (Abgabe über ELO).
-3. **Kurzpaper.** Zum Abschluss verfassen Sie ein Kurzpaper von ca. fünf Seiten zu Ihrem Expert:innenthema, möglichst mit Bezug zur Sozialen Arbeit. Das Kurzpaper wird benotet und zählt doppelt. **Abgabe: 09.07.2026.**
+3. **Kurzpaper.** Zum Abschluss verfassen Sie ein Kurzpaper von ca. fünf Seiten zu Ihrem Expert:innenthema, möglichst mit Bezug zur Sozialen Arbeit. Das Kurzpaper wird benotet und zählt doppelt. Den Abgabetermin erfahren Sie in der ersten Sitzung und auf ELO.
 
 Alle drei Teile müssen erfolgreich absolviert werden, damit das Portfolio bestanden ist.
 
@@ -93,6 +158,8 @@ Alle drei Teile müssen erfolgreich absolviert werden, damit das Portfolio besta
 - Hurrelmann, Klaus/Bauer, Ullrich (2020): Einführung in die Sozialisationstheorie. Das Modell der produktiven Realitätsverarbeitung. 13. Aufl. Weinheim/Basel: Beltz.
 - Pries, Ludger (2019): Soziologie. Schlüsselbegriffe – Herangehensweisen – Perspektiven. 2. Aufl. Weinheim/Basel: Beltz Juventa.
 - Schäfers, Bernhard (Hrsg.) (2003): Grundbegriffe der Soziologie. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Weiterführende Literatur finden Sie am Ende jeder Sitzung.
 
 ## Kontakt
 

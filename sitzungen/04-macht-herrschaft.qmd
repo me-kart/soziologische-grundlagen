@@ -1,0 +1,124 @@
+---
+title: "Sitzung 4: Gesellschaft, Macht und Herrschaft"
+subtitle: "Block I · Marx und Kritische Theorie"
+---
+
+::: {.callout-note appearance="simple" icon=false}
+### Leitfrage
+Wie entstehen Macht, Herrschaft und Ungleichheit, und wie werden Herrschaftsverhältnisse reproduziert und legitimiert?
+:::
+
+::: {.querschnitt}
+Querschnittsthemen: [Macht und Herrschaft]{.tag} [Rassismus und Diskriminierung]{.tag} [Struktur und Handlungsmacht]{.tag}
+:::
+
+Eine Pflegehelferin arbeitet im Schichtdienst, oft am Wochenende, und verdient so wenig, dass ihre Familie ergänzende Leistungen braucht. Gleichzeitig erzielen Unternehmen im Pflegemarkt Gewinne. Parsons und Luhmann würden fragen, wie diese Ordnung funktioniert. Die Theorien dieser Sitzung fragen anders: Wem nützt diese Ordnung? Wer hat die Macht, sie zu gestalten? Und warum wird sie von denen, die sie benachteiligt, so oft als selbstverständlich hingenommen? Karl Marx und die Kritische Theorie der Frankfurter Schule stehen für eine **Konfliktperspektive**: Gesellschaft wird nicht durch Konsens, sondern durch Interessengegensätze und Herrschaft geprägt.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Themen
+
+- Macht und Herrschaft (Weber)
+- Historischer Materialismus (Marx)
+- Klassen, Ausbeutung, Entfremdung, Ideologie
+- Kritische Theorie (Horkheimer, Adorno)
+- Instrumentelle Vernunft, Kulturindustrie, autoritärer Charakter
+- Kritische Soziale Arbeit
+:::
+
+::: {.g-col-12 .g-col-md-6 .session-box}
+#### Zentrale Begriffe
+
+- Macht, Herrschaft, Legitimität
+- Basis und Überbau, Produktionsmittel
+- Klasse, Mehrwert, Ausbeutung
+- Entfremdung, Ideologie
+- instrumentelle Vernunft, Kulturindustrie
+- doppeltes Mandat
+:::
+
+:::
+
+## 1. Theorie: Macht und Herrschaft
+
+Bevor wir zu Marx kommen, lohnt ein Blick auf zwei Begriffe Max Webers, die in der Soziologie bis heute grundlegend sind (Weber 1922/1980, § 16). **Macht** ist jede Chance, innerhalb einer sozialen Beziehung den eigenen Willen auch gegen Widerstreben durchzusetzen, gleichviel worauf diese Chance beruht. **Herrschaft** ist die Chance, für einen Befehl bestimmten Inhalts bei angebbaren Personen Gehorsam zu finden. Herrschaft ist also auf Dauer gestellte, geordnete Macht.
+
+Herrschaft ist stabil, wenn die Beherrschten sie für **legitim** halten. Weber unterscheidet drei Typen legitimer Herrschaft:
+
+| Typ | beruht auf dem Glauben an … | Beispiel |
+|---|---|---|
+| legale Herrschaft | die Geltung gesetzter Regeln und Verfahren | Verwaltung, Jugendamt, Gericht |
+| traditionale Herrschaft | die Heiligkeit überlieferter Ordnungen | Patriarch in einer traditionellen Familie |
+| charismatische Herrschaft | die außeralltägliche Ausstrahlung einer Person | Anführer einer politischen oder religiösen Bewegung |
+
+: Typen legitimer Herrschaft nach Weber {#tbl-herrschaft}
+
+Für die Soziale Arbeit ist vor allem die legale Herrschaft bedeutsam. Fachkräfte üben selbst Macht aus, etwa wenn sie über Hilfen entscheiden, Berichte schreiben oder eine Inobhutnahme veranlassen.
+
+## 2. Theorie: Historischer Materialismus (Marx)
+
+Karl Marx (1818–1883) war Philosoph, Ökonom und politischer Aktivist. Gemeinsam mit Friedrich Engels hat er eine Gesellschaftstheorie entwickelt, die die Soziologie, die Politik und die sozialen Bewegungen bis heute prägt.
+
+**Sein und Bewusstsein.** Der Ausgangspunkt ist materialistisch: „Es ist nicht das Bewußtsein der Menschen, das ihr Sein, sondern umgekehrt ihr gesellschaftliches Sein, das ihr Bewußtsein bestimmt“ (Marx 1859). Wie Menschen ihren Lebensunterhalt produzieren, prägt, wie sie denken, glauben und zusammenleben.
+
+**Basis und Überbau.** Die ökonomischen Verhältnisse bilden die **Basis** einer Gesellschaft: die Produktivkräfte (Arbeitskraft, Technik, Wissen) und die Produktionsverhältnisse (wem gehören die Produktionsmittel?). Darauf erhebt sich ein **Überbau** aus Recht, Politik, Religion, Moral und Kultur, der die Basis absichert.
+
+**Klassen und Klassenkampf.** Im Kapitalismus stehen sich zwei Klassen gegenüber: die **Bourgeoisie**, die die Produktionsmittel besitzt, und das **Proletariat**, das nichts besitzt als seine Arbeitskraft und diese verkaufen muss. „Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von Klassenkämpfen“ (Marx/Engels 1848).
+
+**Mehrwert und Ausbeutung.** Arbeiter:innen erzeugen in ihrer Arbeitszeit mehr Wert, als sie als Lohn erhalten. Die Differenz, den **Mehrwert**, eignet sich der Kapitalbesitzer an. Das nennt Marx **Ausbeutung**, nicht als moralischen Vorwurf an einzelne Unternehmer:innen, sondern als Strukturmerkmal des Kapitalismus (Marx 1867).
+
+**Entfremdung.** In der kapitalistischen Lohnarbeit werden Menschen ihrer eigenen Tätigkeit fremd. Marx unterscheidet die Entfremdung vom Produkt der Arbeit, das anderen gehört, von der Tätigkeit selbst, die fremdbestimmt ist, vom eigenen menschlichen Wesen, das sich in freier, schöpferischer Tätigkeit verwirklicht, und von den Mitmenschen, die zu Konkurrent:innen werden (Marx 1844).
+
+**Ideologie.** Die herrschenden Ideen einer Zeit sind nach Marx die Ideen der herrschenden Klasse. Vorstellungen wie „Jeder ist seines Glückes Schmied“ lassen bestehende Verhältnisse als natürlich und gerecht erscheinen und verdecken ihre Herrschaftsfunktion.
+
+## 3. Theorie: Kritische Theorie (Frankfurter Schule)
+
+Die Kritische Theorie entstand am Frankfurter Institut für Sozialforschung, das in den 1920er-Jahren gegründet wurde. Ihre bekanntesten Vertreter der ersten Generation, Max Horkheimer (1895–1973) und Theodor W. Adorno (1903–1969), mussten im Nationalsozialismus ins Exil fliehen. Ihre Frage lautete: Warum ist die von Marx erwartete Befreiung ausgeblieben? Warum haben sich stattdessen Faschismus, Antisemitismus und massenhafte Anpassung durchgesetzt?
+
+**Kritische statt traditioneller Theorie.** Horkheimer (1937) unterscheidet eine „traditionelle“ Theorie, die Gesellschaft nur beschreibt, von einer „kritischen“ Theorie, die nach den Bedingungen von Herrschaft fragt und auf eine vernünftige, von Herrschaft befreite Gesellschaft zielt. Wissenschaft ist für sie nie neutral.
+
+**Dialektik der Aufklärung.** In ihrem gemeinsamen Hauptwerk zeigen Horkheimer und Adorno (1947), dass die Aufklärung, die den Menschen befreien sollte, in neue Formen der Herrschaft umschlagen kann. Vernunft verkümmert zur **instrumentellen Vernunft**: Sie fragt nur noch nach den effizientesten Mitteln, nicht mehr nach vernünftigen Zielen. Menschen, Natur und Beziehungen werden zu bloßen Mitteln.
+
+**Kulturindustrie.** Film, Radio und Unterhaltung erzeugen nach Horkheimer und Adorno standardisierte Massenware. Sie vermitteln die Illusion freier Wahl, fördern aber Anpassung und lenken von gesellschaftlichen Widersprüchen ab.
+
+**Der autoritäre Charakter.** In empirischen Studien untersuchte Adorno gemeinsam mit anderen, warum Menschen für autoritäre und antisemitische Ideologien empfänglich sind (Adorno et al. 1950). Sie beschreiben ein Syndrom aus Unterwürfigkeit gegenüber Autoritäten, Aggression gegenüber Schwächeren und starrem Denken in Stereotypen. Daran knüpft die heutige Vorurteils- und Rechtsextremismusforschung an.
+
+**Spätere Generationen.** Jürgen Habermas hat die Kritische Theorie weiterentwickelt und die These einer „Kolonialisierung der Lebenswelt“ durch die Systeme Wirtschaft und Verwaltung formuliert (Habermas 1981). Axel Honneth hat Anerkennung ins Zentrum gerückt: Missachtung, etwa durch Entrechtung oder Entwürdigung, ist für ihn eine zentrale Quelle sozialer Konflikte (Honneth 1992).
+
+## 4. Analyse: Was die Konfliktperspektive sichtbar macht
+
+Die Konfliktperspektive lenkt den Blick auf Phänomene, die Ordnungstheorien leicht übersehen. Erwerbsarmut zeigt, dass Arbeit nicht automatisch vor Armut schützt. Prekäre Beschäftigung in Pflege, Logistik oder auf digitalen Plattformen lässt sich als moderne Form von Entfremdung lesen: Arbeit wird zerlegt, gemessen und fremdgesteuert. Die verbreitete Vorstellung, Erfolg sei allein eine Frage der Leistung, lässt sich als **Ideologie** im Marx'schen Sinne deuten, weil sie ungleiche Startbedingungen verdeckt (→ Fallbeispiel Trambosi in [Sitzung 2](02-handeln-wirklichkeit.qmd)). Und die Analyse des autoritären Charakters hilft zu verstehen, warum gesellschaftliche Krisen mit Abwertung von Minderheiten einhergehen können.
+
+## 5. Praxis: Was das für die Soziale Arbeit bedeutet
+
+Die Konfliktperspektive stellt der Sozialen Arbeit eine unbequeme Frage: Auf welcher Seite steht sie? Lothar Böhnisch und Hans Lösch (1973) haben dafür den Begriff des **doppelten Mandats** geprägt. Soziale Arbeit ist einerseits den Adressat:innen verpflichtet und soll Hilfe leisten. Andererseits ist sie dem Staat und seinen Normen verpflichtet und übt soziale Kontrolle aus. Dieses Spannungsfeld lässt sich nicht auflösen, aber reflektieren.
+
+Daraus haben sich Ansätze einer **kritischen Sozialen Arbeit** entwickelt. Sie fragen nach den gesellschaftlichen Ursachen individueller Notlagen, verstehen sich als parteilich für benachteiligte Gruppen, fördern Selbstorganisation und Empowerment und mischen sich sozialpolitisch ein. Adornos Forderung, „daß Auschwitz nicht noch einmal sei“, sei die allererste an Erziehung (Adorno 1966), begründet bis heute die politische Bildung und die Prävention von Antisemitismus und Rechtsextremismus.
+
+::: {.praxis}
+**Für die Praxis heißt das:** Soziale Arbeit ist nie machtfrei. Fachkräfte sollten die eigene Macht gegenüber Adressat:innen reflektieren, die gesellschaftlichen Ursachen von Notlagen benennen und sich nicht darauf beschränken, Menschen an Verhältnisse anzupassen, die sie benachteiligen.
+:::
+
+## 6. Reflexion: Grenzen der Ansätze
+
+Marx' Theorie wurde vielfach kritisiert. Sie neigt zu ökonomischem Determinismus, als ließen sich Kultur, Politik und Bewusstsein vollständig aus der Wirtschaft ableiten. Das Zwei-Klassen-Modell erfasst die Vielfalt heutiger Lebenslagen nur grob (→ Milieus in [Sitzung 8](08-klassen-schichten-milieus.qmd)). Und die erwartete Revolution blieb in den entwickelten Industriegesellschaften aus, auch weil Sozialstaat und Gewerkschaften die Lage der Arbeiter:innen verbessert haben. Der Kritischen Theorie wird ein elitärer Kulturpessimismus vorgeworfen, der Menschen als passive Opfer der Kulturindustrie zeichnet. Beide Ansätze haben zudem Herrschaftsverhältnisse entlang von Geschlecht und Rassismus lange vernachlässigt. Feministische, postkoloniale und intersektionale Ansätze haben diese Lücke später bearbeitet.
+
+::: {.fall}
+Fallbeispiel Mira
+
+Miras Mutter arbeitet als Pflegehelferin im Schichtdienst und ist trotzdem auf ergänzende Leistungen angewiesen. Analysieren Sie diese Situation mit den Begriffen Klasse, Ausbeutung und Entfremdung. Welche Herrschaftsbeziehungen begegnen Mira und ihrer Mutter im Alltag, etwa in Schule, Jobcenter oder Betrieb? Welche Vorstellungen über „Leistung“ und „Erfolg“ wirken dabei als Ideologie?
+:::
+
+## Zur Vertiefung
+
+::: {.callout-tip title="Arbeitsauftrag (Gruppen, 20 Minuten)"}
+Wählen Sie ein aktuelles Berufsfeld mit niedrigen Löhnen (z. B. Pflege, Paketzustellung, Reinigung, Lieferdienste). Beschreiben Sie die Arbeitsbedingungen mit den vier Dimensionen der Entfremdung nach Marx. Welche Folgen haben diese Bedingungen für die Familien der Beschäftigten, und wo kann Soziale Arbeit ansetzen?
+:::
+
+::: {.callout-tip title="Diskussion"}
+1. Ist die Soziale Arbeit eher Teil des Überbaus, der bestehende Verhältnisse stabilisiert, oder eine Kraft der Veränderung?
+2. Inwiefern sind soziale Medien eine heutige Form der Kulturindustrie, und wo greift diese Deutung zu kurz?
+:::
+
+**Zum Weiterlesen:** Adorno, Theodor W. (1966/1971): Erziehung nach Auschwitz. In: Ders.: Erziehung zur Mündigkeit. Frankfurt a. M.: Suhrkamp. · Adorno, Theodor W./Frenkel-Brunswik, Else/Levinson, Daniel J./Sanford, R. Nevitt (1950): The Authoritarian Personality. New York: Harper. · Böhnisch, Lothar/Lösch, Hans (1973): Das Handlungsverständnis des Sozialarbeiters und seine institutionelle Determination. In: Otto, Hans-Uwe/Schneider, Siegfried (Hrsg.): Gesellschaftliche Perspektiven der Sozialarbeit. Bd. 2. Neuwied/Berlin: Luchterhand. · Habermas, Jürgen (1981): Theorie des kommunikativen Handelns. Frankfurt a. M.: Suhrkamp. · Honneth, Axel (1992): Kampf um Anerkennung. Frankfurt a. M.: Suhrkamp. · Horkheimer, Max (1937): Traditionelle und kritische Theorie. In: Zeitschrift für Sozialforschung 6 (2). · Horkheimer, Max/Adorno, Theodor W. (1947): Dialektik der Aufklärung. Amsterdam: Querido. · Marx, Karl (1844/1968): Ökonomisch-philosophische Manuskripte. In: Marx-Engels-Werke, Ergänzungsband 1. Berlin: Dietz. · Marx, Karl (1859): Zur Kritik der politischen Ökonomie. Berlin: Duncker. · Marx, Karl (1867): Das Kapital. Bd. 1. Hamburg: Meißner. · Marx, Karl/Engels, Friedrich (1848): Manifest der Kommunistischen Partei. London. · Weber, Max (1922/1980): Wirtschaft und Gesellschaft. 5. Aufl. Tübingen: Mohr.
