@@ -155,6 +155,14 @@ Alle drei Teile müssen erfolgreich absolviert werden, damit das Portfolio besta
 
 ## Grundlagenliteratur
 
+Das Skript stützt sich auf drei Lehrbücher, die Soziologie gezielt für die Soziale Arbeit aufbereiten. Am Ende jeder Sitzung finden Sie die passenden Kapitel.
+
+- Bendel, Klaus (2020): Soziologie für die Soziale Arbeit. 2., aktualisierte und erweiterte Aufl. Baden-Baden: Nomos. Ein einführender Überblick über soziales Handeln, soziale Beziehungen, Gruppen und Organisationen, Gesellschaft, Familie, Lebensphasen sowie soziale Ungleichheit und Armut.
+- Janßen, Andrea/Götsch, Monika/Dittmann, Jörg (Hrsg.) (2023): Soziologische Grundlagen für die Soziale Arbeit. Grundwissen Soziale Arbeit, Bd. 46. Stuttgart: Kohlhammer. Theorien entlang von Ungleichheitsfragen, jeweils mit einem Abschnitt „Erkenntnisse für die Soziale Arbeit“: von Sozialisation, Systemtheorie, Macht und Kapitalismus über Armut, Migration, Abweichung und Raum bis zu Gender und Intersektionalität.
+- Sander, Tobias/Langer, Andreas (Hrsg.) (2024): Soziale Arbeit und Soziologie. Weinheim/Basel: Beltz Juventa. [Open Access](https://nbn-resolving.org/urn:nbn:de:bsz:31-epflicht-3172166). Ein Sammelband zum Verhältnis beider Disziplinen, mit Beiträgen zu Habitus, sozialer Ungleichheit, Sozialräumen, Bildung, Lebensphasen, Organisation und Profession.
+
+Ergänzend:
+
 - Hurrelmann, Klaus/Bauer, Ullrich (2020): Einführung in die Sozialisationstheorie. Das Modell der produktiven Realitätsverarbeitung. 13. Aufl. Weinheim/Basel: Beltz.
 - Pries, Ludger (2019): Soziologie. Schlüsselbegriffe – Herangehensweisen – Perspektiven. 2. Aufl. Weinheim/Basel: Beltz Juventa.
 - Schäfers, Bernhard (Hrsg.) (2003): Grundbegriffe der Soziologie. Wiesbaden: VS Verlag für Sozialwissenschaften.

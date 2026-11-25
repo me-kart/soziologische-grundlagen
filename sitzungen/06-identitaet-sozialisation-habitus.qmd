@@ -156,4 +156,10 @@ Erläutern Sie an einem selbstgewählten Beispiel, wie sich Persönlichkeit nach
 - [Soziologie studieren: Pierre Bourdieu – Habitus](https://www.youtube.com/watch?v=FREhPtcV6LA) (YouTube-Kanal der Universität Rostock).
 :::
 
+**Grundlagenliteratur zur Sitzung** (vollständige Angaben im [Seminarüberblick](../index.qmd#grundlagenliteratur)):
+
+- Janßen/Götsch/Dittmann 2023, Kap. 1 (Sozialisation und Habitus)
+- Sander/Langer 2024, Beitrag von Becker-Lenz/Müller-Hermann „Habitus und Soziale Arbeit“ (S. 29–44)
+- Bendel 2020, Kap. 7 (Kindheit) und Kap. 8 (Jugend)
+
 **Zum Weiterlesen:** Bourdieu, Pierre (1982): Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft. Frankfurt a. M.: Suhrkamp. · Hurrelmann, Klaus/Bauer, Ullrich (2020): Einführung in die Sozialisationstheorie. 13. Aufl. Weinheim/Basel: Beltz. · Mead, George Herbert (1968): Geist, Identität und Gesellschaft aus der Sicht des Sozialbehaviorismus. Frankfurt a. M.: Suhrkamp. · Pries, Ludger (2019): Soziologie. Schlüsselbegriffe – Herangehensweisen – Perspektiven. 2. Aufl. Weinheim/Basel: Beltz Juventa.

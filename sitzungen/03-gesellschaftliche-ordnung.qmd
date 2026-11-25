@@ -147,4 +147,9 @@ Welche Rollen erfüllt Mira (als Tochter, Schwester, Schülerin, Beschäftigte, 
 2. „Es gibt keine Inklusion ohne Exklusion.“ Was bedeutet das für das Ideal einer inklusiven Gesellschaft?
 :::
 
+**Grundlagenliteratur zur Sitzung** (vollständige Angaben im [Seminarüberblick](../index.qmd#grundlagenliteratur)):
+
+- Janßen/Götsch/Dittmann 2023, Kap. 1.1 (Strukturfunktionalismus: Parsons) und Kap. 2 (Die Gesellschaft aus der Perspektive der Systemtheorie: Luhmann)
+- Bendel 2020, Kap. 5 (Gesellschaft), insbesondere 5.3 (Soziologische Theorien der modernen Gesellschaft)
+
 **Zum Weiterlesen:** Baecker, Dirk (1994): Soziale Hilfe als Funktionssystem der Gesellschaft. In: Zeitschrift für Soziologie 23 (2). · Luhmann, Niklas (1984): Soziale Systeme. Grundriß einer allgemeinen Theorie. Frankfurt a. M.: Suhrkamp. · Luhmann, Niklas (1995): Inklusion und Exklusion. In: Ders.: Soziologische Aufklärung 6. Die Soziologie und der Mensch. Opladen: Westdeutscher Verlag. · Luhmann, Niklas (1997): Die Gesellschaft der Gesellschaft. Frankfurt a. M.: Suhrkamp. · Parsons, Talcott (1951): The Social System. Glencoe: Free Press.

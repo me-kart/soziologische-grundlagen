@@ -129,4 +129,10 @@ Wählen Sie eine Einrichtung der Sozialen Arbeit, die Sie kennen. Was gehört do
 Welche Rollen haben Sie selbst gerade inne? Wo kollidieren sie, und wie gehen Sie damit um?
 :::
 
+**Grundlagenliteratur zur Sitzung** (vollständige Angaben im [Seminarüberblick](../index.qmd#grundlagenliteratur)):
+
+- Bendel 2020, Kap. 3 (Soziale Beziehungen) und Kap. 4 (Gruppen, Netzwerke und Organisationen)
+- Janßen/Götsch/Dittmann 2023, Kap. 6.3 (Stigmatisierung und Stigmamanagement: Goffman)
+- Sander/Langer 2024, Beitrag von Klocke/Stadtmüller zu Sozialkapital im Jugendalter (S. 101 ff.)
+
 **Zum Weiterlesen:** Blumer, Herbert (1969): Symbolic Interactionism. Perspective and Method. Englewood Cliffs: Prentice Hall. · Cooley, Charles H. (1909): Social Organization. New York: Scribner. · Dahrendorf, Ralf (1959): Homo Sociologicus. Köln/Opladen: Westdeutscher Verlag. · Goffman, Erving (1959): The Presentation of Self in Everyday Life. Garden City: Doubleday (dt.: Wir alle spielen Theater). · Goffman, Erving (1961): Encounters. Indianapolis: Bobbs-Merrill. · Goffman, Erving (1963): Stigma. Englewood Cliffs: Prentice Hall. · Sumner, William G. (1906): Folkways. Boston: Ginn. · Tajfel, Henri/Turner, John C. (1979): An Integrative Theory of Intergroup Conflict. In: Austin, William G./Worchel, Stephen (Hrsg.): The Social Psychology of Intergroup Relations. Monterey: Brooks/Cole. · Turner, Ralph H. (1962): Role-Taking: Process versus Conformity. In: Rose, Arnold M. (Hrsg.): Human Behavior and Social Processes. Boston: Houghton Mifflin.

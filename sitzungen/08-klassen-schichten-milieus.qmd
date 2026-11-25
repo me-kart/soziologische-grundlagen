@@ -114,4 +114,9 @@ Recherchieren Sie die aktuelle Darstellung der Sinus-Milieus und ein Schichtmode
 Wo würden Sie Ihre eigene Familie im sozialen Raum verorten? Haben Sie gegenüber Ihren Eltern einen Auf- oder Abstieg erlebt, oder eine horizontale Bewegung?
 :::
 
+**Grundlagenliteratur zur Sitzung** (vollständige Angaben im [Seminarüberblick](../index.qmd#grundlagenliteratur)):
+
+- Bendel 2020, Kap. 10 (Soziale Ungleichheit)
+- Sander/Langer 2024, Beiträge von Schäfer/Schmitt zu Habitus, Herkunft und Reflexivität im Studium der Sozialen Arbeit (S. 68 ff.) und von Lenger/Schumacher zu Lebenswelt und Lebenslage (S. 80 ff.)
+
 **Zum Weiterlesen:** Beck, Ulrich (1986): Risikogesellschaft. Auf dem Weg in eine andere Moderne. Frankfurt a. M.: Suhrkamp. · Bourdieu, Pierre (1982): Die feinen Unterschiede. Kritik der gesellschaftlichen Urteilskraft. Frankfurt a. M.: Suhrkamp. · Dahrendorf, Ralf (1965): Gesellschaft und Demokratie in Deutschland. München: Piper. · Geiger, Theodor (1932): Die soziale Schichtung des deutschen Volkes. Stuttgart: Enke. · Geißler, Rainer (2014): Die Sozialstruktur Deutschlands. 7. Aufl. Wiesbaden: Springer VS. · Hradil, Stefan (2001): Soziale Ungleichheit in Deutschland. 8. Aufl. Opladen: Leske + Budrich. · Schelsky, Helmut (1953): Wandlungen der deutschen Familie in der Gegenwart. Stuttgart: Enke. · Vester, Michael et al. (2001): Soziale Milieus im gesellschaftlichen Strukturwandel. Frankfurt a. M.: Suhrkamp. · Weber, Max (1922/1980): Wirtschaft und Gesellschaft. 5. Aufl. Tübingen: Mohr.
